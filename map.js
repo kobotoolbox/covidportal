@@ -26,7 +26,7 @@ var map = new Datamap({
   geographyConfig: {
     popupTemplate: function(geography, data) {
       return ['<div class = "hoverinfo"><strong>',
-        'Survey Results from ' + geography.properties.name,
+        'Surveys from ' + geography.properties.name,
         ': ' + data.num_surveys,
         '</strong></div>'].join('')
     }
