@@ -32,11 +32,18 @@ var map = new Datamap({
     }
   },
   done: function(datamap) {
-  datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-      window.open("https://en.wikipedia.org/wiki/" +geography.properties.name, "_blank");
-  });
-  window.addEventListener("resize", function() {
-    map.resize();
-  })
-}
+  
+    //on-click function
+    datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+      window.open("https://en.wikipedia.org/wiki/" +geography.properties.name, "_blank");});
+
+    //zoom function
+    datamap.svg.call(d3.behavior.zoom().on("zoom", redraw));
+    function redraw() {
+      datamap.svg.selectAll("g").attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")");
+      }
+    }
+});
+window.addEventListener("resize", function() {
+  map.resize();
 });
