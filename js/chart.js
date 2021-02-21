@@ -35,7 +35,7 @@ set_vars();
 function drawGraphic() {
 
 //reading the data (.csv)
-d3.csv("https://raw.githubusercontent.com/BrandonToushan/Datasets/master/test_data_simple.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/test_data.csv", function(data) {
 console.log(data)
 
 var graphData = data
