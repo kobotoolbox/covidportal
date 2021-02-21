@@ -1,0 +1,41 @@
+/* The sidenav */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 100;
+  left: 0;
+  background-color: #343c44;
+  overflow-x: hidden;
+  padding-top: 10px;
+  text-align: center;
+}
+
+/* Page content */
+.main {
+  margin-left: 0px; /* Same as the width of the sidenav */
+}
+
+#container {
+  max-width: 400px;
+  max-height: 150px;
+  position; absolute;
+  padding-left:125px;
+  padding-right:250px;
+  text-align: center;
+}
+
+.image-container {
+  max-width: 400px;
+  max-height: 150px;
+  position; absolute;
+  margin-left: 200px;
+  margin-right: auto;
+  text-align: center;
+}
+
+.metadata {
+  padding-left: 110px;
+  padding-top: 10px;
+}
