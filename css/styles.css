@@ -54,3 +54,9 @@
   padding-top: auto;
   padding-bottom: auto;
 }
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #52C4F4;
+  border-color: #52C4F4;
+}
