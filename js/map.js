@@ -1,13 +1,14 @@
 var map = new Datamap({
-  element: document.getElementById("container"),
+  element: document.getElementById("map"),
   projection: 'mercator',
   responsive: true,
   fills:
   {
-    defaultFill: '#479FF6',
-    HIGH: '#6BCAD6',
-    MEDIUM: '#F86678',
-    LOW: '#4B4E5E'
+    defaultFill: '#C8DCE7',
+    EXTRA_HIGH: '#2B5487',
+    HIGH: '#008DC9',
+    MEDIUM: '#5CC6F2',
+    LOW: '#90DEFF',
   },
   data: {
     COD: {
@@ -21,6 +22,10 @@ var map = new Datamap({
     BRA: {
       fillKey: 'LOW',
       num_surveys: 1
+    },
+    IND: {
+      fillKey: 'EXTRA_HIGH',
+      num_surveys: 7
     }
   },
   geographyConfig: {
