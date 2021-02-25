@@ -39,3 +39,18 @@
   padding-left: 110px;
   padding-top: 10px;
 }
+
+#map {
+  background: #F1FAFF;
+}
+
+.btn-primary {
+  color: #52C4F4;
+  background-color: #FFFFFF;
+  border-color: #52C4F4;
+  border: auto;
+  padding-left: 2px;
+  padding-right: 4px;
+  padding-top: auto;
+  padding-bottom: auto;
+}
