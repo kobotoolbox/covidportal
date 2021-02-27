@@ -10,6 +10,7 @@
   <title>Landing Page - WHO COVID-19 Perception Research Portal</title>
 
   <!-- Bootstrap core CSS -->
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">  
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   
   <!-- Custom CSS -->
@@ -23,12 +24,16 @@
     <a class="navbar-brand" href="https://www.who.int"/>
       <img src="https://raw.githubusercontent.com/kobotoolbox/covidportal/main/img/who_logo.png">
     </a>
-    <form class="form-inline">
-      <div class="md-form">
-        <input class="form-control" type="text" placeholder="Search for a report">
-      </div>
-      <button class="btn btn-primary" type="submit"><b>EXPLORE</b></button>
-    </form>
+      <form class = "form-inline">
+    <div class="input-group">
+        <input class="form-control" type="search" placeholder="Search for a report">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary border-left-0 border" type="button">
+                  <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </div>
+  </form>  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
