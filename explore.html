@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Header -->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <title>Landing Page - WHO COVID-19 Perception Research Portal</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href = "css/styles.css" rel = "stylesheet">
+
+
+</head>
+<body>
+
+  <!-- Navigation -->
+  <!-- search not in navbar collapse -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light static-top">
+    <a class="navbar-brand" href="https://www.who.int/">
+      <img src="https://raw.githubusercontent.com/kobotoolbox/covidportal/main/img/who_logo.png">
+    </a>
+    <form class = "form-inline">
+    <div class="input-group">
+        <input class="form-control" type="search" placeholder="Search for a report">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary border-left-0 border" type="button">
+                  <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </div>
+  </form>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item-active">
+        <a class="nav-link" href="#about">ABOUT</a>
+        </li>
+        <li class="nav-item-active">
+          <a class="nav-link" href="#technial_guidance">TECHNICAL GUIDANCE</a>
+        </li>
+        <li class="nav-item">
+          <button class="btn btn-primary" type="submit"><b>CONTRIBUTE DATA</b></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Page Content -->
+<map>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+  <script src="https://datamaps.github.io/scripts/0.5.0/datamaps.world.min.js"></script>
+    <div id="map" style="position: relative;"></div>
+    <script src="js/map.js"></script>
+</map>
+
+<about>
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12 text-center">
+      <h1 class="mt-5" id = "about">ABOUT</h1>
+      <p class="lead">Perceptions of Healthcare Workers regarding local infection prevention and control procedures for COVID-19</p>
+    </div>
+  </div>
+</div>
+</about>
+
+<technical>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5" id="technial_guidance">TECHNICAL GUIDANCE</h1>
+        <p class="lead">Perceptions of Healthcare Workers regarding local infection prevention and control procedures for COVID-19</p>
+      </div>
+    </div>
+  </div>
+</technical>
+
+<contribute>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5" id ="contribute_data">CONTRIBUTE DATA</h1>
+        <p class="lead">Perceptions of Healthcare Workers regarding local infection prevention and control procedures for COVID-19</p>
+      </div>
+    </div>
+  </div>
+</contribute>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.slim.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
