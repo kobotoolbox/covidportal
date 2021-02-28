@@ -4,25 +4,27 @@
 <!-- Header -->
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"
   <meta name="description" content="">
   <meta name="author" content="">
   <title>Landing Page - WHO COVID-19 Perception Research Portal</title>
 
-  <!-- Bootstrap core + Custom CSS -->
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href = "css/styles.css" rel = "stylesheet"> 
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">   
+  <link href = "css/styles.css" rel = "stylesheet">
+
+
 </head>
-  
 <body>
 
   <!-- Navigation -->
+  <!-- search not in navbar collapse -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light static-top">
-    <a class="navbar-brand" href="https://www.who.int"/>
+    <a class="navbar-brand" href="https://www.who.int/">
       <img src="https://raw.githubusercontent.com/kobotoolbox/covidportal/main/img/who_logo.png">
     </a>
-      <form class = "form-inline">
+    <form class = "form-inline">
     <div class="input-group">
         <input class="form-control" type="search" placeholder="Search for a report">
         <div class="input-group-append">
@@ -31,7 +33,7 @@
             </button>
         </div>
     </div>
-  </form>  
+  </form>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -50,14 +52,16 @@
     </div>
   </div>
 </nav>
-  
-  <!-- Page Content -->
+
+<!-- Page Content -->
 <map>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
-  <script src="https://datamaps.github.io/scripts/0.5.0/datamaps.world.min.js"></script>
-    <div id="map" style="position: relative;"></div>
-    <script src="js/map.js"></script>
+<div class="w3-container" style="position: relative;">
+  <img src = "img/map.png">
+  <div class="centered">
+    <center><h1>Welcome to the COVID-19 </br> Global Data Portal</h1></center>
+    <center><button> Explore the Data </button><center>
+  </div>
+</div>
 </map>
 
 <about>
