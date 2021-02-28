@@ -60,3 +60,23 @@
   background-color: #52C4F4;
   border-color: #52C4F4;
 }
+
+/* Styles for wrapping the search box */
+
+.main {
+    width: 50%;
+    margin: 50px auto;
+}
+
+.w3-container img {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
