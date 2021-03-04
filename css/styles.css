@@ -17,8 +17,9 @@
 }
 
 #container {
-  width: 60%;
+  width: 70%;
   height: 100%;
+  padding-left: 25%;
 }
 
 .image-container {
