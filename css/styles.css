@@ -16,6 +16,13 @@
   margin-left: 0px; /* Same as the width of the sidenav */
 }
 
+#container {
+  width: 75%;
+  height: 100%;
+  padding-left: 25%;
+
+}
+
 .image-container {
   max-width: 400px;
   max-height: 150px;
