@@ -56,7 +56,7 @@ console.log(graphData)
    .attr("y",0)
    .attr("height", height)
    .attr("width", width + 10)
-   .style("fill", "#EBEBEB");
+   .style("fill", "#F1FAFF");
 
   //extracting subgroups
   var subgroups = data.columns.slice(2)
