@@ -64,8 +64,8 @@ console.log(graphData)
   //extracting groups
   var groups = d3.map(data, function(d){return(d.response)}).keys()
 
-  //defining color palette (KoBo default)
-  var colors = ['#479FF6', '#6BCAD6', '#F86678', '#4B4E5E','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
+  //defining color palette (WHO)
+  var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#C8DCE7','#ACAFC5','#D3D5E2','#EBEDF4']
 
   //defining color scale
   var color = d3.scaleOrdinal()
