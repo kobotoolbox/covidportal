@@ -1,5 +1,5 @@
 // Set default width and height, calculate ratio
-var default_width = 600;
+var default_width = 800;
 var default_height = 200;
 var default_ratio = default_width / default_height;
 
