@@ -1,6 +1,6 @@
 // Set default width and height, calculate ratio
 var default_width = 800;
-var default_height = 200;
+var default_height = 300;
 var default_ratio = default_width / default_height;
 
 // set the dimensions and margins of the graph
@@ -194,7 +194,7 @@ console.log(graphData)
     .attr("transform", "rotate(-90)")
     .attr("y", 0 - 40)
     .attr("x",0 - (height / 2))
-    .attr("dy", "1em")
+    .attr("dy", "2em")
     .attr("text-anchor", "middle")
     .style("font-size", "1.5vw")
     .style("text-decoration", "underline")
