@@ -105,11 +105,9 @@ console.log(graphData)
   .style("opacity", 0.9)
   .attr("class", "tooltip")
   .style("background-color", '#EBEBEB')
-  .style("border", "solid")
-  .style("border-width", "1px")
-  .style("border-radius", "2px")
   .style("padding", "2px")
   .style("position", "absolute")
+  .style("font-size", "1vw")  
 
   //defining mouseover, mousemove and mouseout functions
     var mouseover = function(d) {
@@ -179,7 +177,7 @@ console.log(graphData)
         .attr("x", (width / 2))
         .attr("y", 8 - (margin.top / 2))
         .attr("text-anchor", "middle")
-        .style("font-size", "16px")
+        .style("font-size", "1vw")
         .style("text-decoration", "underline")
         .text("Question 1");
 
@@ -187,7 +185,7 @@ console.log(graphData)
   svg.append("text")
   .attr("transform","translate(" + (width/2) + " ," + (height + 25) + ")")
   .attr("text-anchor", "middle")
-  .style("font-size", "16px")
+  .style("font-size", "1vw")
   .style("text-decoration", "underline")
   .text("Response");
 
@@ -198,7 +196,7 @@ console.log(graphData)
     .attr("x",0 - (height / 2))
     .attr("dy", "1em")
     .attr("text-anchor", "middle")
-    .style("font-size", "16px")
+    .style("font-size", "1vw")
     .style("text-decoration", "underline")
     .text("Value (%)");
 
