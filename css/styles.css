@@ -1,14 +1,13 @@
 /* The sidenav */
 .sidenav {
   height: 100%;
-  width: 200px;
+  width: 25%;
   position: fixed;
   z-index: 1;
   top: 100;
   left: 0;
-  background-color: #343c44;
+  background-color: #F2F7FA;
   overflow-x: hidden;
-  padding-top: 10px;
   text-align: center;
 }
 
@@ -18,12 +17,9 @@
 }
 
 #container {
-  max-width: 400px;
-  max-height: 150px;
-  position; absolute;
-  padding-left:125px;
-  padding-right:250px;
-  text-align: center;
+  width: 60%;
+  height: 100%;
+  margin:0 auto;
 }
 
 .image-container {
