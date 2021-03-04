@@ -65,7 +65,7 @@ console.log(graphData)
   var groups = d3.map(data, function(d){return(d.response)}).keys()
 
   //defining color palette (WHO)
-  var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#C8DCE7','#ACAFC5','#D3D5E2','#EBEDF4']
+  var colors = []
 
   //defining color scale
   var color = d3.scaleOrdinal()
