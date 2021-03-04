@@ -65,8 +65,8 @@ console.log(graphData)
   var groups = d3.map(data, function(d){return(d.response)}).keys()
 
   //defining color palette (WHO)
-  var colors = []
-
+  var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
+  
   //defining color scale
   var color = d3.scaleOrdinal()
     .domain(subgroups)
@@ -177,7 +177,7 @@ console.log(graphData)
         .attr("x", (width / 2))
         .attr("y", 8 - (margin.top / 2))
         .attr("text-anchor", "middle")
-        .style("font-size", "1vw")
+        .style("font-size", "1.5vw")
         .style("text-decoration", "underline")
         .text("Question 1");
 
@@ -185,7 +185,7 @@ console.log(graphData)
   svg.append("text")
   .attr("transform","translate(" + (width/2) + " ," + (height + 25) + ")")
   .attr("text-anchor", "middle")
-  .style("font-size", "1vw")
+  .style("font-size", "1.5vw")
   .style("text-decoration", "underline")
   .text("Response");
 
@@ -196,7 +196,7 @@ console.log(graphData)
     .attr("x",0 - (height / 2))
     .attr("dy", "1em")
     .attr("text-anchor", "middle")
-    .style("font-size", "1vw")
+    .style("font-size", "1.5vw")
     .style("text-decoration", "underline")
     .text("Value (%)");
 
