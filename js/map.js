@@ -40,7 +40,7 @@ var map = new Datamap({
 
 //on-click function
     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-      window.open("https://en.wikipedia.org/wiki/" +geography.properties.name, "_blank");});
+      window.open("https://github.com/kobotoolbox/covidportal/blob/main/data/" +geography.properties.name + "_Data_1.csv");});
 
 //zoom function
     datamap.svg.call(d3.behavior.zoom().on("zoom", redraw));
