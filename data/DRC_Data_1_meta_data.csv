@@ -1,4 +1,4 @@
-﻿Item,Information,Details,
+Item,Information,Details,
 Organization,HHI,N/A,
 Country,DRC,N/A,
 Other_Location_Details,Kinshasa,Region_City_Etc,
@@ -7,5 +7,4 @@ End_Date,14-Mar-21,N/A,
 Methodology,Demographic,N/A,
 Participants,Healthcare Professionals,N/A,
 Sample_Size,1167,N/A,
-Description,COVID-19 Survey,N/A,
-,,,
+Description,COVID-19 Survey,N/A
