@@ -13,19 +13,19 @@ var map = new Datamap({
   data: {
     COD: {
       fillKey: 'HIGH',
-      num_surveys: 3
+      num_surveys: 1
     },
     USA: {
       fillKey: 'MEDIUM',
-      num_surveys: 2
+      num_surveys: 1
     },
-    BRA: {
+    FRA: {
       fillKey: 'LOW',
       num_surveys: 1
     },
-    IND: {
+    LES: {
       fillKey: 'EXTRA_HIGH',
-      num_surveys: 7
+      num_surveys: 1
     }
   },
   geographyConfig: {
