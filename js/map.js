@@ -23,7 +23,7 @@ var map = new Datamap({
       fillKey: 'LOW',
       num_surveys: 1
     },
-    LES: {
+    LSO: {
       fillKey: 'EXTRA_HIGH',
       num_surveys: 1
     }
