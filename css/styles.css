@@ -16,10 +16,11 @@
   margin-left: 0px; /* Same as the width of the sidenav */
 }
 
-#container {
-  width: 75%;
-  height: 100%;
-  padding-left: 25%;
+.container {
+  position: absolute;
+  padding: 10px;
+  left: 27.5%;
+  max-width: 70%;
 
 }
 
