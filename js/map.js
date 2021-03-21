@@ -40,7 +40,7 @@ var map = new Datamap({
 
 //on-click function
     datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
-      window.open(geography.properties.name + "_landing_page.html");});
+      window.open("landing_pages/" + geography.properties.name + "_landing_page.html");});
 
 //zoom function
     datamap.svg.call(d3.behavior.zoom().on("zoom", redraw));
