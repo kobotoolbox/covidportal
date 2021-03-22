@@ -17,8 +17,7 @@
 }
 
 .container {
-  position: absolute;
-  padding: 10px;
+  position: sticky;
   left: 27.5%;
   max-width: 70%;
 
