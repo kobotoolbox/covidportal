@@ -180,8 +180,8 @@ console.log(graphData)
         .attr("text-anchor", "middle")
         .style("font-size", "1.5vw")
         .style("text-decoration", "underline")
-        .text(question);
-
+        .text(question + " (" + group + ")");
+    
   //text label for the x axis
   svg.append("text")
   .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
