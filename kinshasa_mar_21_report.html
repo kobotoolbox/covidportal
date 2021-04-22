@@ -63,29 +63,31 @@
   <!-- Page Content -->
 <body>
   <script src="https://d3js.org/d3.v4.min.js"></script>
-  <div id = "container" class = "table-container"></div>
+  <div id = "container" class = "table-container">
+  <div style = "display: inline;">
+  <br>
+  <button class="btn btn-primary" onclick="location.href='kinshasa_mar_21_report.html'" type="submit"><b>TOTAL RESPONSES</b></button>
+  <button class="btn btn-primary" onclick="location.href='kinshasa_mar_21_report_agg.html'" type="submit"><b>AGGREGATED RESPONSES</b></button>
+  <br><br>
     <script src="js/bar.js"></script>
     <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/DRC/Dummy_Data/kinshasa_mar_21.csv" </script>
-    <h4> Group 1 </h4>
-    <h3> Question 1 </h3>
-    <script> drawGraphic('Group_1','Question_1') </script>
-    <h3> Question 2 </h3>
-    <script> drawGraphic('Group_1','Question_2') </script>
-    <script> drawGraphic('Group_1','Question_3') </script>
-    <script> drawGraphic('Group_1','Question_4') </script>
-    <script> drawGraphic('Group_2','Question_1') </script>
-    <script> drawGraphic('Group_2','Question_2') </script>
-    <script> drawGraphic('Group_2','Question_3') </script>
-    <script> drawGraphic('Group_2','Question_4') </script>
-    <script> drawGraphic('Group_3','Question_1') </script>
-    <script> drawGraphic('Group_3','Question_2') </script>
-    <script> drawGraphic('Group_3','Question_3') </script>
-    <script> drawGraphic('Group_3','Question_4') </script>
-    <script> drawGraphic('Group_4','Question_1') </script>
-    <script> drawGraphic('Group_4','Question_2') </script>
-    <script> drawGraphic('Group_4','Question_3') </script>
+    <script> drawGraphic('Group_1','Question_1','Total') </script>
+    <script> drawGraphic('Group_1','Question_2','Total') </script>
+    <script> drawGraphic('Group_1','Question_3','Total') </script>
+    <script> drawGraphic('Group_1','Question_4','Total') </script>
+    <script> drawGraphic('Group_2','Question_1','Total') </script>
+    <script> drawGraphic('Group_2','Question_2','Total') </script>
+    <script> drawGraphic('Group_2','Question_3','Total') </script>
+    <script> drawGraphic('Group_2','Question_4','Total') </script>
+    <script> drawGraphic('Group_3','Question_1','Total') </script>
+    <script> drawGraphic('Group_3','Question_2','Total') </script>
+    <script> drawGraphic('Group_3','Question_3','Total') </script>
+    <script> drawGraphic('Group_3','Question_4','Total') </script>
+    <script> drawGraphic('Group_4','Question_1','Total') </script>
+    <script> drawGraphic('Group_4','Question_2','Total') </script>
+    <script> drawGraphic('Group_4','Question_3','Total') </script>
+  </div>
 </body>
-
 
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
