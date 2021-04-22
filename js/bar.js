@@ -11,7 +11,6 @@ var margin = {top: 30, right: 125, bottom: 30, left: 125};
       //alert('setting vars')
       current_width = window.innerWidth*0.75;
       current_height = window.innerHeight;
-
       current_ratio = current_width*1.333 / current_height;
 
       // Check if height is limiting factor
@@ -32,7 +31,7 @@ height = h - margin.top - margin.bottom;
 
 set_vars();
 
-function drawGraphic(group,question) {
+function drawGraphic(group,question,agg) {
 
 //reading the data (.csv)
 d3.csv(csv, function(data) {
@@ -59,8 +58,19 @@ console.log(graphData)
    .attr("width", width + 10)
    .style("fill", "#F1FAFF");
 
-  //extracting subgroups
-  var subgroups = data.columns.slice(2)
+  //extracting subgroups (aggregating)
+  if (agg == "Total")
+  {
+    var subgroups = [data.columns.slice(2)[1]]
+  }
+  if (agg == "Aggregated")
+  {
+    var subset = data.columns.slice(2)
+    subset.shift()
+    subset.shift()
+    var subgroups = subset
+  }
+  console.log(subgroups)
 
   //extracting groups
   var groups = d3.map(graphData, function(d){return(d.response)}).keys()
@@ -181,7 +191,7 @@ console.log(graphData)
         .style("font-size", "1.5vw")
         .style("text-decoration", "underline")
         .text(question + " (" + group + ")");
-    
+
   //text label for the x axis
   svg.append("text")
   .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
