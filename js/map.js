@@ -26,6 +26,14 @@ var map = new Datamap({
     LSO: {
       fillKey: 'EXTRA_HIGH',
       num_surveys: 1
+    },
+    GTM: {
+      fillKey: 'EXTRA_HIGH',
+      num_surveys: 1
+    },
+    UGA: {
+      fillKey: 'EXTRA_HIGH',
+      num_surveys: 1
     }
   },
   geographyConfig: {
