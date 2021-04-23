@@ -1,0 +1,980 @@
+﻿group,question,response,value,Region 1,Region II,Region III,Region IV,Region V,Region VI,Region VII,Region VIII
+Demographics,Gender,% male,0.5,0.51,0.5,0.5,0.5,0.5,0.5,0.5,0.51
+Demographics,Gender,% female,0.5,0.49,0.5,0.5,0.5,0.5,0.5,0.5,0.49
+Demographics,Age groups,<25,0.18,0.15,0.22,0.16,0.14,0.16,0.19,0.22,0.24
+Demographics,Age groups,25 - 49,0.53,0.49,0.59,0.5,0.51,0.55,0.53,0.58,0.46
+Demographics,Age groups,50 - 64,0.2,0.19,0.16,0.25,0.23,0.22,0.2,0.16,0.19
+Demographics,Age groups,>64,0.09,0.17,0.03,0.09,0.12,0.07,0.08,0.04,0.11
+Demographics,Marital status,"Single, never married",0.22,0.27,0.24,0.17,0.19,0.21,0.23,0.23,0.16
+Demographics,Marital status,Married / living with partner,0.48,0.36,0.56,0.49,0.48,0.5,0.49,0.53,0.49
+Demographics,Marital status,Married living apart from your spouse,0.04,0.09,0.02,0.03,0.02,0.03,0.02,0.02,0.04
+Demographics,Marital status,United,0.18,0.16,0.14,0.24,0.24,0.2,0.18,0.17,0.25
+Demographics,Marital status,Divorced / separated,0.01,0.03,0.01,0.02,0.01,0,0.01,0,0.01
+Demographics,Marital status,Widow(er),0.06,0.09,0.03,0.05,0.06,0.06,0.07,0.05,0.05
+Demographics,Relation to household head,self,0.46,0.5,0.39,0.51,0.47,0.5,0.43,0.45,0.46
+Demographics,Relation to household head,Spouse of the head,0.28,0.24,0.28,0.29,0.31,0.27,0.28,0.31,0.36
+Demographics,Relation to household head,Child of the head,0.18,0.16,0.24,0.16,0.19,0.15,0.2,0.17,0.14
+Demographics,Relation to household head,Father / mother of the head,0.05,0.06,0.05,0,0.01,0.05,0.06,0.05,0.01
+Demographics,Relation to household head,Other,0.04,0.05,0.04,0.04,0.03,0.03,0.03,0.02,0.04
+Demographics,Education,read / write (% yes),0.84,0.93,0.78,0.79,0.84,0.87,0.82,0.78,0.82
+Demographics,Education,Level - % None,0.17,0.07,0.23,0.21,0.2,0.12,0.17,0.23,0.22
+Demographics,Education,Level - % Primary incomplete,0.24,0.16,0.18,0.29,0.29,0.25,0.29,0.25,0.28
+Demographics,Education,Level - % Primary complete,0.2,0.2,0.18,0.21,0.2,0.24,0.21,0.18,0.18
+Demographics,Education,Level - % At least some secondary or higher,0.39,0.58,0.41,0.29,0.32,0.39,0.34,0.34,0.32
+Demographics,Home language,K'iche,0.08,0.02,0,0,0,0.01,0.19,0.2,0.01
+Demographics,Home language,Kaqchiquel,0.03,0.02,0,0,0,0.14,0.03,0,0
+Demographics,Home language,Mam,0.03,0,0,0,0,0,0.06,0.11,0
+Demographics,Home language,Q'eqchi,0.05,0,0.38,0.04,0,0,0,0,0.28
+Demographics,Home language,Other indigenous,0.02,0.01,0.06,0,0,0,0.01,0.07,0.01
+Demographics,Home language,Spanish/Castallano,0.74,0.95,0.48,0.94,1,0.84,0.7,0.37,0.71
+Demographics,Home language,Other non-indigenous,0,0,0,0.01,0,0,0,0,0
+Demographics,Home language,Achi,0.01,0,0.08,0,0,0,0,0,0
+Demographics,Home language,Ixil,0.02,0,0,0,0,0,0,0.16,0
+Demographics,Home language,Qanjobal,0.01,0,0,0,0,0,0,0.08,0
+Demographics,Group of origin,Mayan - K'iche,0.13,0.05,0.01,0,0,0.02,0.26,0.38,0.02
+Demographics,Group of origin,Mayan - Q'eqchi,0.07,0,0.5,0.04,0,0,0,0,0.28
+Demographics,Group of origin,Mayan - Kaqchikel,0.06,0.08,0,0,0,0.25,0.05,0,0.01
+Demographics,Group of origin,Mayan - Mam,0.04,0,0,0,0,0,0.08,0.12,0
+Demographics,Group of origin,Mayan - Other,0.05,0.01,0.12,0.01,0.01,0.02,0.02,0.2,0.01
+Demographics,Group of origin,Non Mayan - Garifuna,0,0,0,0,0,0,0,0,0
+Demographics,Group of origin,Non Mayan - Xinka,0,0,0,0,0.02,0,0,0,0
+Demographics,Group of origin,Mixed,0.11,0.12,0.07,0.09,0.29,0.13,0.1,0.01,0.09
+Demographics,Group of origin,Latino,0.5,0.7,0.25,0.81,0.64,0.51,0.41,0.25,0.58
+Demographics,Group of origin,Non Indigenous,0.04,0.04,0.02,0.01,0.02,0.05,0.07,0.02,0.01
+Demographics,Group of origin,Achi,0,0,0.03,0,0,0,0,0.01,0
+Demographics,Group of origin,Chorti,0,0,0,0.03,0,0,0,0,0
+Demographics,Group of origin,"Other, specify",0.01,0,0.01,0,0,0,0.01,0.01,0.01
+Demographics,Group of origin (recoded),Indigenous,0.36,0.15,0.67,0.09,0.04,0.3,0.42,0.71,0.33
+Demographics,Group of origin (recoded),Other,0.1,0.12,0.07,0.09,0.3,0.13,0.1,0.01,0.09
+Demographics,Group of origin (recoded),Ladino,0.53,0.73,0.26,0.82,0.66,0.57,0.48,0.27,0.59
+Demographics,Documented,Residence (% yes),0.98,0.96,0.96,0.98,0.99,0.98,0.99,0.98,0.98
+Dwelling,Dwelling structure,House,0.96,0.88,1,0.99,0.97,0.96,0.98,1,0.99
+Dwelling,Dwelling structure,Apartment,0.02,0.1,0,0,0,0,0,0,0
+Dwelling,Dwelling structure,Room in a larger house,0,0,0,0,0,0.01,0,0,0
+Dwelling,Dwelling structure,Ranch or farm,0,0,0,0,0.02,0.01,0,0,0
+Dwelling,Dwelling structure,Makeshift house,0.01,0.01,0,0,0,0.02,0.01,0,0.01
+Dwelling,Dwelling structure,"Other, specify",0,0.01,0,0,0.01,0,0,0,0.01
+Dwelling,Dwelling owned,% yes,0.84,0.65,0.91,0.88,0.83,0.88,0.89,0.91,0.88
+Dwelling,Wall material,Bricks,0.02,0.05,0.01,0,0.01,0.01,0.01,0.01,0.01
+Dwelling,Wall material,Block,0.6,0.83,0.44,0.61,0.49,0.57,0.62,0.49,0.37
+Dwelling,Wall material,Concrete,0.06,0.05,0,0.02,0.1,0.28,0.01,0,0.09
+Dwelling,Wall material,Adobe,0.14,0.04,0.11,0.2,0.31,0.03,0.15,0.26,0.04
+Dwelling,Wall material,Wood,0.16,0.01,0.44,0.09,0.07,0.06,0.17,0.24,0.47
+Dwelling,Wall material,Metal sheets,0.02,0.03,0.01,0,0.01,0.05,0.03,0,0.02
+Dwelling,Wall material,Cane or sticks,0,0,0.01,0.02,0,0,0.01,0,0.01
+Dwelling,Wall material,Wattle and daub,0.01,0,0,0.07,0.01,0,0,0,0
+Dwelling,Wall material,"Other, specify",0,0,0,0,0,0,0,0,0
+Dwelling,Services,Water system,0.85,0.97,0.75,0.89,0.86,0.81,0.83,0.84,0.75
+Dwelling,Services,A drainage system,0.54,0.9,0.21,0.42,0.47,0.57,0.49,0.5,0.23
+Dwelling,Services,An electical energy system,0.9,0.99,0.76,0.89,0.9,0.96,0.94,0.8,0.7
+Dwelling,Services,A telephone line,0.15,0.37,0.07,0.11,0.09,0.12,0.09,0.1,0.08
+Dwelling,Services,Internet,0.14,0.37,0.06,0.11,0.07,0.09,0.08,0.09,0.05
+Livelihood and Wealth,Activity (last month),Public sector office work,0.03,0.02,0.02,0.06,0.02,0.03,0.04,0.03,0.02
+Livelihood and Wealth,Activity (last month),Private sector Office Work,0.05,0.09,0.04,0.04,0.04,0.06,0.03,0.03,0.03
+Livelihood and Wealth,Activity (last month),Studying (Student),0.04,0.05,0.05,0.02,0.03,0.04,0.04,0.03,0.02
+Livelihood and Wealth,Activity (last month),Housework,0.32,0.27,0.33,0.34,0.35,0.31,0.34,0.31,0.35
+Livelihood and Wealth,Activity (last month),Free time,0.01,0.02,0,0,0.01,0,0,0,0.02
+Livelihood and Wealth,Activity (last month),Unemployed,0.04,0.06,0.01,0.02,0.03,0.06,0.04,0.02,0.02
+Livelihood and Wealth,Activity (last month),"Informal work or little jobs ""trabajitos""",0.09,0.13,0.08,0.06,0.08,0.05,0.09,0.08,0.07
+Livelihood and Wealth,Activity (last month),peddling,0.02,0.03,0.01,0.01,0.01,0.04,0.01,0.01,0.02
+Livelihood and Wealth,Activity (last month),trade,0.15,0.19,0.15,0.12,0.12,0.13,0.14,0.15,0.12
+Livelihood and Wealth,Activity (last month),Agricultural Work,0.18,0.05,0.19,0.25,0.23,0.19,0.19,0.28,0.25
+Livelihood and Wealth,Activity (last month),Ill,0,0,0,0,0,0,0,0.01,0.01
+Livelihood and Wealth,Activity (last month),Healthcare worker,0,0,0.01,0,0,0.01,0,0,0
+Livelihood and Wealth,Activity (last month),Retired,0.02,0.02,0.01,0.03,0.02,0.02,0.01,0.01,0.02
+Livelihood and Wealth,Activity (last month),Contruction,0.02,0.02,0.03,0.01,0.02,0.02,0.01,0.01,0.01
+Livelihood and Wealth,Activity (last month),Teacher,0.01,0.01,0.02,0,0.01,0,0.01,0.02,0
+Livelihood and Wealth,Activity (last month),Security sector,0,0,0.01,0.01,0,0.01,0,0,0.01
+Livelihood and Wealth,Activity (last month),Domestic worker,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+Livelihood and Wealth,Activity (last month),Driver,0.01,0.01,0.03,0,0,0.01,0,0,0.01
+Livelihood and Wealth,Activity (last month),Business owner,0.01,0.01,0,0,0,0,0.01,0.01,0.01
+Livelihood and Wealth,Activity (last month),"Religious actitivites (pastor,...)",0,0,0.01,0,0,0.01,0,0,0.01
+Livelihood and Wealth,Activity (last month),"Other, specify",0,0.01,0,0,0,0,0,0,0.01
+Livelihood and Wealth,Main household activity,Earnings from crop harvest,0.16,0.1,0.14,0.13,0.13,0.2,0.15,0.25,0.22
+Livelihood and Wealth,Main household activity,Single earner salary,0.3,0.35,0.21,0.31,0.38,0.32,0.29,0.24,0.32
+Livelihood and Wealth,Main household activity,Two salaries or more,0.17,0.18,0.2,0.13,0.18,0.15,0.16,0.18,0.11
+Livelihood and Wealth,Main household activity,Income from daily wages,0.11,0.11,0.12,0.17,0.1,0.1,0.11,0.08,0.1
+Livelihood and Wealth,Main household activity,Informal Work or little jobs,0.08,0.07,0.13,0.09,0.05,0.07,0.1,0.07,0.06
+Livelihood and Wealth,Main household activity,Remittances,0.01,0.02,0.01,0.01,0.01,0.01,0.02,0.01,0.02
+Livelihood and Wealth,Main household activity,Own Business,0.15,0.14,0.17,0.12,0.12,0.13,0.16,0.17,0.15
+Livelihood and Wealth,Main household activity,Retired,0.01,0.02,0.01,0.02,0.01,0,0.01,0,0.02
+Livelihood and Wealth,Main household activity,Supported by children,0,0,0.01,0.01,0,0,0.01,0,0.01
+Livelihood and Wealth,Main household activity,Donations / government support,0.01,0.01,0,0.01,0,0,0,0.01,0.01
+Livelihood and Wealth,Main household activity,"Other, specify",0,0.01,0,0,0,0,0,0,0
+Livelihood and Wealth,Asset wealth,poorest (%),0.3,0.3,0.33,0.29,0.3,0.3,0.27,0.34,0.31
+Livelihood and Wealth,Asset wealth,middle (%),0.33,0.3,0.37,0.34,0.34,0.35,0.33,0.3,0.28
+Livelihood and Wealth,Asset wealth,richest (%),0.37,0.4,0.3,0.37,0.35,0.35,0.4,0.36,0.41
+Livelihood and Wealth,Change in income over past year,More,0.1,0.11,0.09,0.11,0.09,0.11,0.11,0.09,0.11
+Livelihood and Wealth,Change in income over past year,Same,0.62,0.69,0.64,0.58,0.68,0.59,0.6,0.56,0.54
+Livelihood and Wealth,Change in income over past year,Less,0.28,0.2,0.28,0.31,0.23,0.29,0.3,0.35,0.35
+Livelihood and Wealth,Change in income over next year,More,0.29,0.34,0.23,0.28,0.21,0.29,0.33,0.23,0.25
+Livelihood and Wealth,Change in income over next year,Same,0.59,0.56,0.67,0.6,0.68,0.57,0.53,0.67,0.54
+Livelihood and Wealth,Change in income over next year,Less,0.12,0.1,0.1,0.13,0.11,0.14,0.14,0.11,0.21
+Information,Main source of information,None,0.03,0.03,0.04,0.01,0.04,0.04,0.03,0.03,0.01
+Information,Main source of information,"Friends, neighbor",0.08,0.07,0.11,0.08,0.05,0.06,0.08,0.06,0.12
+Information,Main source of information,Radio,0.26,0.24,0.25,0.27,0.22,0.26,0.25,0.34,0.22
+Information,Main source of information,Television,0.53,0.53,0.47,0.55,0.58,0.55,0.55,0.47,0.54
+Information,Main source of information,Internet / social media,0.04,0.06,0.05,0.03,0.05,0.04,0.03,0.04,0.04
+Information,Main source of information,Newspapers,0.06,0.07,0.06,0.04,0.06,0.05,0.06,0.06,0.08
+Information,Main source of information,Municipality / local leaders,0,0,0.01,0,0,0,0,0,0
+Information,Main source of information,The Sunday mass,0,0,0,0,0,0,0,0,0
+Information,Main source of information,Cellphone,0,0,0,0.01,0,0,0,0,0
+Information,Main source of information,"Other, specify",0,0,0,0,0,0,0,0,0
+Information,Main source of information,no response,0,0,0.01,0,0,0,0,0,0
+Information,Other sources of information,None,0.15,0.14,0.19,0.08,0.17,0.17,0.15,0.15,0.16
+Information,Other sources of information,"Friends, neighbor",0.22,0.19,0.29,0.27,0.12,0.23,0.24,0.18,0.2
+Information,Other sources of information,Radio,0.36,0.35,0.34,0.55,0.41,0.36,0.33,0.34,0.24
+Information,Other sources of information,Television,0.29,0.28,0.29,0.47,0.38,0.29,0.24,0.25,0.25
+Information,Other sources of information,Internet / social media,0.11,0.13,0.08,0.13,0.09,0.11,0.11,0.08,0.1
+Information,Other sources of information,Newspapers,0.29,0.29,0.28,0.35,0.28,0.26,0.31,0.24,0.24
+Information,Other sources of information,Municipality / local leaders,0.01,0.01,0,0.01,0.02,0,0.01,0,0
+Information,Other sources of information,The Sunday mass,0.01,0,0.01,0.01,0,0.01,0.01,0.01,0.02
+Information,Other sources of information,Cellphone,0,0,0,0.01,0,0,0,0,0.01
+Information,Other sources of information,Text message,0,0.01,0,0,0,0,0,0,0.01
+Information,Other sources of information,"Other, specify",0,0,0,0,0,0,0,0,0
+Information,Other sources of information,no response,0.01,0.01,0.01,0,0.01,0.01,0.01,0.01,0
+Information,Level of information (% llittle - none),News / events in your community,0.32,0.32,0.35,0.37,0.29,0.27,0.34,0.26,0.54
+Information,Level of information (% llittle - none),News / events in the department,0.4,0.33,0.47,0.37,0.38,0.42,0.42,0.4,0.56
+Information,Level of information (% llittle - none),News / events in the country,0.3,0.29,0.37,0.3,0.29,0.31,0.31,0.24,0.37
+Information,Level of information (% llittle - none),The security situation,0.38,0.39,0.39,0.43,0.38,0.37,0.4,0.29,0.46
+Information,Level of information (% llittle - none),Development projects that may affect your community?,0.52,0.58,0.45,0.55,0.55,0.44,0.5,0.51,0.63
+Information,Level of information (% llittle - none),Local politics,0.51,0.53,0.59,0.59,0.5,0.4,0.51,0.47,0.6
+Information,Level of information (% llittle - none),National politics,0.52,0.5,0.63,0.62,0.57,0.42,0.52,0.47,0.49
+Information,Freedom of information (% little - not free),Talk openly about politics,0.5,0.48,0.58,0.54,0.51,0.41,0.54,0.42,0.63
+Information,Freedom of information (% little - not free),Talk openly about what happened during the war,0.58,0.56,0.69,0.62,0.57,0.57,0.6,0.51,0.63
+Information,Freedom of information (% little - not free),Talk openly about corruption,0.34,0.31,0.39,0.35,0.37,0.27,0.4,0.28,0.4
+Information,Freedom of information (% little - not free),"Organize protest march, demonstration",0.62,0.61,0.71,0.67,0.64,0.52,0.64,0.54,0.78
+Social Cohesion,Relationships (% good - very good),Relationships with your family?,0.89,0.89,0.92,0.89,0.88,0.9,0.88,0.9,0.86
+Social Cohesion,Relationships (% good - very good),Relationships with neighbors?,0.83,0.87,0.78,0.82,0.84,0.85,0.81,0.84,0.77
+Social Cohesion,Relationships (% good - very good),Relationships with the people in the community in general,0.77,0.82,0.72,0.77,0.79,0.81,0.73,0.8,0.71
+Social Cohesion,Engagement in selected activities,Community meeting,0.52,0.52,0.56,0.52,0.52,0.58,0.5,0.5,0.48
+Social Cohesion,Engagement in selected activities,"Cultural, recreational and sporting events",0.46,0.49,0.37,0.43,0.47,0.5,0.45,0.48,0.38
+Social Cohesion,Engagement in selected activities,Marches and demonstrations,0.13,0.13,0.13,0.12,0.14,0.13,0.13,0.15,0.12
+Social Cohesion,Engagement in selected activities,Community events to improve security in the streets and parks,0.3,0.36,0.25,0.31,0.32,0.37,0.23,0.31,0.22
+Social Cohesion,Engagement in selected activities,Events of political groups or parties,0.23,0.21,0.16,0.18,0.24,0.28,0.24,0.27,0.18
+Social Cohesion,Engagement in selected activities,Events to improve or build communal public works and maintain public spaces,0.3,0.33,0.22,0.3,0.3,0.37,0.27,0.31,0.31
+Social Cohesion,Engagement in selected activities,Voluntary collective work groups,0.46,0.5,0.4,0.49,0.48,0.52,0.4,0.48,0.49
+Social Cohesion,Engagement in selected activities,Church activity,0.78,0.79,0.79,0.76,0.79,0.81,0.76,0.77,0.76
+Social Cohesion,Engagement in selected activities,Neighborhood Patrol and Surveillance,0.11,0.12,0.08,0.14,0.12,0.2,0.07,0.1,0.11
+Social Cohesion,Association membership,None,0.76,0.75,0.72,0.85,0.82,0.74,0.77,0.71,0.71
+Social Cohesion,Association membership,Religious Organization,0.13,0.14,0.21,0.05,0.06,0.12,0.14,0.13,0.15
+Social Cohesion,Association membership,Veterans,0,0,0,0,0,0,0,0,0.01
+Social Cohesion,Association membership,"Sporting, social, or recreational club",0.01,0.02,0.01,0.01,0.01,0.01,0.01,0.02,0.02
+Social Cohesion,Association membership,"Artistic, musical, or cultural organization",0.01,0.01,0,0.01,0.01,0.01,0.01,0.01,0.02
+Social Cohesion,Association membership,Political group/party,0.01,0.01,0.01,0,0.01,0,0.01,0.01,0.01
+Social Cohesion,Association membership,Cooperation (agriculture/work),0.02,0.02,0.01,0.01,0.01,0.02,0.01,0.02,0.02
+Social Cohesion,Association membership,Organization security or surveillance,0,0,0,0,0,0,0,0.01,0
+Social Cohesion,Association membership,Health organization,0.01,0.01,0,0.01,0.01,0.01,0.01,0,0.01
+Social Cohesion,Association membership,Women's group,0.02,0.01,0.02,0.01,0.04,0.03,0.02,0.02,0.02
+Social Cohesion,Association membership,NGOs,0.01,0,0.01,0,0.01,0.01,0,0.01,0
+Social Cohesion,Association membership,COCODES,0.04,0.03,0.04,0.03,0.04,0.06,0.04,0.04,0.07
+Social Cohesion,Association membership,"Community Improvement Committee (Water, Sanitation, Education, Electricity)",0.01,0,0.01,0.01,0.01,0.02,0.01,0.01,0.02
+Social Cohesion,Association membership,"Other, specify",0,0,0,0,0,0,0,0,0
+Social Cohesion,Number of meetings in the last month,0,0.77,0.77,0.72,0.86,0.83,0.75,0.78,0.75,0.71
+Social Cohesion,Number of meetings in the last month,1,0.05,0.07,0.02,0.04,0.04,0.05,0.04,0.07,0.04
+Social Cohesion,Number of meetings in the last month,2,0.05,0.04,0.03,0.01,0.04,0.06,0.04,0.07,0.1
+Social Cohesion,Number of meetings in the last month,3+,0.13,0.12,0.23,0.09,0.1,0.14,0.14,0.11,0.16
+Social Cohesion,Support frequency (% rarely - never),Friends or neighbors turn to you for advice,0.55,0.49,0.65,0.52,0.56,0.57,0.58,0.53,0.56
+Social Cohesion,Support frequency (% rarely - never),Receive help from your friends or neighbors,0.54,0.53,0.56,0.51,0.52,0.51,0.57,0.52,0.69
+Social Cohesion,Support frequency (% rarely - never),Help your friends or neighbors,0.37,0.32,0.48,0.44,0.41,0.27,0.39,0.32,0.44
+Social Cohesion,Support frequency (% rarely - never),People work together on projects in this community?,0.28,0.25,0.32,0.28,0.27,0.25,0.3,0.26,0.46
+Social Cohesion,Means to improve relations in community,More communication,0.6,0.6,0.7,0.68,0.66,0.56,0.57,0.58,0.5
+Social Cohesion,Means to improve relations in community,Tolerance,0.27,0.27,0.24,0.27,0.23,0.27,0.29,0.32,0.25
+Social Cohesion,Means to improve relations in community,Listen to opinions,0.29,0.26,0.31,0.39,0.4,0.25,0.28,0.29,0.25
+Social Cohesion,Means to improve relations in community,Organize events,0.16,0.16,0.14,0.21,0.18,0.19,0.17,0.13,0.11
+Social Cohesion,Means to improve relations in community,Promote work / help the economy,0.1,0.08,0.11,0.1,0.19,0.15,0.08,0.07,0.13
+Social Cohesion,Means to improve relations in community,Help the poor,0.05,0.07,0.03,0.07,0.1,0.05,0.03,0.03,0.05
+Social Cohesion,Means to improve relations in community,Unity,0.09,0.09,0.08,0.06,0.07,0.08,0.1,0.07,0.16
+Social Cohesion,Means to improve relations in community,Training/Education/Make aware,0.01,0.02,0.01,0.01,0.02,0.01,0.01,0.02,0.01
+Social Cohesion,Means to improve relations in community,Good leaders,0.03,0.02,0.04,0.02,0.03,0.04,0.04,0.05,0.02
+Social Cohesion,Means to improve relations in community,Friendship/Harmony/Companionship,0.01,0,0.01,0.01,0.01,0.01,0.02,0.01,0.02
+Social Cohesion,Means to improve relations in community,Organization/Teamwork/Collaboration,0.04,0.05,0.04,0.03,0.02,0.04,0.03,0.04,0.04
+Social Cohesion,Means to improve relations in community,Support from authorities (Economic support/Donations),0.02,0.01,0.01,0,0.01,0.02,0.03,0.03,0
+Social Cohesion,Means to improve relations in community,Trust/Honesty/Transparency,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0
+Social Cohesion,Means to improve relations in community,Love,0,0,0.01,0.01,0,0,0,0,0
+Social Cohesion,Means to improve relations in community,Willpower/Desire to imrpove,0.02,0.02,0.02,0.01,0.02,0.01,0.02,0.02,0.02
+Social Cohesion,Means to improve relations in community,"Other, specify",0.02,0.02,0.01,0.02,0.02,0.03,0.02,0.02,0.02
+Social Cohesion,Means to improve relations in community,No response,0.05,0.03,0.05,0.03,0.04,0.05,0.04,0.09,0.04
+Social Cohesion,Who is responsible for improving relations in community,Myself,0.3,0.3,0.29,0.43,0.32,0.26,0.23,0.36,0.27
+Social Cohesion,Who is responsible for improving relations in community,The church,0.06,0.11,0.03,0.07,0.06,0.07,0.05,0.03,0.07
+Social Cohesion,Who is responsible for improving relations in community,La Escuela (los profesores),0.01,0.01,0,0.01,0.01,0,0,0,0.02
+Social Cohesion,Who is responsible for improving relations in community,Individual leaders,0.22,0.28,0.27,0.19,0.14,0.2,0.22,0.22,0.12
+Social Cohesion,Who is responsible for improving relations in community,Community elected organization,0.37,0.38,0.32,0.43,0.34,0.48,0.34,0.37,0.29
+Social Cohesion,Who is responsible for improving relations in community,NGOs,0.02,0.02,0,0.01,0.01,0.03,0.01,0.02,0.01
+Social Cohesion,Who is responsible for improving relations in community,City / Municipality Government,0.3,0.28,0.29,0.29,0.34,0.31,0.3,0.29,0.27
+Social Cohesion,Who is responsible for improving relations in community,Departmental government,0.04,0.06,0.05,0.05,0.03,0.02,0.03,0.02,0.04
+Social Cohesion,Who is responsible for improving relations in community,National government,0.05,0.05,0.05,0.07,0.06,0.05,0.05,0.04,0.07
+Social Cohesion,Who is responsible for improving relations in community,Cocodes,0.18,0.15,0.17,0.13,0.22,0.09,0.22,0.25,0.15
+Social Cohesion,Who is responsible for improving relations in community,Asssistant Mayor,0,0,0.01,0,0.01,0,0,0,0
+Social Cohesion,Who is responsible for improving relations in community,Everone/entire community,0.04,0.05,0.06,0.03,0.04,0.03,0.05,0.03,0.06
+Social Cohesion,Who is responsible for improving relations in community,Women/Women's groups,0,0,0,0,0.01,0,0,0.01,0
+Social Cohesion,Who is responsible for improving relations in community,Indigenous authority/indigenous leaders,0,0,0,0,0,0,0,0,0
+Social Cohesion,Who is responsible for improving relations in community,Civil Society organizations,0,0,0,0,0,0,0,0,0
+Social Cohesion,Who is responsible for improving relations in community,Youth,0,0,0,0,0,0,0,0,0
+Social Cohesion,Who is responsible for improving relations in community,Nobody,0,0,0,0,0,0,0,0,0
+Social Cohesion,Who is responsible for improving relations in community,"Other, specify",0,0,0.01,0.01,0.01,0,0,0,0.01
+Social Cohesion,Who is responsible for improving relations in community,No response,0.04,0.02,0.05,0.05,0.04,0.05,0.04,0.07,0.05
+Social Cohesion,Social media,Use (% yes),0.25,0.29,0.19,0.26,0.22,0.3,0.25,0.22,0.27
+Social Cohesion,Social media,Role in organziing groups in your community (% a lot - extreme),0.17,0.21,0.12,0.19,0.19,0.2,0.15,0.19,0.11
+Equality,Experience of unfair treatment,Any experience,0.21,0.19,0.22,0.2,0.23,0.23,0.2,0.24,0.15
+Equality,Experience of unfair treatment,Social status,0.05,0.06,0.07,0.07,0.06,0.07,0.04,0.04,0.02
+Equality,Experience of unfair treatment,Political affiliation,0.02,0.02,0.03,0.01,0.02,0.02,0.03,0.03,0.01
+Equality,Experience of unfair treatment,Religion,0.02,0.02,0.02,0.03,0.01,0.02,0.01,0.02,0.04
+Equality,Experience of unfair treatment,Language,0,0,0.01,0,0,0,0,0,0.01
+Equality,Experience of unfair treatment,Sexual orientation,0,0,0,0,0,0,0,0,0
+Equality,Experience of unfair treatment,Race/ethical group,0.02,0.03,0.02,0.01,0.01,0.02,0.01,0.02,0.01
+Equality,Experience of unfair treatment,Disability,0,0,0,0,0,0,0,0.01,0.01
+Equality,Experience of unfair treatment,Age,0.01,0.02,0.01,0.02,0.01,0.01,0.01,0,0
+Equality,Experience of unfair treatment,For being divorced,0.01,0,0.01,0,0.01,0.01,0.01,0,0
+Equality,Experience of unfair treatment,Because of my job,0.03,0.03,0.03,0.05,0.04,0.03,0.02,0.03,0.02
+Equality,Experience of unfair treatment,Gender inequalities,0.02,0,0.05,0.01,0.03,0.02,0.02,0.02,0.02
+Equality,Experience of unfair treatment,I don't know,0.01,0,0,0.01,0.03,0.01,0.01,0.01,0
+Equality,Experience of unfair treatment,Envy,0.02,0.03,0.02,0.01,0.01,0.02,0.01,0.04,0.02
+Equality,Experience of unfair treatment,Gossip,0.01,0,0.01,0.01,0,0.01,0.01,0.01,0.01
+Equality,Experience of unfair treatment,Water/land/natural resource issues,0,0,0,0.01,0,0,0,0.01,0.01
+Equality,Experience of unfair treatment,Alcohol,0,0,0,0,0,0,0,0,0
+Equality,Experience of unfair treatment,Being from a different place,0.01,0.01,0.01,0,0,0,0.01,0.01,0.01
+Equality,Experience of unfair treatment,Single mother,0,0,0,0,0,0,0,0,0.01
+Equality,Experience of unfair treatment,"For giving advice, opinions, disagreements",0.02,0.02,0.01,0.01,0.01,0.02,0.02,0.02,0.01
+Equality,Experience of unfair treatment,Issues with children/family,0.01,0.01,0,0,0.01,0,0.01,0.02,0.01
+Equality,Experience of unfair treatment,Had been/is in a position of auhority (member of COCODE or committee),0.01,0,0.01,0,0,0,0,0.01,0.01
+Equality,Experience of unfair treatment,For participation in projects in the community,0,0.01,0,0,0.01,0,0,0,0.01
+Equality,Experience of unfair treatment,"Other, specify",0.01,0.01,0.01,0.01,0.01,0.02,0.01,0.01,0.01
+Equality,Experience of unfair treatment,No response,0.01,0,0.01,0,0.01,0,0.01,0,0.01
+Equality,Perception of equality (% agree),"Everyone has equal access to health services regardless of ethnicity, tribal identity, religion, or other factor",0.71,0.6,0.78,0.67,0.79,0.78,0.71,0.75,0.71
+Equality,Perception of equality (% agree),"Everyone has equal access to education services regardless of ethnicity, tribal identity, religion, or other factor",0.76,0.67,0.8,0.75,0.84,0.83,0.76,0.79,0.81
+Equality,Perception of equality (% agree),"Everyone has equal rights to land ownership regardless of ethnicity, tribal identity, religion, or other factor",0.8,0.74,0.89,0.73,0.82,0.85,0.8,0.82,0.82
+Equality,Perception of equality (% agree),Everyone has equal rights to land ownership regardless of gender,0.86,0.82,0.91,0.83,0.86,0.89,0.86,0.89,0.88
+Equality,Perception of equality (% agree),"Everyone has equal access to justice regardless of ethnicity, tribal identity, religion, or other factor",0.76,0.68,0.86,0.76,0.78,0.79,0.76,0.76,0.81
+Equality,Perception of equality (% agree),Everyone has equal access to justice regardless of gender,0.78,0.7,0.86,0.77,0.78,0.8,0.8,0.83,0.81
+Equality,Perception of equality (% agree),"Everyone has equal access to public administration services, regardless of ethnicity, tribal identity, religion, or other factor",0.72,0.66,0.82,0.68,0.74,0.8,0.71,0.71,0.74
+Equality,Perception of equality (% agree),People should be treated the same whether or not they go to church,0.96,0.96,0.97,0.95,0.95,0.96,0.97,0.96,0.95
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",None,0.78,0.79,0.78,0.73,0.75,0.79,0.78,0.78,0.78
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",People of different ethnic groups do not get along,0.08,0.09,0.09,0.1,0.09,0.09,0.07,0.07,0.07
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",People of different religious backgrounds are not welcomed into the community,0.14,0.13,0.13,0.2,0.17,0.13,0.13,0.15,0.16
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",People of different ethnic groups do not interact,0.03,0.03,0.03,0.06,0.04,0.03,0.04,0.03,0.04
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",Criticims/Discrimination/Anger/Envy,0.01,0,0.01,0.01,0.01,0.01,0.02,0.01,0
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",Different political beliefs,0,0,0,0,0,0,0,0,0.01
+Social relations and trust,"Problems related to customs, traditions or religious beliefs",Other,0.01,0.01,0.02,0.01,0.01,0,0.01,0,0.01
+Social relations and trust,Frequency of interaction with other cultural or religious groups,% rarely - never,0.21,0.21,0.23,0.28,0.18,0.17,0.22,0.19,0.29
+Social relations and trust,Group distance (% comfortable),Living in the same neighborhood or municipality,0.79,0.82,0.75,0.84,0.79,0.85,0.77,0.74,0.79
+Social relations and trust,Group distance (% comfortable),Living in the same house,0.56,0.61,0.51,0.68,0.6,0.61,0.48,0.55,0.51
+Social relations and trust,Group distance (% comfortable),Sharing food,0.81,0.86,0.71,0.87,0.84,0.86,0.79,0.75,0.8
+Social relations and trust,Group distance (% comfortable),Working together,0.85,0.86,0.81,0.9,0.88,0.91,0.83,0.8,0.82
+Social relations and trust,Group distance (% comfortable),Going to the same market,0.88,0.9,0.83,0.91,0.91,0.93,0.88,0.84,0.85
+Social relations and trust,Group distance (% comfortable),Drinking together,0.57,0.65,0.44,0.54,0.5,0.6,0.57,0.52,0.66
+Social relations and trust,Group distance (% comfortable),Going to the same church,0.8,0.81,0.81,0.8,0.86,0.81,0.8,0.74,0.83
+Social relations and trust,Group distance (% comfortable),Would you feel alright if someone from another culture or religion married someone in your home?,0.64,0.66,0.61,0.66,0.58,0.69,0.63,0.69,0.46
+Social relations and trust,Group distance (% comfortable),Going to the same school as your children,0.85,0.9,0.77,0.86,0.86,0.88,0.81,0.86,0.82
+Social relations and trust,Trust (% little - none),The police,0.55,0.59,0.57,0.57,0.49,0.5,0.57,0.47,0.6
+Social relations and trust,Trust (% little - none),Media,0.25,0.26,0.23,0.27,0.23,0.26,0.26,0.21,0.29
+Social relations and trust,Trust (% little - none),The Military,0.35,0.32,0.46,0.44,0.34,0.37,0.36,0.27,0.31
+Social relations and trust,Trust (% little - none),City / Municipality Government,0.46,0.47,0.55,0.53,0.45,0.42,0.45,0.42,0.5
+Social relations and trust,Trust (% little - none),Departmental government,0.59,0.61,0.65,0.66,0.59,0.56,0.57,0.54,0.7
+Social relations and trust,Trust (% little - none),National government,0.74,0.77,0.76,0.77,0.68,0.7,0.74,0.68,0.85
+Social relations and trust,Trust (% little - none),Cocodes,0.28,0.31,0.28,0.32,0.32,0.22,0.3,0.23,0.33
+Social relations and trust,Trust (% little - none),The Insitution for Human Rights in Guatemala,0.35,0.37,0.43,0.48,0.39,0.32,0.31,0.26,0.42
+Social relations and trust,Trust (% little - none),Indienous Authority,0.26,0.3,0.27,0.38,0.31,0.2,0.24,0.13,0.38
+Social relations and trust,Trust (% little - none),The Catholic Church,0.07,0.09,0.04,0.09,0.06,0.06,0.09,0.05,0.1
+Social relations and trust,Trust (% little - none),Schools,0.1,0.12,0.08,0.07,0.06,0.09,0.1,0.09,0.15
+Social relations and trust,Trust (% little - none),Judges in Guatemala,0.38,0.39,0.39,0.47,0.36,0.36,0.41,0.29,0.47
+Social relations and trust,Trust (% little - none),Justice in general in Guatemala,0.48,0.49,0.52,0.54,0.44,0.45,0.51,0.38,0.58
+Social relations and trust,Trust (% little - none),Neighborhood Patrol (community Patrol),0.27,0.28,0.33,0.31,0.32,0.21,0.28,0.19,0.36
+Social relations and trust,Trust (% little - none),Business owners,0.48,0.44,0.54,0.59,0.54,0.45,0.48,0.41,0.54
+Social relations and trust,Perception of trust (% agree),"In this neighborhood/municipality, people don't trust each other",0.45,0.49,0.4,0.46,0.39,0.45,0.46,0.41,0.45
+Social relations and trust,Perception of trust (% agree),"In this neighborhood/municipality, most people are ready to help each other if needed",0.72,0.69,0.73,0.66,0.79,0.8,0.74,0.7,0.69
+Governance,Contact with authorities,None,0.81,0.82,0.82,0.86,0.78,0.75,0.81,0.79,0.8
+Governance,Contact with authorities,Mayor,0.13,0.12,0.11,0.1,0.15,0.17,0.13,0.12,0.12
+Governance,Contact with authorities,Governor,0.02,0.03,0.02,0.02,0.02,0.01,0.01,0.02,0.02
+Governance,Contact with authorities,Local community autorities,0.06,0.05,0.07,0.04,0.06,0.08,0.05,0.07,0.05
+Governance,Contact with authorities,Courts (Judges),0.01,0,0.01,0,0.01,0.01,0.01,0.02,0.02
+Governance,Contact with authorities,The police,0.01,0.01,0.01,0.01,0,0,0.01,0.02,0.01
+Governance,Contact with authorities,Military,0,0,0,0,0,0,0,0,0
+Governance,Contact with authorities,RENAP (National registry of persons),0,0,0,0,0.01,0.01,0,0,0
+Governance,Contact with authorities,Other national ministries,0.01,0.01,0,0.01,0.01,0.01,0.01,0.01,0.02
+Governance,Contact with authorities,"Other, specify",0,0,0.01,0,0,0,0,0,0.01
+Governance,Reason for contact,No contact,0.81,0.82,0.82,0.86,0.78,0.75,0.81,0.79,0.8
+Governance,Reason for contact,A formal request,0.14,0.12,0.12,0.11,0.17,0.18,0.14,0.15,0.12
+Governance,Reason for contact,Seeking help or intervention,0.05,0.05,0.07,0.04,0.06,0.06,0.05,0.07,0.07
+Governance,Reason for contact,For work,0.01,0.01,0,0.01,0.01,0.01,0.01,0.02,0.01
+Governance,Reason for contact,Friendship/Informal visit,0,0,0,0,0,0,0,0.01,0.02
+Governance,Reason for contact,"Other, specify",0,0,0.01,0,0,0,0,0,0
+Governance,Work in your best interesdt (% little - not at all),The president,0.8,0.82,0.84,0.85,0.74,0.83,0.8,0.75,0.82
+Governance,Work in your best interesdt (% little - not at all),Congress,0.85,0.87,0.85,0.86,0.8,0.85,0.86,0.79,0.88
+Governance,Work in your best interesdt (% little - not at all),Other nationally elected officials,0.83,0.86,0.84,0.86,0.79,0.81,0.82,0.76,0.86
+Governance,Work in your best interesdt (% little - not at all),The department authorities,0.78,0.82,0.8,0.83,0.75,0.8,0.76,0.7,0.84
+Governance,Work in your best interesdt (% little - not at all),The municipality authorities,0.53,0.56,0.53,0.54,0.49,0.5,0.54,0.5,0.59
+Governance,Work in your best interesdt (% little - not at all),The police,0.61,0.67,0.64,0.62,0.55,0.68,0.6,0.49,0.67
+Governance,Work in your best interesdt (% little - not at all),The Military,0.54,0.52,0.65,0.61,0.49,0.6,0.51,0.47,0.56
+Governance,Work in your best interesdt (% little - not at all),Indigenous Authority,0.38,0.42,0.43,0.49,0.37,0.37,0.36,0.27,0.47
+Governance,Work in your best interesdt (% little - not at all),Judges in Guatemala,0.57,0.6,0.6,0.64,0.53,0.67,0.56,0.41,0.63
+Governance,Performance of government (% bad - very bad),Fighting Corruption,0.65,0.7,0.67,0.67,0.63,0.62,0.63,0.62,0.64
+Governance,Performance of government (% bad - very bad),Reducing Poverty,0.76,0.8,0.74,0.76,0.74,0.76,0.74,0.75,0.78
+Governance,Performance of government (% bad - very bad),Increasing Employment,0.79,0.82,0.74,0.8,0.76,0.8,0.78,0.78,0.83
+Governance,Performance of government (% bad - very bad),The resolution of the conflicts,0.72,0.74,0.7,0.7,0.7,0.71,0.7,0.75,0.69
+Governance,Performance of government (% bad - very bad),Reducing crimes,0.75,0.78,0.74,0.77,0.74,0.74,0.74,0.73,0.76
+Governance,Performance of government (% bad - very bad),Guarantees justice?,0.68,0.66,0.67,0.69,0.61,0.71,0.69,0.7,0.7
+Governance,Performance of government (% bad - very bad),Helping the population,0.68,0.66,0.66,0.71,0.55,0.73,0.68,0.7,0.75
+Governance,Governance perception (% agree),Municipality leaders sometimes fuel conflicts,0.55,0.66,0.42,0.53,0.45,0.5,0.56,0.53,0.57
+Governance,Governance perception (% agree),Nationally elected leaders sometimes fuel conflicts,0.73,0.75,0.75,0.72,0.71,0.65,0.75,0.73,0.71
+Governance,Governance perception (% agree),The Church sometimes fuels conflicts,0.24,0.3,0.15,0.23,0.25,0.19,0.26,0.21,0.24
+Governance,Governance perception (% agree),People should not protest when leaders make decision they disagree with,0.28,0.25,0.28,0.31,0.26,0.27,0.29,0.33,0.27
+Governance,Governance perception (% agree),Politicians from all parties have the opportunity to debate policies,0.81,0.83,0.8,0.85,0.79,0.85,0.81,0.74,0.86
+Governance,Governance perception (% agree),Having politicians with diverging ideas / opinions is good for the country,0.77,0.8,0.73,0.73,0.74,0.81,0.77,0.74,0.81
+Governance,Governance perception (% agree),Opposition politicians are only trying to create conflicts,0.57,0.54,0.54,0.59,0.59,0.57,0.63,0.53,0.61
+Governance,Governance perception (% agree),"In this country, corruption is widespread in the government",0.9,0.88,0.9,0.9,0.87,0.92,0.9,0.94,0.92
+Elections,Registered to vote?,% yes,0.89,0.9,0.87,0.89,0.9,0.9,0.91,0.87,0.89
+Elections,"If not, why not?",Did not know how to register,0.09,0.07,0,0.13,0.07,0.2,0.07,0.1,0.06
+Elections,"If not, why not?",I don't care about politics,0.23,0.15,0.26,0.29,0.25,0.21,0.12,0.39,0.24
+Elections,"If not, why not?",I don't trust politicians,0.09,0.07,0.2,0.13,0.07,0.07,0.11,0.04,0
+Elections,"If not, why not?",I was prevented to register,0.11,0.07,0.17,0.13,0.18,0.1,0.14,0.03,0.17
+Elections,"If not, why not?",Sickness/disability,0.1,0.15,0.17,0.13,0.07,0.02,0.1,0,0.17
+Elections,"If not, why not?",I was scared,0.02,0.07,0,0.03,0.04,0,0,0,0.06
+Elections,"If not, why not?",I did not understand what it is,0.02,0,0,0.03,0.07,0.02,0.02,0,0
+Elections,"If not, why not?",Influenced by someone,0,0,0,0.03,0,0,0,0,0
+Elections,"If not, why not?",I was travelling,0.14,0.19,0.21,0.07,0.18,0.24,0.12,0.03,0.17
+Elections,"If not, why not?",Too far from registration,0.05,0.15,0,0.06,0.04,0,0.07,0,0
+Elections,"If not, why not?",Too young,0.02,0,0,0,0.04,0.05,0.06,0,0
+Elections,"If not, why not?",working/no time,0.09,0.04,0.09,0.06,0.07,0.02,0.09,0.22,0.11
+Elections,"If not, why not?",lost documents/cannot register (foreign),0.16,0.22,0.11,0.13,0.14,0.1,0.15,0.19,0.17
+Elections,"If not, why not?","Other, specify",0,0,0,0,0,0,0.01,0,0.06
+Elections,"If not, why not?",No response,0.01,0,0,0.03,0,0,0.02,0,0.06
+Elections,Voted last national elections?,% yes,0.8,0.79,0.8,0.81,0.82,0.83,0.82,0.77,0.79
+Elections,"If not, why not?",Not registered,0.55,0.51,0.65,0.54,0.55,0.58,0.53,0.56,0.5
+Elections,"If not, why not?",Did not know how to vote,0.01,0,0.03,0.02,0.02,0,0.01,0.02,0.03
+Elections,"If not, why not?",I don't care about politics,0.04,0.09,0,0.02,0.06,0,0.04,0.04,0.03
+Elections,"If not, why not?",I don't trust politicians,0.06,0.08,0.01,0.07,0.08,0.06,0.04,0.06,0.08
+Elections,"If not, why not?",I was prevented to vote,0.05,0.02,0.04,0.04,0.1,0.07,0.02,0.09,0.03
+Elections,"If not, why not?",Sickness/disability,0.11,0.08,0.11,0.11,0.1,0.08,0.12,0.13,0.17
+Elections,"If not, why not?",I was scared,0.01,0,0,0.02,0,0.06,0.01,0,0.03
+Elections,"If not, why not?",I did not understand what it is,0,0,0,0.02,0,0,0,0,0
+Elections,"If not, why not?",Influenced by someone,0.01,0.04,0,0,0,0.01,0.01,0,0.03
+Elections,"If not, why not?",I was travelling,0.04,0.09,0,0.05,0.02,0.03,0.05,0.02,0
+Elections,"If not, why not?",Too far from polling station,0.05,0.06,0.06,0.05,0.06,0.07,0.06,0.03,0.03
+Elections,"If not, why not?",Too young,0,0,0,0,0,0,0.01,0,0.03
+Elections,"If not, why not?",working/no time,0.02,0,0,0.04,0.06,0.03,0.04,0,0.06
+Elections,"If not, why not?",lost documents/cannot register (foreign),0.07,0.08,0.08,0.07,0.06,0.07,0.07,0.06,0.11
+Elections,"If not, why not?","Other, specify",0.01,0,0,0.02,0,0,0.03,0.03,0
+Elections,Vote next elections?,% yes,0.81,0.8,0.81,0.82,0.83,0.83,0.83,0.76,0.82
+Elections,"If not, why not?",Not registered,0.7,0.63,0.76,0.7,0.74,0.76,0.7,0.72,0.75
+Elections,"If not, why not?",Do not know how to vote,0,0,0,0.02,0,0,0,0,0.04
+Elections,"If not, why not?",Forgot to register,0.02,0.02,0,0.02,0.03,0.02,0.01,0.02,0.04
+Elections,"If not, why not?",No electoral card,0.03,0.02,0.03,0.05,0,0.02,0.04,0.05,0
+Elections,"If not, why not?",I don't care about politics,0.05,0.12,0.08,0.05,0.05,0,0.05,0,0.04
+Elections,"If not, why not?",I don't trust politicians,0.11,0.16,0.11,0.12,0.05,0.15,0.1,0.07,0.13
+Elections,"If not, why not?",I am prevented from voting,0.03,0,0.06,0.05,0.08,0.02,0.02,0.05,0
+Elections,"If not, why not?",Sickness/disability,0.02,0,0,0.02,0,0,0.05,0.05,0.08
+Elections,"If not, why not?",I am scared,0,0,0,0,0,0,0,0,0
+Elections,"If not, why not?",Influenced by someone,0.01,0.02,0,0,0,0,0,0,0
+Elections,"If not, why not?",I am travelling,0.01,0.02,0,0,0,0,0,0,0
+Elections,"If not, why not?",Too far from polling station,0.05,0.09,0,0,0.05,0.02,0.06,0.02,0.04
+Elections,"If not, why not?",I don't know,0,0,0,0.02,0,0,0,0,0
+Elections,"If not, why not?","Other, specify",0.01,0,0,0,0.03,0,0.02,0,0
+Elections,"If not, why not?",No response,0,0,0,0,0,0,0.01,0,0
+Resilience,Control (% little - none),K03. Choosing what you want to do with your life,0.05,0.03,0.06,0.06,0.05,0.04,0.08,0.05,0.04
+Resilience,Control (% little - none),K04. Your life in general,0.05,0.03,0.05,0.06,0.07,0.03,0.07,0.05,0.04
+Resilience,Control (% little - none),K05. Your security,0.13,0.1,0.14,0.18,0.17,0.11,0.17,0.08,0.07
+Resilience,Control (% little - none),K06. Decisions made in the community by the leaders,0.74,0.75,0.81,0.7,0.74,0.67,0.76,0.71,0.8
+Resilience,Control (% little - none),K07. Decisions made by deparmtent authorities,0.93,0.95,0.95,0.89,0.92,0.9,0.93,0.95,0.95
+Resilience,Control (% little - none),K08. Las decisiones de la alcaldÃ­a,0.9,0.91,0.92,0.84,0.91,0.87,0.89,0.93,0.93
+Resilience,Control (% little - none),K09. National policies,0.94,0.97,0.95,0.91,0.94,0.92,0.94,0.94,0.96
+Resilience,Resilience (% true),You are able to adapt to change,0.53,0.62,0.48,0.49,0.58,0.56,0.51,0.4,0.74
+Resilience,Resilience (% true),You can deal with whatever comes,0.47,0.52,0.39,0.45,0.52,0.5,0.48,0.35,0.59
+Resilience,Resilience (% true),You see the humorous side of things,0.43,0.44,0.44,0.47,0.49,0.46,0.43,0.36,0.35
+Resilience,Resilience (% true),Coping with stress strengthens you,0.61,0.7,0.56,0.59,0.64,0.61,0.59,0.53,0.62
+Resilience,Resilience (% true),You bounce back after illness or hardship,0.47,0.49,0.5,0.44,0.52,0.48,0.49,0.38,0.51
+Resilience,Resilience (% true),You feel you can achieve your goals,0.6,0.65,0.53,0.54,0.61,0.61,0.6,0.57,0.67
+Resilience,Resilience (% true),"Under pressure, you focus and think clearly",0.42,0.46,0.43,0.36,0.45,0.39,0.46,0.35,0.44
+Resilience,Resilience (% true),You are not easily discouraged by failure,0.44,0.5,0.46,0.33,0.47,0.42,0.45,0.37,0.5
+Resilience,Resilience (% true),You consider yourself a person of strong character,0.49,0.51,0.51,0.56,0.51,0.51,0.5,0.38,0.54
+Resilience,Resilience (% true),You can handle unpleasant feelings,0.5,0.57,0.41,0.42,0.57,0.5,0.52,0.43,0.53
+Services,Main roles of the state,To provide security,0.37,0.38,0.39,0.47,0.41,0.37,0.33,0.33,0.38
+Services,Main roles of the state,To provide health services,0.44,0.5,0.43,0.49,0.44,0.47,0.39,0.44,0.33
+Services,Main roles of the state,To provide acess to education,0.41,0.43,0.31,0.48,0.39,0.51,0.37,0.44,0.31
+Services,Main roles of the state,To take care of infrastructure such as roadways,0.18,0.22,0.17,0.24,0.12,0.25,0.15,0.17,0.09
+Services,Main roles of the state,To provide justice,0.12,0.12,0.15,0.22,0.13,0.14,0.09,0.08,0.12
+Services,Main roles of the state,Promote work / help the economy,0.25,0.32,0.23,0.24,0.18,0.32,0.2,0.23,0.22
+Services,Main roles of the state,Promote peace,0.09,0.08,0.14,0.17,0.06,0.08,0.08,0.05,0.08
+Services,Main roles of the state,Help the poor,0.27,0.23,0.28,0.31,0.28,0.3,0.27,0.26,0.24
+Services,Main roles of the state,Help victims,0.05,0.07,0.06,0.12,0.06,0.04,0.03,0.04,0.04
+Services,Main roles of the state,Nothing/Doesn't do anything/almost nothing,0.07,0.06,0.06,0.08,0.1,0.02,0.1,0.05,0.14
+Services,Main roles of the state,Agricultural services,0.01,0.01,0.01,0,0,0,0.01,0,0.01
+Services,Main roles of the state,Feed/end malnutrition,0.01,0.01,0.01,0.01,0.01,0.02,0.01,0,0.02
+Services,Main roles of the state,End or fight corruption,0.02,0.02,0.03,0.01,0.03,0.02,0.03,0.02,0.01
+Services,Main roles of the state,Address the needs of the elderly,0,0,0,0.01,0,0,0.01,0,0
+Services,Main roles of the state,Social programs,0.01,0.01,0,0.01,0,0,0,0.01,0
+Services,Main roles of the state,Steal from the country,0.01,0.01,0.01,0.01,0,0,0.01,0.02,0.01
+Services,Main roles of the state,"Other, specify",0,0,0,0,0,0,0,0,0
+Services,Main roles of the state,No response,0.1,0.09,0.13,0.08,0.12,0.1,0.1,0.12,0.09
+Services,Perception of services (% good - very good),Your housing,0.39,0.4,0.35,0.4,0.39,0.39,0.39,0.38,0.4
+Services,Perception of services (% good - very good),Your access to water,0.42,0.45,0.47,0.4,0.4,0.39,0.42,0.4,0.44
+Services,Perception of services (% good - very good),Your access to electricity,0.53,0.49,0.63,0.49,0.51,0.57,0.55,0.49,0.53
+Services,Perception of services (% good - very good),Your access to food,0.53,0.56,0.44,0.54,0.5,0.56,0.5,0.53,0.55
+Services,Perception of services (% good - very good),Your access to land for farming,0.26,0.28,0.18,0.27,0.27,0.27,0.24,0.28,0.25
+Services,Perception of services (% good - very good),Access to education for you/children (School),0.59,0.59,0.51,0.63,0.64,0.65,0.6,0.52,0.55
+Services,Perception of services (% good - very good),The quality of education for you / children,0.5,0.5,0.48,0.52,0.56,0.52,0.5,0.43,0.45
+Services,Perception of services (% good - very good),Access to health services,0.31,0.36,0.24,0.29,0.34,0.28,0.33,0.26,0.28
+Services,Perception of services (% good - very good),The quality of health services,0.22,0.24,0.17,0.22,0.24,0.25,0.22,0.16,0.25
+Services,Perception of services (% good - very good),The roads and transportation in community,0.32,0.37,0.3,0.29,0.33,0.33,0.3,0.31,0.27
+Services,Perception of services (% good - very good),Access to public adminsitrative services,0.22,0.27,0.23,0.16,0.29,0.18,0.22,0.18,0.18
+Services,Perception of services (% good - very good),The quality of public adminsitrative services,0.21,0.26,0.24,0.16,0.27,0.17,0.21,0.19,0.18
+Services,Perception of services (% good - very good),And how would you rank your overall quality of life?,0.53,0.58,0.55,0.49,0.55,0.59,0.47,0.53,0.54
+Services,Change in services over last year,Better,0.19,0.21,0.23,0.2,0.24,0.18,0.15,0.21,0.18
+Services,Change in services over last year,Same,0.64,0.67,0.64,0.61,0.59,0.61,0.64,0.68,0.66
+Services,Change in services over last year,Worse,0.16,0.12,0.13,0.18,0.18,0.2,0.21,0.11,0.16
+Services,Change in services in the next year,Better,0.35,0.39,0.4,0.37,0.34,0.35,0.33,0.31,0.28
+Services,Change in services in the next year,Same,0.47,0.45,0.44,0.48,0.44,0.46,0.46,0.53,0.47
+Services,Change in services in the next year,Worse,0.18,0.16,0.16,0.15,0.22,0.19,0.21,0.16,0.25
+Services,Actors helping to improve life in your community,Myself,0.39,0.44,0.39,0.42,0.41,0.39,0.3,0.45,0.49
+Services,Actors helping to improve life in your community,The church,0.04,0.05,0.04,0.05,0.05,0.06,0.04,0.02,0.03
+Services,Actors helping to improve life in your community,La Escuela (los profesores),0.01,0,0.01,0.01,0.02,0,0,0,0.02
+Services,Actors helping to improve life in your community,Individual leaders,0.09,0.11,0.12,0.12,0.07,0.09,0.08,0.09,0.08
+Services,Actors helping to improve life in your community,Community elected organization,0.21,0.21,0.26,0.28,0.17,0.25,0.19,0.19,0.15
+Services,Actors helping to improve life in your community,NGOs,0.03,0.03,0.03,0.01,0.01,0.04,0.03,0.04,0.01
+Services,Actors helping to improve life in your community,City / Municipality Government,0.34,0.31,0.36,0.37,0.33,0.33,0.36,0.32,0.28
+Services,Actors helping to improve life in your community,Departmental government,0.03,0.02,0.04,0.05,0.02,0.02,0.03,0.05,0.02
+Services,Actors helping to improve life in your community,National government,0.05,0.04,0.09,0.07,0.05,0.05,0.04,0.04,0.06
+Services,Actors helping to improve life in your community,Cocodes,0.09,0.08,0.1,0.09,0.09,0.06,0.11,0.1,0.05
+Services,Actors helping to improve life in your community,Assistant Mayor,0,0,0.01,0,0,0.01,0,0,0.01
+Services,Actors helping to improve life in your community,Nobody,0.07,0.05,0.03,0.05,0.04,0.09,0.12,0.08,0.07
+Services,Actors helping to improve life in your community,God,0,0,0,0.01,0.01,0.01,0,0,0.01
+Services,Actors helping to improve life in your community,Private Businesses/Business leaders,0,0,0.01,0,0,0,0,0.01,0
+Services,Actors helping to improve life in your community,Us/the entire community,0.02,0.02,0.02,0.02,0.05,0.01,0.02,0.02,0.01
+Services,Actors helping to improve life in your community,"Other, specify",0,0.01,0,0.01,0,0,0,0,0.01
+Services,Actors helping to improve life in your community,No response,0.04,0.04,0.07,0.03,0.05,0.05,0.04,0.04,0.03
+Services,Actions of community in imporving life in community,Nothing,0.38,0.36,0.32,0.37,0.42,0.34,0.41,0.37,0.46
+Services,Actions of community in imporving life in community,They organize,0.41,0.45,0.46,0.46,0.39,0.44,0.39,0.38,0.28
+Services,Actions of community in imporving life in community,Protest,0.04,0.05,0.02,0.07,0.02,0.03,0.03,0.08,0.01
+Services,Actions of community in imporving life in community,Organized meetings for dialogue,0.22,0.19,0.26,0.31,0.26,0.21,0.21,0.24,0.12
+Services,Actions of community in imporving life in community,Ask for international support,0.02,0,0.03,0.04,0.02,0.05,0.02,0.03,0.01
+Services,Actions of community in imporving life in community,Speak with NGOs,0.03,0.01,0.02,0.02,0.01,0.06,0.02,0.05,0.02
+Services,Actions of community in imporving life in community,Speak with the media,0.01,0.01,0.03,0.02,0,0.02,0.01,0.01,0
+Services,Actions of community in imporving life in community,close roads,0.01,0.01,0,0.01,0,0,0,0.01,0.01
+Services,Actions of community in imporving life in community,initiated judicial processes,0,0,0,0,0,0,0,0,0.01
+Services,Actions of community in imporving life in community,Try to elect trustworthy individuals,0.03,0.05,0.05,0.05,0.04,0.02,0.02,0.03,0.04
+Services,Actions of community in imporving life in community,Present official proposals for change to community authorities,0.09,0.1,0.06,0.08,0.08,0.13,0.07,0.12,0.06
+Services,Actions of community in imporving life in community,Oranized using the internet as a platform,0,0,0,0,0.01,0,0,0,0
+Services,Actions of community in imporving life in community,The community works on projects itself,0.01,0.02,0,0,0.01,0.01,0.01,0.01,0.01
+Services,Actions of community in imporving life in community,Organize educational/cultural activities,0,0,0,0,0,0.01,0,0,0.01
+Services,Actions of community in imporving life in community,"""Work""",0.04,0.07,0.02,0.02,0.04,0.03,0.03,0.04,0.11
+Services,Actions of community in imporving life in community,"Other, specify",0,0.01,0.01,0,0.01,0,0,0.01,0.01
+Services,Actions of community in imporving life in community,No response,0.05,0.02,0.1,0.03,0.03,0.05,0.05,0.08,0.05
+Services,Actions of state actors in imporving life in community,Nothing,0.83,0.8,0.75,0.88,0.82,0.87,0.86,0.8,0.85
+Services,Actions of state actors in imporving life in community,Remove corrupt leaders,0.01,0.01,0,0.01,0.01,0.01,0,0.01,0
+Services,Actions of state actors in imporving life in community,Create and act on policies to fight corruption,0.01,0.02,0.03,0.01,0.02,0.01,0.01,0.01,0.01
+Services,Actions of state actors in imporving life in community,Empty policies to fight corruption,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0,0.02
+Services,Actions of state actors in imporving life in community,Start a bureaucratic process with no result,0.04,0.07,0.07,0.03,0.04,0.03,0.02,0.02,0.02
+Services,Actions of state actors in imporving life in community,Speak with public media,0.01,0.01,0.01,0.01,0,0,0.01,0,0
+Services,Actions of state actors in imporving life in community,Sometimes help/do something,0,0,0,0,0,0,0,0,0
+Services,Actions of state actors in imporving life in community,Almost nothing/little help,0.01,0.02,0.01,0.01,0.01,0.01,0.01,0,0.01
+Services,Actions of state actors in imporving life in community,Provide financial support,0.01,0,0.01,0.01,0.01,0,0.01,0,0.01
+Services,Actions of state actors in imporving life in community,Bring in projects for basic services,0.01,0.01,0.01,0.01,0.02,0,0.01,0.01,0.01
+Services,Actions of state actors in imporving life in community,Food Aid,0,0,0.01,0,0,0,0,0.01,0
+Services,Actions of state actors in imporving life in community,Encourage Dialogue,0.01,0,0.01,0,0.01,0.01,0,0.01,0.01
+Services,Actions of state actors in imporving life in community,"Other, specify",0,0.01,0,0,0.01,0,0,0.01,0
+Services,Actions of state actors in imporving life in community,No response,0.07,0.05,0.11,0.04,0.05,0.05,0.06,0.15,0.09
+Services,Action when lacking services,I borrow from my family or friends,0.19,0.15,0.17,0.36,0.34,0.18,0.18,0.13,0.19
+Services,Action when lacking services,I leave the community,0.05,0.04,0.01,0.03,0.04,0.08,0.07,0.04,0.02
+Services,Action when lacking services,I wait for the services to come to me,0.05,0.02,0.03,0.09,0.05,0.07,0.06,0.05,0.04
+Services,Action when lacking services,I notify the community authorities or the municipality,0.51,0.59,0.53,0.35,0.44,0.46,0.56,0.5,0.46
+Services,Action when lacking services,Look for a job/work/sell goods,0.06,0.05,0.07,0.04,0.1,0.08,0.04,0.06,0.07
+Services,Action when lacking services,Endure/Manage/Wait,0.03,0,0.04,0.02,0.03,0.01,0.05,0.05,0.02
+Services,Action when lacking services,"Look for services, ""look""",0.05,0.07,0.03,0.01,0.03,0.03,0.03,0.05,0.12
+Services,Action when lacking services,"Save for the hard times (build a well, stock up on goods, save $$)",0.01,0.01,0,0.01,0,0,0,0.01,0.02
+Services,Action when lacking services,Purchase private services,0.02,0.03,0.04,0.03,0.01,0.01,0.01,0.03,0.01
+Services,Action when lacking services,I/my family look out for ourselves,0.02,0.02,0.02,0.06,0.01,0.02,0.02,0.01,0.02
+Services,Action when lacking services,Organize the community/Protest,0,0.01,0,0,0,0.01,0,0,0.01
+Services,Action when lacking services,Ask God for help,0,0,0.01,0,0,0,0,0,0.01
+Services,Action when lacking services,Take out credit/Loans (from banks or stores),0,0,0,0,0.01,0,0,0.01,0
+Services,Action when lacking services,"Other, specify",0.01,0.01,0,0,0.01,0.01,0,0.01,0.01
+Services,Action when lacking services,No response,0.08,0.08,0.11,0.08,0.07,0.11,0.05,0.11,0.1
+Services,Perception of response to problems with service,Non-violent protests are an acceptable way to show disagreement with services (access / quality),0.85,0.86,0.84,0.83,0.85,0.86,0.84,0.88,0.86
+Services,Perception of response to problems with service,"Sometimes violence is necessary to show disagreement with service provision (access, corruption)",0.13,0.14,0.16,0.12,0.11,0.1,0.15,0.11,0.13
+Services,Perception of response to problems with service,It is possible for the community to organzie itself and seek a solution to problems with services,0.89,0.88,0.88,0.9,0.88,0.91,0.87,0.92,0.85
+Services,Perception of response to problems with service,Officials should be allowed to give socio-economic advantages to their relatives and friends,0.23,0.21,0.14,0.21,0.27,0.25,0.29,0.24,0.19
+Services,Perception of response to problems with service,"In general, NGOs provide better services than the state",0.54,0.54,0.52,0.51,0.57,0.53,0.57,0.49,0.58
+Services,Perception of response to problems with service,Corporations doing business here should support service provision,0.82,0.79,0.86,0.84,0.79,0.79,0.84,0.77,0.92
+Services,Perception of response to problems with service,The community has the possibility to conduct social audits to assess the state performances in delivering services.,0.49,0.44,0.59,0.6,0.52,0.36,0.54,0.42,0.59
+Services,Perception of response to problems with service,"Sometimes, it is acceptable for officials to seek illegal payment (bribe) for services",0.08,0.14,0.06,0.05,0.08,0.09,0.07,0.06,0.06
+Services,Acceptable circumstances for bribery,Never,0.94,0.9,0.93,0.97,0.95,0.94,0.95,0.96,0.95
+Services,Acceptable circumstances for bribery,To expedite a procedure,0.04,0.07,0.04,0.03,0.04,0.04,0.03,0.01,0.05
+Services,Acceptable circumstances for bribery,To avoid going to jail,0.01,0.01,0,0.01,0.01,0.01,0.02,0.02,0.01
+Services,Acceptable circumstances for bribery,To avoid paying a fine,0.01,0.03,0.02,0.01,0.01,0.01,0.01,0.01,0.02
+Services,Acceptable circumstances for bribery,To avoid other problems,0.02,0.03,0.03,0.01,0.01,0.02,0.01,0.01,0
+Services,Acceptable circumstances for bribery,To obtain work,0,0,0,0,0,0,0,0,0
+Services,Acceptable circumstances for bribery,To obtain services/basic needs,0,0,0,0,0,0,0,0,0
+Economic shocks,Incidence (last 12 months),Any shock experienced,0.89,0.84,0.95,0.84,0.87,0.88,0.93,0.88,0.87
+Economic shocks,Incidence (last 12 months),Loss of employment,0.35,0.37,0.36,0.35,0.39,0.37,0.35,0.29,0.31
+Economic shocks,Incidence (last 12 months),Lowered income,0.58,0.56,0.63,0.5,0.55,0.6,0.65,0.49,0.56
+Economic shocks,Incidence (last 12 months),Bankruptcy of business,0.11,0.13,0.13,0.1,0.12,0.09,0.12,0.08,0.09
+Economic shocks,Incidence (last 12 months),Ilness or death of a working person,0.28,0.26,0.34,0.26,0.34,0.23,0.25,0.3,0.31
+Economic shocks,Incidence (last 12 months),Signficant increase in prices of products,0.76,0.7,0.87,0.71,0.78,0.74,0.84,0.72,0.69
+Economic shocks,Incidence (last 12 months),Displacement,0.05,0.06,0.07,0.04,0.05,0.06,0.05,0.04,0.07
+Economic shocks,Incidence (last 12 months),Loss of harvest,0.41,0.35,0.51,0.38,0.44,0.43,0.4,0.42,0.42
+Economic shocks,Incidence (last 12 months),Other economic problems,0.14,0.14,0.2,0.13,0.1,0.06,0.17,0.09,0.18
+Economic shocks,Number of shocks experienced (last 12 months),0,0.11,0.16,0.05,0.16,0.13,0.12,0.07,0.12,0.13
+Economic shocks,Number of shocks experienced (last 12 months),1,0.15,0.12,0.1,0.18,0.12,0.15,0.15,0.2,0.17
+Economic shocks,Number of shocks experienced (last 12 months),2,0.19,0.19,0.2,0.18,0.19,0.18,0.18,0.23,0.18
+Economic shocks,Number of shocks experienced (last 12 months),3,0.24,0.23,0.28,0.18,0.23,0.26,0.28,0.17,0.22
+Economic shocks,Number of shocks experienced (last 12 months),4 +,0.31,0.3,0.38,0.29,0.32,0.29,0.32,0.27,0.31
+Economic shocks,Response to shock by individuals (if any experienced),Nothing,0.26,0.24,0.19,0.29,0.35,0.37,0.25,0.24,0.29
+Economic shocks,Response to shock by individuals (if any experienced),Left the community,0.01,0,0.01,0.02,0.03,0,0.02,0.01,0.02
+Economic shocks,Response to shock by individuals (if any experienced),Took out loans from friends/family/neighbor,0.17,0.16,0.26,0.22,0.19,0.1,0.14,0.2,0.16
+Economic shocks,Response to shock by individuals (if any experienced),Took out loans from a bank,0.05,0.03,0.07,0.09,0.05,0.04,0.05,0.05,0.05
+Economic shocks,Response to shock by individuals (if any experienced),Took out loans from another private source,0.02,0.01,0.02,0.02,0,0.02,0.02,0.03,0
+Economic shocks,Response to shock by individuals (if any experienced),Spent less on food/health/other essential items,0.43,0.41,0.53,0.39,0.3,0.36,0.5,0.44,0.25
+Economic shocks,Response to shock by individuals (if any experienced),sell goods on street or markets,0.07,0.09,0.04,0.07,0.07,0.07,0.07,0.1,0.04
+Economic shocks,Response to shock by individuals (if any experienced),sell personal items,0.05,0.07,0.06,0.05,0.02,0.06,0.05,0.04,0.03
+Economic shocks,Response to shock by individuals (if any experienced),Migrating,0.01,0.03,0.01,0.02,0.02,0.01,0,0.01,0.01
+Economic shocks,Response to shock by individuals (if any experienced),Dejar de enviar a los niÃ±os a la escuela para que ellos tambiÃ©n trabajen,0,0,0,0,0.02,0,0,0,0.01
+Economic shocks,Response to shock by individuals (if any experienced),Endure,0.02,0.03,0.03,0.02,0.02,0.02,0.01,0.01,0.05
+Economic shocks,Response to shock by individuals (if any experienced),"Save money, prepare",0.01,0.01,0.01,0.01,0.01,0.01,0,0,0.01
+Economic shocks,Response to shock by individuals (if any experienced),Notify authorities,0.01,0,0,0.01,0,0.01,0.01,0,0.01
+Economic shocks,Response to shock by individuals (if any experienced),Find a job/work,0.12,0.14,0.09,0.06,0.11,0.12,0.12,0.13,0.21
+Economic shocks,Response to shock by individuals (if any experienced),Take care of myself,0,0,0,0,0,0,0,0,0.01
+Economic shocks,Response to shock by individuals (if any experienced),Church/God,0.02,0.02,0.02,0.01,0.02,0.01,0.02,0.01,0.02
+Economic shocks,Response to shock by individuals (if any experienced),"Other, specify",0,0,0,0,0,0.01,0.01,0.01,0.01
+Economic shocks,Other actors involved,Any,0.09,0.13,0.06,0.1,0.08,0.09,0.1,0.06,0.07
+Economic shocks,Other actors involved,NGOs,0.02,0,0,0.08,0.05,0,0.02,0,0.09
+Economic shocks,Other actors involved,Community Leaders,0.08,0,0,0.08,0.15,0.12,0.16,0.07,0.09
+Economic shocks,Other actors involved,The media,0,0,0,0.04,0,0,0,0,0
+Economic shocks,Other actors involved,The church,0.04,0,0,0.12,0.2,0,0.04,0.07,0.09
+Economic shocks,Other actors involved,State appointed authorities,0.04,0.03,0,0,0.05,0.06,0.05,0,0.18
+Economic shocks,Other actors involved,Friends or Family,0.84,0.93,0.95,0.88,0.75,0.85,0.75,0.89,0.55
+Economic shocks,Other actors involved,Nobody,0.01,0.03,0,0,0,0,0,0,0.09
+Economic shocks,Other actors involved,"Other, specify",0,0,0,0,0,0,0,0,0
+Economic shocks,Other actors involved,No response,0,0,0,0,0.05,0,0,0,0
+Economic shocks,Response by other actors,Provided loans,0.34,0.31,0.41,0.58,0.5,0.21,0.34,0.25,0.18
+Economic shocks,Response by other actors,Provided donations,0.24,0.24,0.05,0.21,0.24,0.24,0.27,0.21,0.4
+Economic shocks,Response by other actors,Offered food/water other essential items,0.42,0.38,0.35,0.38,0.4,0.5,0.49,0.43,0.27
+Economic shocks,Response by other actors,Provided shelter,0.02,0,0,0,0,0.12,0.02,0,0
+Economic shocks,Response by other actors,Provided transportation,0.01,0,0.09,0,0,0,0,0.07,0
+Economic shocks,Response by other actors,Dieron asesorÃ­a jurÃ­dica,0,0,0,0,0.05,0,0,0,0
+Economic shocks,Response by other actors,Fundraised,0.05,0.03,0.13,0.12,0.14,0,0.01,0.11,0.09
+Economic shocks,Response by other actors,Gave me work/helped me find work,0.05,0.07,0.05,0,0.1,0.09,0.01,0.07,0.09
+Economic shocks,Response by other actors,Advice/Moral support,0.01,0,0,0.04,0.05,0,0,0.07,0
+Economic shocks,Response by other actors,"Other, specify",0.03,0.03,0,0,0.05,0,0.04,0,0.09
+Economic shocks,Response by other actors,No response,0.05,0.07,0,0,0.05,0.15,0.02,0.07,0.09
+Economic shocks,"In general, who currently works on adressing economic problems",Nobody,0.2,0.18,0.11,0.15,0.15,0.19,0.29,0.18,0.17
+Economic shocks,"In general, who currently works on adressing economic problems",Me,0.67,0.7,0.78,0.68,0.68,0.68,0.54,0.72,0.71
+Economic shocks,"In general, who currently works on adressing economic problems",The church,0.04,0.05,0.03,0.05,0.06,0.02,0.04,0.02,0.04
+Economic shocks,"In general, who currently works on adressing economic problems",La Escuela (los profesores),0,0,0,0,0,0,0,0,0.01
+Economic shocks,"In general, who currently works on adressing economic problems",Individual leaders,0.02,0.03,0.02,0.03,0.03,0.04,0.02,0.02,0.01
+Economic shocks,"In general, who currently works on adressing economic problems",Community elected organization,0.05,0.04,0.05,0.09,0.07,0.06,0.04,0.01,0.02
+Economic shocks,"In general, who currently works on adressing economic problems",NGOs,0.01,0,0.01,0.01,0,0.01,0.01,0,0
+Economic shocks,"In general, who currently works on adressing economic problems",City / Municipality Government,0.05,0.06,0.04,0.05,0.06,0.04,0.05,0.02,0.04
+Economic shocks,"In general, who currently works on adressing economic problems",Departmental government,0,0,0.02,0.01,0.01,0,0,0,0
+Economic shocks,"In general, who currently works on adressing economic problems",National government,0.01,0,0,0.02,0.01,0,0,0.01,0
+Economic shocks,"In general, who currently works on adressing economic problems",Cocodes,0.02,0.02,0.03,0.03,0.01,0.03,0.03,0.02,0.02
+Economic shocks,"In general, who currently works on adressing economic problems",Neighbors/Friends,0.01,0.01,0.01,0.01,0.01,0,0.01,0.03,0.02
+Economic shocks,"In general, who currently works on adressing economic problems",Family,0.07,0.05,0.09,0.1,0.08,0.07,0.06,0.08,0.1
+Economic shocks,"In general, who currently works on adressing economic problems",God,0,0.01,0,0,0,0,0,0,0.01
+Economic shocks,"In general, who currently works on adressing economic problems",Everyone in the community,0,0,0,0,0,0,0,0,0
+Economic shocks,"In general, who currently works on adressing economic problems",Banks,0,0,0,0,0,0,0,0,0
+Economic shocks,"In general, who currently works on adressing economic problems","Other, specify",0,0,0,0,0,0,0,0,0
+Economic shocks,Role of communities (general),None,0.23,0.15,0.37,0.18,0.21,0.21,0.31,0.16,0.2
+Economic shocks,Role of communities (general),Provided donations,0.11,0.16,0.09,0.18,0.18,0.16,0.05,0.09,0.04
+Economic shocks,Role of communities (general),Provided loans,0.05,0.06,0.03,0.09,0.1,0.06,0.04,0.06,0.01
+Economic shocks,Role of communities (general),Offered food/water other essential items,0.13,0.16,0.09,0.21,0.14,0.14,0.15,0.08,0.06
+Economic shocks,Role of communities (general),Provided shelter,0.01,0.01,0,0.02,0.01,0.02,0.01,0.01,0.01
+Economic shocks,Role of communities (general),Provided transportation,0.01,0,0.01,0.01,0,0,0,0.01,0.01
+Economic shocks,Role of communities (general),Proposed policies to help,0.02,0.02,0.02,0.03,0.01,0.02,0.02,0.02,0.02
+Economic shocks,Role of communities (general),provided legal assistance,0,0.01,0,0.01,0,0,0,0,0.01
+Economic shocks,Role of communities (general),Fundraised,0.1,0.08,0.1,0.13,0.12,0.14,0.1,0.08,0.09
+Economic shocks,Role of communities (general),Provided public spaces for shelter,0.01,0,0.01,0.01,0.01,0.01,0,0,0.02
+Economic shocks,Role of communities (general),Organized/have meetings,0.02,0.02,0.03,0.02,0.03,0.01,0.02,0.02,0.03
+Economic shocks,Role of communities (general),Everyone looks out for themselves,0.01,0.02,0,0.01,0.01,0,0.01,0.01,0.05
+Economic shocks,Role of communities (general),Provided jobs/opportunities to find a job,0,0.01,0.01,0,0,0,0,0,0.01
+Economic shocks,Role of communities (general),Look for projects/help,0.01,0,0,0.01,0.02,0.01,0.01,0,0.01
+Economic shocks,Role of communities (general),"Other, specify",0,0,0.01,0.01,0.01,0,0,0.01,0.02
+Economic shocks,Role of communities (general),No response,0.4,0.42,0.36,0.28,0.31,0.39,0.33,0.56,0.51
+Economic shocks,Role of state actors,Nothing,0.87,0.84,0.82,0.86,0.88,0.91,0.9,0.85,0.86
+Economic shocks,Role of state actors,Fundraising events,0.02,0.01,0.02,0.02,0.04,0.03,0.02,0.01,0.01
+Economic shocks,Role of state actors,Spoke with the media,0,0,0.01,0.01,0,0,0,0.01,0
+Economic shocks,Role of state actors,Started a bureaucratic process with no resolution,0.02,0.02,0.04,0.02,0.02,0.01,0.01,0.01,0.02
+Economic shocks,Role of state actors,Provided Food/Seed/Fertilizer,0.01,0.01,0.01,0.01,0,0,0.01,0.01,0.01
+Economic shocks,Role of state actors,"""Support Projects""",0,0.01,0,0,0.01,0,0,0.01,0
+Economic shocks,Role of state actors,Financial aid,0,0,0,0,0.01,0,0.01,0,0.01
+Economic shocks,Role of state actors,"""help"" (unknown what)",0,0,0,0.01,0.01,0,0,0,0
+Economic shocks,Role of state actors,Bring security/order,0,0,0,0,0,0,0,0,0
+Economic shocks,Role of state actors,"Other, specify",0,0,0,0,0,0,0,0,0
+Economic shocks,Role of state actors,No response,0.08,0.11,0.13,0.08,0.04,0.04,0.05,0.12,0.11
+Economic shocks,Perception of alternative help (% agree)',In this community people support each other if they lack income / food,0.5,0.47,0.48,0.48,0.58,0.57,0.46,0.54,0.45
+Economic shocks,Perception of alternative help (% agree)',Getting involved in contraband is acceptable when there are no other means to earn a living,0.05,0.07,0.02,0.05,0.07,0.06,0.06,0.02,0.05
+Economic shocks,Perception of alternative help (% agree)',Getting involved in other criminal activities is acceptable when there are no other means to earn a living,0.02,0.03,0.02,0.02,0.01,0.01,0.02,0.01,0.02
+Economic shocks,Rank access to jobs,% bad - very bad,0.6,0.57,0.56,0.59,0.63,0.55,0.62,0.63,0.67
+Economic shocks,Perception of future access to job,Better,0.24,0.28,0.19,0.26,0.22,0.19,0.25,0.26,0.21
+Economic shocks,Perception of future access to job,Same,0.54,0.52,0.59,0.55,0.52,0.56,0.53,0.53,0.52
+Economic shocks,Perception of future access to job,Worse,0.22,0.2,0.22,0.19,0.26,0.25,0.22,0.21,0.27
+Economic shocks,Means to improve the employment and business opportunities,Make it easier to access private services,0.33,0.39,0.33,0.46,0.35,0.34,0.27,0.29,0.3
+Economic shocks,Means to improve the employment and business opportunities,The government generates sources of employment,0.47,0.48,0.44,0.55,0.61,0.51,0.38,0.4,0.63
+Economic shocks,Means to improve the employment and business opportunities,Create municipal businesses,0.21,0.17,0.22,0.33,0.32,0.22,0.24,0.15,0.11
+Economic shocks,Means to improve the employment and business opportunities,Bettter education,0.14,0.13,0.13,0.22,0.22,0.16,0.12,0.11,0.14
+Economic shocks,Means to improve the employment and business opportunities,Provide land access/support farmers,0.02,0,0.01,0.01,0.02,0.02,0.01,0.04,0.01
+Economic shocks,Means to improve the employment and business opportunities,Better road,0.01,0,0,0,0,0.01,0,0.03,0.01
+Economic shocks,Means to improve the employment and business opportunities,Access to loans/credit,0.01,0.02,0,0,0.01,0.01,0,0,0.01
+Economic shocks,Means to improve the employment and business opportunities,Solicit international aid or aid outside the community,0.01,0.02,0,0,0.01,0.02,0.01,0.02,0.01
+Economic shocks,Means to improve the employment and business opportunities,Change authorties (mayor - president),0,0,0,0,0,0,0,0,0
+Economic shocks,Means to improve the employment and business opportunities,Nothing,0,0,0.01,0,0,0,0.01,0,0
+Economic shocks,Means to improve the employment and business opportunities,End corruption/stop stealing,0.01,0.01,0.02,0.01,0.01,0,0.01,0,0.02
+Economic shocks,Means to improve the employment and business opportunities,Create projects,0.01,0,0.01,0,0.01,0.01,0.02,0.03,0.01
+Economic shocks,Means to improve the employment and business opportunities,"Other, specify",0.02,0.02,0.04,0.02,0.02,0.01,0.02,0.03,0.02
+Economic shocks,Means to improve the employment and business opportunities,No response,0.11,0.09,0.09,0.09,0.07,0.13,0.13,0.15,0.06
+Economic shocks,Who is responsible for improving employment and business opportunities,State ministries,0.44,0.47,0.44,0.58,0.57,0.42,0.41,0.32,0.41
+Economic shocks,Who is responsible for improving employment and business opportunities,Mayor of the municipality,0.52,0.52,0.51,0.58,0.61,0.64,0.47,0.47,0.48
+Economic shocks,Who is responsible for improving employment and business opportunities,Owners of private businesses,0.23,0.26,0.23,0.31,0.2,0.23,0.19,0.19,0.24
+Economic shocks,Who is responsible for improving employment and business opportunities,COCODEs,0.01,0.01,0.02,0.03,0.03,0,0.02,0.01,0.01
+Economic shocks,Who is responsible for improving employment and business opportunities,Government,0.12,0.14,0.07,0.06,0.04,0.08,0.1,0.25,0.15
+Economic shocks,Who is responsible for improving employment and business opportunities,President,0.03,0.03,0.03,0.04,0.03,0.01,0.04,0.04,0.05
+Economic shocks,Who is responsible for improving employment and business opportunities,Me/ourselves,0.03,0.03,0.05,0.02,0.04,0.02,0.04,0.03,0.02
+Economic shocks,Who is responsible for improving employment and business opportunities,NGOs,0,0.01,0,0,0,0,0,0.01,0.01
+Economic shocks,Who is responsible for improving employment and business opportunities,Parent/Teacher groups,0,0,0.01,0,0,0,0.01,0.01,0.01
+Economic shocks,Who is responsible for improving employment and business opportunities,"Other, specify",0,0.01,0.01,0.01,0,0,0,0,0.01
+Economic shocks,Who is responsible for improving employment and business opportunities,No response,0.07,0.06,0.07,0.05,0.03,0.08,0.08,0.09,0.06
+Economic shocks,Main disputes and conflicts exist in this community,None,0.39,0.35,0.3,0.49,0.43,0.45,0.41,0.38,0.4
+Economic shocks,Main disputes and conflicts exist in this community,Violence in the home,0.08,0.12,0.08,0.09,0.04,0.04,0.06,0.12,0.06
+Economic shocks,Main disputes and conflicts exist in this community,Violence between gangs,0.09,0.09,0.12,0.11,0.09,0.07,0.09,0.07,0.08
+Economic shocks,Main disputes and conflicts exist in this community,Land Diputes,0.07,0.08,0.06,0.07,0.07,0.06,0.05,0.08,0.08
+Economic shocks,Main disputes and conflicts exist in this community,Social conflict between neighbors,0.14,0.22,0.17,0.13,0.13,0.11,0.13,0.1,0.09
+Economic shocks,Main disputes and conflicts exist in this community,"Lack of basic resources, services",0.18,0.21,0.23,0.14,0.19,0.15,0.15,0.17,0.18
+Economic shocks,Main disputes and conflicts exist in this community,Traffic,0.03,0.03,0.03,0.05,0.03,0.02,0.03,0.02,0.02
+Economic shocks,Main disputes and conflicts exist in this community,Noise,0.03,0.04,0.03,0.07,0.04,0.01,0.03,0.01,0.02
+Economic shocks,Main disputes and conflicts exist in this community,Retail sales of illicit drugs (menudeo),0.06,0.06,0.08,0.07,0.04,0.04,0.07,0.04,0.09
+Economic shocks,Main disputes and conflicts exist in this community,Liqueur stores (cantinas),0.13,0.15,0.12,0.2,0.12,0.12,0.11,0.1,0.09
+Economic shocks,Main disputes and conflicts exist in this community,Extortions,0.09,0.07,0.16,0.1,0.09,0.06,0.1,0.06,0.09
+Economic shocks,Main disputes and conflicts exist in this community,"Crimes (theft, murder,...)",0.24,0.26,0.32,0.25,0.26,0.21,0.2,0.27,0.21
+Economic shocks,Main disputes and conflicts exist in this community,"Disputes over employment, poverty",0.05,0.03,0.07,0.02,0.04,0.03,0.06,0.07,0.05
+Economic shocks,Main disputes and conflicts exist in this community,Politics,0.02,0.03,0.03,0.01,0.03,0.03,0.02,0.02,0.02
+Economic shocks,Main disputes and conflicts exist in this community,"Other, specify",0.02,0.02,0.02,0.01,0.01,0.01,0.02,0.02,0.03
+Economic shocks,Circumstances in which community will take weapons (% agree),My family is threatened,0.26,0.25,0.17,0.25,0.24,0.25,0.28,0.29,0.28
+Economic shocks,Circumstances in which community will take weapons (% agree),My community is threatened,0.22,0.18,0.15,0.21,0.2,0.22,0.26,0.28,0.21
+Economic shocks,Circumstances in which community will take weapons (% agree),My life is threatened,0.27,0.26,0.18,0.28,0.26,0.25,0.3,0.32,0.27
+Economic shocks,Circumstances in which community will take weapons (% agree),I'm insulted/offended/provocated,0.06,0.07,0.02,0.05,0.05,0.08,0.08,0.07,0.05
+Economic shocks,Circumstances in which community will take weapons (% agree),I get robbed,0.18,0.16,0.09,0.16,0.14,0.2,0.22,0.26,0.14
+Economic shocks,Circumstances in which community will take weapons (% agree),Revenge if someone was attacked,0.08,0.06,0.02,0.06,0.05,0.09,0.12,0.1,0.06
+Economic shocks,Circumstances in which community will take weapons (% agree),Land disputes,0.08,0.07,0.03,0.04,0.06,0.08,0.11,0.12,0.05
+Economic shocks,Circumstances in which community will take weapons (% agree),Promote / maintain politicians in power,0.04,0.03,0.01,0.02,0.02,0.03,0.06,0.05,0.02
+Economic shocks,Circumstances in which community will take weapons (% agree),Defendthe interests of a minority / group,0.05,0.04,0.03,0.04,0.04,0.03,0.07,0.07,0.05
+Economic shocks,Circumstances in which community will take weapons (% agree),To render justice / punish those responsible for violence,0.17,0.18,0.09,0.1,0.16,0.15,0.21,0.22,0.12
+Economic shocks,Circumstances in which community will take weapons (% agree),Other circumstances,0.04,0.02,0.05,0.03,0.03,0.04,0.05,0.07,0.02
+Economic shocks,Access to land (last 12 months),none,0.87,0.91,0.87,0.85,0.87,0.87,0.85,0.82,0.89
+Economic shocks,Access to land (last 12 months),myself,0.03,0.03,0.03,0.04,0.03,0.04,0.03,0.02,0.05
+Economic shocks,Access to land (last 12 months),household,0.04,0.03,0.04,0.03,0.04,0.03,0.04,0.04,0.05
+Economic shocks,Access to land (last 12 months),others in the community,0.09,0.04,0.08,0.09,0.08,0.09,0.11,0.14,0.08
+Economic shocks,Access to land (last 12 months),No response,0.01,0,0,0.01,0,0,0.01,0.01,0.01
+Economic shocks,Access to water (last 12 months),none,0.69,0.71,0.61,0.7,0.69,0.69,0.69,0.67,0.68
+Economic shocks,Access to water (last 12 months),myself,0.09,0.12,0.06,0.09,0.12,0.1,0.07,0.07,0.22
+Economic shocks,Access to water (last 12 months),household,0.17,0.15,0.22,0.16,0.19,0.19,0.15,0.21,0.18
+Economic shocks,Access to water (last 12 months),others in the community,0.21,0.16,0.22,0.18,0.23,0.23,0.23,0.24,0.21
+Economic shocks,Access to water (last 12 months),No response,0,0,0.01,0.01,0,0,0,0,0.01
+Economic shocks,Dispute over planting / agriculture (last 12 months),none,0.76,0.81,0.73,0.81,0.79,0.73,0.79,0.68,0.69
+Economic shocks,Dispute over planting / agriculture (last 12 months),myself,0.07,0.07,0.06,0.07,0.07,0.09,0.05,0.06,0.21
+Economic shocks,Dispute over planting / agriculture (last 12 months),household,0.12,0.09,0.14,0.08,0.13,0.12,0.09,0.17,0.15
+Economic shocks,Dispute over planting / agriculture (last 12 months),others in the community,0.17,0.11,0.2,0.1,0.16,0.21,0.16,0.24,0.22
+Economic shocks,Dispute over planting / agriculture (last 12 months),No response,0.01,0,0,0.02,0,0.01,0.01,0.01,0.01
+Economic shocks,Dispute / conflict over the exploitation of natural resources by the state,none,0.94,0.93,0.94,0.93,0.94,0.96,0.94,0.95,0.96
+Economic shocks,Dispute / conflict over the exploitation of natural resources by the state,myself,0.01,0.01,0.01,0.03,0.01,0,0.01,0.02,0.01
+Economic shocks,Dispute / conflict over the exploitation of natural resources by the state,household,0.01,0,0.01,0.01,0.01,0,0,0.01,0.01
+Economic shocks,Dispute / conflict over the exploitation of natural resources by the state,others in the community,0.04,0.04,0.06,0.05,0.05,0.02,0.03,0.03,0.02
+Economic shocks,Dispute / conflict over the exploitation of natural resources by the state,No response,0.02,0.02,0,0.01,0.01,0.02,0.02,0.01,0.02
+Economic shocks,Dispute / conflict over the exploitation of natural resources by corporations,none,0.92,0.92,0.94,0.92,0.9,0.94,0.92,0.9,0.96
+Economic shocks,Dispute / conflict over the exploitation of natural resources by corporations,myself,0.01,0,0,0.02,0.01,0,0.01,0.01,0.01
+Economic shocks,Dispute / conflict over the exploitation of natural resources by corporations,household,0.01,0,0.01,0.01,0.01,0,0.01,0.03,0
+Economic shocks,Dispute / conflict over the exploitation of natural resources by corporations,others in the community,0.05,0.05,0.05,0.05,0.08,0.04,0.05,0.08,0.01
+Economic shocks,Dispute / conflict over the exploitation of natural resources by corporations,No response,0.02,0.03,0,0.02,0.01,0.02,0.02,0.01,0.02
+Economic shocks,Other disputes over the exploitation of natural resources,none,0.94,0.94,0.95,0.93,0.92,0.96,0.95,0.95,0.95
+Economic shocks,Other disputes over the exploitation of natural resources,myself,0.01,0.02,0,0.01,0.01,0,0,0,0.01
+Economic shocks,Other disputes over the exploitation of natural resources,household,0.01,0,0.01,0.01,0.01,0,0.01,0.01,0
+Economic shocks,Other disputes over the exploitation of natural resources,others in the community,0.03,0.03,0.02,0.05,0.06,0.01,0.03,0.03,0.01
+Economic shocks,Other disputes over the exploitation of natural resources,No response,0.02,0.02,0.02,0.02,0.01,0.03,0.02,0.02,0.04
+Economic shocks,Prevalence any disputes,(% yes),0.12,0.12,0.11,0.11,0.11,0.13,0.1,0.14,0.11
+Economic shocks,Effects of such disputes,Nothing,0.14,0.19,0.17,0.15,0.1,0.13,0.1,0.09,0.17
+Economic shocks,Effects of such disputes,Dialogue between involved parties,0.38,0.31,0.28,0.33,0.33,0.48,0.53,0.31,0.32
+Economic shocks,Effects of such disputes,It becomes more complicated,0.17,0.19,0.15,0.19,0.13,0.19,0.07,0.3,0.21
+Economic shocks,Effects of such disputes,The dispute becomes violent,0.17,0.06,0.13,0.18,0.16,0.17,0.13,0.44,0
+Economic shocks,Effects of such disputes,No solution is found,0.11,0.09,0.07,0.21,0.17,0.07,0.09,0.12,0.21
+Economic shocks,Effects of such disputes,looking for help in international organizations,0.07,0,0.05,0.09,0.06,0.02,0.07,0.21,0
+Economic shocks,Effects of such disputes,Look for help or support by social organizations,0.12,0.09,0.12,0.15,0.07,0.17,0.05,0.24,0
+Economic shocks,Effects of such disputes,Looking for help in public institutions,0.15,0.09,0.2,0.18,0.27,0.19,0.07,0.18,0.22
+Economic shocks,Effects of such disputes,Sign a negotiated treaty,0.03,0.03,0.05,0.06,0.07,0.02,0.02,0.04,0
+Economic shocks,Effects of such disputes,Media becomes involved,0.02,0,0.02,0.06,0,0.02,0.02,0.03,0.06
+Economic shocks,Effects of such disputes,Protests,0.04,0.06,0,0.03,0.03,0.02,0.05,0.05,0.05
+Economic shocks,Effects of such disputes,Blockades/cut down trees,0.01,0,0,0,0.03,0.02,0,0.03,0.05
+Economic shocks,Effects of such disputes,Involved party members are killed,0,0,0,0,0,0,0.01,0,0
+Economic shocks,Effects of such disputes,"Other, specify",0.02,0.03,0,0,0.03,0,0.05,0.03,0
+Economic shocks,Effects of such disputes,No response,0.03,0.03,0.02,0,0.07,0.02,0.06,0.03,0
+Economic shocks,Means to prevent and resolve disputes over natural resources,Nothing,0.21,0.18,0.19,0.31,0.25,0.25,0.19,0.16,0.24
+Economic shocks,Means to prevent and resolve disputes over natural resources,Mediation by local authorities,0.2,0.23,0.16,0.19,0.18,0.22,0.2,0.16,0.21
+Economic shocks,Means to prevent and resolve disputes over natural resources,Negotiate equal solutions for all parties,0.1,0.14,0.08,0.11,0.05,0.09,0.09,0.11,0.1
+Economic shocks,Means to prevent and resolve disputes over natural resources,Businesses consult/listen to communities first,0.12,0.08,0.16,0.13,0.11,0.09,0.13,0.16,0.12
+Economic shocks,Means to prevent and resolve disputes over natural resources,Companies invest in the community,0.05,0.04,0.04,0.07,0.02,0.04,0.06,0.05,0.06
+Economic shocks,Means to prevent and resolve disputes over natural resources,consultation prior the project,0.11,0.11,0.13,0.12,0.1,0.11,0.1,0.12,0.07
+Economic shocks,Means to prevent and resolve disputes over natural resources,Better information about the impact and benefits of the project,0.07,0.06,0.07,0.11,0.07,0.07,0.07,0.07,0.07
+Economic shocks,Means to prevent and resolve disputes over natural resources,External companies should stay away,0.04,0.03,0.05,0.08,0.04,0.04,0.02,0.04,0.02
+Economic shocks,Means to prevent and resolve disputes over natural resources,Companies who enter do not destroy or harm natural resources,0.08,0.12,0.09,0.15,0.07,0.06,0.06,0.05,0.11
+Economic shocks,Means to prevent and resolve disputes over natural resources,Stop cutting down trees/re-plant trees,0.02,0.01,0.03,0.01,0.03,0,0.02,0.02,0.04
+Economic shocks,Means to prevent and resolve disputes over natural resources,Community should organize/unite,0.01,0.01,0.01,0,0.01,0.01,0.01,0,0.01
+Economic shocks,Means to prevent and resolve disputes over natural resources,Government support to take care of their community (natural resources/land),0,0,0,0,0,0,0.01,0,0.01
+Economic shocks,Means to prevent and resolve disputes over natural resources,"Other, specify",0.01,0.01,0.02,0,0.01,0.01,0.01,0.01,0
+Economic shocks,Means to prevent and resolve disputes over natural resources,No response,0.29,0.28,0.26,0.16,0.24,0.3,0.29,0.43,0.25
+Economic shocks,Who helps resolve such conflicts,Myself,0.2,0.22,0.26,0.35,0.17,0.14,0.19,0.19,0.1
+Economic shocks,Who helps resolve such conflicts,The church,0.02,0.03,0.01,0.06,0.04,0.01,0.02,0.01,0.02
+Economic shocks,Who helps resolve such conflicts,La Escuela (los profesores),0.01,0,0.03,0.03,0.02,0,0,0.01,0.01
+Economic shocks,Who helps resolve such conflicts,Individual leaders,0.09,0.08,0.1,0.1,0.05,0.1,0.1,0.09,0.05
+Economic shocks,Who helps resolve such conflicts,Community elected organization,0.17,0.12,0.15,0.24,0.17,0.29,0.17,0.15,0.11
+Economic shocks,Who helps resolve such conflicts,NGOs,0.01,0.01,0,0.01,0,0.01,0.01,0.05,0.02
+Economic shocks,Who helps resolve such conflicts,City / Municipality Government,0.18,0.17,0.13,0.2,0.18,0.17,0.21,0.16,0.18
+Economic shocks,Who helps resolve such conflicts,Departmental government,0.03,0.05,0.01,0.04,0.04,0.03,0.02,0.01,0.05
+Economic shocks,Who helps resolve such conflicts,National government,0.05,0.07,0.05,0.05,0.11,0.02,0.03,0.03,0.07
+Economic shocks,Who helps resolve such conflicts,Cocodes,0.06,0.03,0.11,0.06,0.1,0.03,0.07,0.06,0.08
+Economic shocks,Who helps resolve such conflicts,Nobody,0.46,0.49,0.41,0.36,0.43,0.45,0.42,0.58,0.54
+Economic shocks,Who helps resolve such conflicts,Community,0.01,0.01,0.03,0.02,0.02,0,0.01,0.01,0.01
+Economic shocks,Who helps resolve such conflicts,"Other, specify",0.01,0,0,0.01,0.01,0.01,0.01,0,0.03
+Economic shocks,Perception of environmental dispute resolution (% good - very good),The ability of the people in this community to come together to resolve disputes over natural resoruces without violence,0.46,0.4,0.47,0.49,0.55,0.58,0.46,0.38,0.48
+Economic shocks,Perception of environmental dispute resolution (% good - very good),The ability of the people in this and other community to resolve disputes over natural resources without violence,0.42,0.36,0.5,0.43,0.51,0.53,0.42,0.32,0.43
+Development projects,Presence,Any development project,0.07,0.08,0.06,0.09,0.09,0.06,0.08,0.08,0.05
+Development projects,Presence,Result in conflict or dispute?,0.5,0.55,0.37,0.42,0.73,0.71,0.33,0.56,0.33
+Development projects,Effect of conflict / dispute on you / community,Nothing,0.12,0.09,0.13,0.1,0.11,0.24,0.17,0.08,0
+Development projects,Effect of conflict / dispute on you / community,It threatened my health,0.16,0,0.43,0.09,0.06,0.12,0.35,0.28,0
+Development projects,Effect of conflict / dispute on you / community,Brought Violence,0.27,0.45,0.14,0.2,0.05,0.13,0.13,0.52,0
+Development projects,Effect of conflict / dispute on you / community,Polluted my land,0.2,0.18,0.57,0.09,0.28,0.12,0.26,0.12,0.25
+Development projects,Effect of conflict / dispute on you / community,Took away all or a part of my land,0.06,0.09,0,0.1,0.06,0,0.13,0,0
+Development projects,Effect of conflict / dispute on you / community,Modified or harmed my water source,0.29,0.18,0,0.18,0.67,0.18,0.17,0.4,1
+Development projects,Effect of conflict / dispute on you / community,Made me leave my community,0.01,0,0,0.09,0,0,0,0,0
+Development projects,Effect of conflict / dispute on you / community,Ruined roads,0.04,0.09,0,0.1,0,0.06,0,0,0
+Development projects,Effect of conflict / dispute on you / community,Problems between neighbors/within community,0.04,0,0.14,0,0.05,0,0.04,0.08,0
+Development projects,Effect of conflict / dispute on you / community,Affects electricity/power/prices,0.05,0.09,0,0.09,0,0.12,0.04,0,0
+Development projects,Effect of conflict / dispute on you / community,"Other, specify",0.02,0,0,0.09,0,0,0.08,0,0
+Development projects,Effect of conflict / dispute on you / community,No response,0.01,0,0,0,0,0,0.09,0,0
+Development projects,Who helps resolve dipsutes over development projects,Myself,0.17,0.19,0.23,0.3,0.21,0.11,0.15,0.11,0.11
+Development projects,Who helps resolve dipsutes over development projects,The church,0.03,0.03,0.03,0.07,0.04,0.02,0.03,0.01,0.03
+Development projects,Who helps resolve dipsutes over development projects,La Escuela (los profesores),0.01,0.01,0.01,0.03,0.03,0,0,0,0.01
+Development projects,Who helps resolve dipsutes over development projects,Individual leaders,0.08,0.08,0.09,0.11,0.06,0.06,0.08,0.07,0.04
+Development projects,Who helps resolve dipsutes over development projects,Community elected organization,0.15,0.14,0.15,0.22,0.18,0.24,0.14,0.08,0.08
+Development projects,Who helps resolve dipsutes over development projects,NGOs,0.03,0.02,0.01,0.03,0.02,0.04,0.02,0.04,0.02
+Development projects,Who helps resolve dipsutes over development projects,City / Municipality Government,0.17,0.18,0.14,0.22,0.17,0.13,0.19,0.12,0.18
+Development projects,Who helps resolve dipsutes over development projects,Departmental government,0.03,0.03,0.02,0.04,0.03,0.03,0.03,0.01,0.06
+Development projects,Who helps resolve dipsutes over development projects,National government,0.08,0.11,0.07,0.08,0.19,0.04,0.04,0.04,0.1
+Development projects,Who helps resolve dipsutes over development projects,Cocodes,0.07,0.05,0.1,0.08,0.09,0.05,0.07,0.04,0.07
+Development projects,Who helps resolve dipsutes over development projects,Nobody,0.5,0.47,0.43,0.36,0.34,0.52,0.5,0.7,0.59
+Development projects,Who helps resolve dipsutes over development projects,The community,0,0,0.01,0.01,0.01,0,0,0,0.01
+Development projects,Who helps resolve dipsutes over development projects,Private businesses,0,0,0,0,0,0,0,0,0.01
+Development projects,Who helps resolve dipsutes over development projects,Police,0,0,0,0,0,0,0,0,0
+Development projects,Who helps resolve dipsutes over development projects,"Other, specify",0,0,0,0,0,0,0,0,0
+Development projects,Role of communities (general),Nothing,0.27,0.28,0.23,0.34,0.28,0.25,0.29,0.19,0.3
+Development projects,Role of communities (general),Organize / mobilize,0.26,0.26,0.35,0.32,0.32,0.27,0.28,0.15,0.15
+Development projects,Role of communities (general),Protest,0.07,0.09,0.07,0.13,0.07,0.07,0.07,0.06,0.03
+Development projects,Role of communities (general),Organized meetings for dialogue,0.16,0.16,0.15,0.19,0.25,0.17,0.17,0.11,0.08
+Development projects,Role of communities (general),Speak with NGOs,0.01,0,0.01,0.01,0.01,0.03,0.01,0.02,0.01
+Development projects,Role of communities (general),Speak with the media,0.01,0.01,0.03,0.03,0.01,0.02,0.02,0,0.01
+Development projects,Role of communities (general),Try to elect trustworthy individuals,0.01,0.01,0.01,0.02,0.03,0.01,0.01,0,0.01
+Development projects,Role of communities (general),Present official proposals for change to community authorities,0.02,0.03,0.01,0.03,0.03,0.02,0.02,0,0.02
+Development projects,Role of communities (general),"Other, specify",0.02,0.02,0.01,0.02,0.01,0.02,0.01,0.02,0.01
+Development projects,Role of communities (general),No response,0.38,0.35,0.33,0.25,0.26,0.4,0.34,0.59,0.46
+Development projects,Role of state actors (general),Nothing,0.57,0.54,0.61,0.71,0.66,0.58,0.63,0.38,0.55
+Development projects,Role of state actors (general),Remove corrupt leaders,0.01,0.01,0,0.01,0.02,0,0.01,0.01,0.01
+Development projects,Role of state actors (general),Create and act on policies in favor of development projects,0.01,0.03,0.01,0.02,0.02,0.01,0.01,0.01,0.01
+Development projects,Role of state actors (general),Empty promises,0.02,0.02,0.04,0.01,0.01,0.01,0.02,0,0.01
+Development projects,Role of state actors (general),Start a bureaucratic process with no result,0.01,0.02,0.03,0.01,0.02,0.01,0.01,0,0.02
+Development projects,Role of state actors (general),Legislation in favor of companies,0.01,0.01,0.01,0.01,0,0,0.01,0,0.01
+Development projects,Role of state actors (general),Legilsation in favor of communities,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.03,0.01
+Development projects,Role of state actors (general),Good intentions but lack of resources,0.01,0.03,0,0.01,0.02,0,0.01,0,0.02
+Development projects,Role of state actors (general),"Other, specify",0,0.01,0,0.01,0.01,0,0,0,0.01
+Development projects,Role of state actors (general),No response,0.36,0.35,0.3,0.22,0.25,0.37,0.32,0.58,0.39
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),Non-violent protests are an acceptable way to show disagreement with development projects,0.86,0.87,0.9,0.82,0.85,0.83,0.84,0.89,0.87
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),Sometimes violence is necessary to show disagreement with development projects,0.16,0.16,0.16,0.13,0.16,0.13,0.17,0.17,0.16
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),It is the role of the state to resolve problems linked to development projects,0.83,0.81,0.8,0.85,0.87,0.85,0.83,0.79,0.85
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),Communal / community consultations must be organized when dealing with development projects,0.91,0.9,0.92,0.92,0.94,0.93,0.91,0.89,0.92
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),There is space for negotiation and dialogue when dealing with development projects,0.71,0.71,0.66,0.77,0.73,0.81,0.71,0.6,0.8
+Development projects,Perception of means when confornted to environemtnal problems (%n agree),It is possible for the community to organzie itself and seek a solution,0.89,0.86,0.89,0.89,0.91,0.9,0.89,0.89,0.89
+Exposure to crimes,Theft / burglary (incidence - last 12 months),none,0.71,0.68,0.72,0.73,0.74,0.69,0.71,0.68,0.78
+Exposure to crimes,Theft / burglary (incidence - last 12 months),myself,0.07,0.12,0.08,0.08,0.05,0.05,0.06,0.05,0.07
+Exposure to crimes,Theft / burglary (incidence - last 12 months),household,0.09,0.09,0.11,0.1,0.12,0.09,0.09,0.1,0.07
+Exposure to crimes,Theft / burglary (incidence - last 12 months),others in the community,0.17,0.17,0.11,0.17,0.13,0.19,0.18,0.21,0.11
+Exposure to crimes,Theft / burglary (incidence - last 12 months),No response,0,0,0,0,0,0,0,0.01,0.01
+Exposure to crimes,Physical attack resulting in injury (incidence - last 12 months),none,0.87,0.87,0.89,0.87,0.9,0.88,0.87,0.85,0.92
+Exposure to crimes,Physical attack resulting in injury (incidence - last 12 months),myself,0.02,0.02,0.04,0.03,0.03,0.02,0.01,0.01,0.01
+Exposure to crimes,Physical attack resulting in injury (incidence - last 12 months),household,0.02,0.03,0.03,0.04,0.04,0.01,0.03,0.01,0.02
+Exposure to crimes,Physical attack resulting in injury (incidence - last 12 months),others in the community,0.08,0.08,0.06,0.09,0.05,0.08,0.09,0.12,0.07
+Exposure to crimes,Physical attack resulting in injury (incidence - last 12 months),No response,0,0.01,0,0,0,0,0,0.01,0
+Exposure to crimes,Physical attack resulting in the death of someone you knew personally (incidence - last 12 months),none,0.94,0.92,0.95,0.92,0.94,0.95,0.93,0.96,0.95
+Exposure to crimes,Physical attack resulting in the death of someone you knew personally (incidence - last 12 months),myself,0.01,0.01,0.01,0.02,0.01,0,0.01,0,0.01
+Exposure to crimes,Physical attack resulting in the death of someone you knew personally (incidence - last 12 months),household,0.02,0.02,0.03,0.03,0.01,0.01,0.02,0.01,0.01
+Exposure to crimes,Physical attack resulting in the death of someone you knew personally (incidence - last 12 months),others in the community,0.04,0.04,0.01,0.06,0.05,0.03,0.04,0.03,0.04
+Exposure to crimes,Physical attack resulting in the death of someone you knew personally (incidence - last 12 months),No response,0,0,0,0.01,0,0,0,0,0
+Exposure to crimes,Unlawful occupation of your land (incidence - last 12 months),none,0.96,0.97,0.96,0.93,0.98,0.97,0.96,0.96,0.96
+Exposure to crimes,Unlawful occupation of your land (incidence - last 12 months),myself,0.01,0.02,0.01,0.01,0,0,0,0.01,0.01
+Exposure to crimes,Unlawful occupation of your land (incidence - last 12 months),household,0.01,0.02,0,0.01,0.01,0,0.01,0.01,0
+Exposure to crimes,Unlawful occupation of your land (incidence - last 12 months),others in the community,0.02,0,0.03,0.03,0.01,0.02,0.03,0.01,0.02
+Exposure to crimes,Unlawful occupation of your land (incidence - last 12 months),No response,0.01,0,0,0.03,0,0,0,0.01,0.01
+Exposure to crimes,Kidnapping (incidence - last 12 months),none,0.97,0.97,0.99,0.93,0.97,0.98,0.97,0.97,0.96
+Exposure to crimes,Kidnapping (incidence - last 12 months),myself,0,0.01,0,0,0.01,0,0,0,0.01
+Exposure to crimes,Kidnapping (incidence - last 12 months),household,0,0,0,0.01,0,0,0,0,0
+Exposure to crimes,Kidnapping (incidence - last 12 months),others in the community,0.02,0.02,0.01,0.05,0.02,0.01,0.02,0.03,0.02
+Exposure to crimes,Kidnapping (incidence - last 12 months),No response,0,0,0,0.02,0,0.01,0,0,0.01
+Exposure to crimes,Any other crime (incidence - last 12 months),none,0.92,0.92,0.93,0.9,0.96,0.96,0.92,0.9,0.94
+Exposure to crimes,Any other crime (incidence - last 12 months),myself,0.01,0,0,0.01,0.01,0,0.01,0,0.01
+Exposure to crimes,Any other crime (incidence - last 12 months),household,0.01,0,0.01,0.01,0.01,0,0.01,0,0.01
+Exposure to crimes,Any other crime (incidence - last 12 months),others in the community,0.04,0.05,0.04,0.07,0.03,0.02,0.03,0.06,0.02
+Exposure to crimes,Any other crime (incidence - last 12 months),No response,0.03,0.02,0.02,0.02,0,0.02,0.04,0.04,0.02
+Exposure to crimes,Sense of security (% a lot - extremely safe),General,0.53,0.49,0.53,0.46,0.53,0.68,0.51,0.58,0.49
+Exposure to crimes,Sense of security (% a lot - extremely safe),Walking alone at night,0.38,0.39,0.35,0.28,0.39,0.47,0.37,0.4,0.39
+Exposure to crimes,Principal causes of insecurity,The existence of gangs,0.18,0.24,0.24,0.26,0.23,0.15,0.14,0.1,0.18
+Exposure to crimes,Principal causes of insecurity,Constant robberies,0.4,0.49,0.44,0.48,0.46,0.27,0.36,0.38,0.38
+Exposure to crimes,Principal causes of insecurity,Walking alone,0.2,0.19,0.2,0.31,0.18,0.23,0.19,0.14,0.16
+Exposure to crimes,Principal causes of insecurity,Lack of education,0.07,0.03,0.1,0.16,0.07,0.06,0.05,0.05,0.09
+Exposure to crimes,Principal causes of insecurity,Lack of employment,0.13,0.11,0.21,0.16,0.1,0.12,0.11,0.11,0.21
+Exposure to crimes,Principal causes of insecurity,The lack of police,0.19,0.19,0.37,0.27,0.13,0.14,0.18,0.09,0.27
+Exposure to crimes,Principal causes of insecurity,The presence of drugs / drug traffickers,0.06,0.05,0.06,0.12,0.03,0.04,0.06,0.05,0.09
+Exposure to crimes,Principal causes of insecurity,"""Crime""",0.01,0,0.01,0.01,0,0,0.02,0.02,0
+Exposure to crimes,Principal causes of insecurity,Alcohol-related,0.04,0.05,0.03,0.03,0.03,0.02,0.04,0.07,0.01
+Exposure to crimes,Principal causes of insecurity,Murder/Assassination,0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.02,0
+Exposure to crimes,Principal causes of insecurity,No street-lighting,0.01,0.01,0.01,0.01,0,0,0.01,0.01,0.02
+Exposure to crimes,Principal causes of insecurity,Extortion,0.01,0.01,0.01,0,0,0,0.01,0.02,0
+Exposure to crimes,Principal causes of insecurity,Corruption/Corrupt politicians,0.01,0,0.01,0,0,0,0.01,0.01,0.01
+Exposure to crimes,Principal causes of insecurity,Violence generally,0.02,0.02,0.01,0.01,0,0,0.03,0.06,0.01
+Exposure to crimes,Principal causes of insecurity,Nothing,0.04,0.02,0.05,0.03,0.05,0.01,0.07,0.04,0.05
+Exposure to crimes,Principal causes of insecurity,Rape/Sexual assault,0.01,0,0,0,0.01,0,0.01,0.01,0
+Exposure to crimes,Principal causes of insecurity,"""Strangers to the community"" ""people not from here""",0.01,0.01,0,0.01,0,0.02,0.01,0.01,0.01
+Exposure to crimes,Principal causes of insecurity,"Other, specify",0.03,0.02,0.04,0.03,0.02,0.01,0.04,0.04,0.02
+Exposure to crimes,Principal causes of insecurity,None,0.2,0.15,0.11,0.1,0.23,0.39,0.16,0.27,0.19
+Exposure to crimes,Who ensures security here,The police,0.31,0.33,0.43,0.34,0.4,0.27,0.26,0.24,0.28
+Exposure to crimes,Who ensures security here,Private Security,0.05,0.06,0.05,0.05,0.05,0.04,0.03,0.05,0.04
+Exposure to crimes,Who ensures security here,Organized neighbors,0.33,0.28,0.27,0.38,0.33,0.43,0.3,0.4,0.2
+Exposure to crimes,Who ensures security here,Yourself,0.34,0.4,0.32,0.32,0.29,0.22,0.34,0.35,0.48
+Exposure to crimes,Who ensures security here,Nobody,0.07,0.03,0.06,0.04,0.03,0.07,0.13,0.07,0.04
+Exposure to crimes,Who ensures security here,God,0.03,0.04,0.03,0.02,0.04,0.04,0.02,0.02,0.07
+Exposure to crimes,Who ensures security here,Mayor,0.02,0,0.01,0.01,0,0.03,0.03,0.01,0.02
+Exposure to crimes,Who ensures security here,COCODE,0.02,0.01,0.02,0.03,0.01,0.02,0.02,0.03,0.01
+Exposure to crimes,Who ensures security here,Military,0.02,0.02,0.02,0.01,0.02,0.02,0.01,0.03,0.02
+Exposure to crimes,Who ensures security here,Everyone/us/ourselves/the community,0.01,0.01,0,0.01,0.04,0,0.01,0.01,0.01
+Exposure to crimes,Who ensures security here,Government,0,0,0.01,0,0.01,0,0.01,0,0.01
+Exposure to crimes,Who ensures security here,"Other, specify",0,0,0,0,0,0,0.01,0,0.02
+Exposure to crimes,Who ensures security here,No response,0.04,0.04,0.04,0.06,0.03,0.07,0.05,0.03,0.02
+Exposure to crimes,Actions to improve security,Implement technology,0.07,0.08,0.11,0.15,0.05,0.04,0.05,0.05,0.07
+Exposure to crimes,Actions to improve security,Neighborhood watch,0.35,0.31,0.33,0.38,0.33,0.42,0.35,0.41,0.27
+Exposure to crimes,Actions to improve security,Private Security,0.05,0.06,0.09,0.1,0.04,0.06,0.04,0.03,0.04
+Exposure to crimes,Actions to improve security,More police,0.5,0.47,0.61,0.53,0.53,0.48,0.49,0.46,0.5
+Exposure to crimes,Actions to improve security,More presence of the military / armed forces,0.14,0.14,0.15,0.15,0.21,0.07,0.1,0.15,0.3
+Exposure to crimes,Actions to improve security,Fewer police,0.03,0.03,0.03,0.02,0.02,0.03,0.02,0.03,0.02
+Exposure to crimes,Actions to improve security,Less presence of the military / armed forces,0.01,0,0,0.01,0,0,0,0.02,0.01
+Exposure to crimes,Actions to improve security,More education,0.13,0.12,0.2,0.19,0.16,0.1,0.11,0.08,0.12
+Exposure to crimes,Actions to improve security,More employemnt,0.14,0.13,0.2,0.18,0.13,0.14,0.12,0.14,0.16
+Exposure to crimes,Actions to improve security,More dialogue,0.07,0.07,0.08,0.15,0.09,0.06,0.06,0.04,0.05
+Exposure to crimes,Actions to improve security,More justice / less impunity,0.08,0.08,0.07,0.1,0.06,0.05,0.09,0.06,0.11
+Exposure to crimes,Actions to improve security,Better lighting,0.01,0.01,0.01,0,0.01,0,0.01,0.01,0.02
+Exposure to crimes,Actions to improve security,Organize/Unite,0.01,0,0.02,0.01,0.01,0.01,0.01,0.02,0.02
+Exposure to crimes,Actions to improve security,Less corruption/No corruption,0.01,0.01,0.02,0,0,0,0.01,0,0.01
+Exposure to crimes,Actions to improve security,"Other, specify",0.02,0.04,0.03,0.02,0.02,0.01,0.02,0.02,0.02
+Exposure to crimes,Actions to improve security,Nothing,0.1,0.09,0.08,0.08,0.11,0.13,0.1,0.12,0.04
+Exposure to crimes,Action when feeling unsafe,Carry a gun,0.01,0.02,0.01,0.02,0,0.01,0.01,0.01,0.02
+Exposure to crimes,Action when feeling unsafe,Call the police,0.08,0.05,0.04,0.09,0.09,0.1,0.09,0.09,0.06
+Exposure to crimes,Action when feeling unsafe,Don't go out alone,0.25,0.2,0.26,0.38,0.35,0.18,0.26,0.25,0.21
+Exposure to crimes,Action when feeling unsafe,Don't go out,0.56,0.65,0.59,0.53,0.51,0.55,0.55,0.49,0.59
+Exposure to crimes,Action when feeling unsafe,Tell the neighbors,0.17,0.11,0.15,0.1,0.17,0.22,0.16,0.28,0.18
+Exposure to crimes,Action when feeling unsafe,Nothing,0.02,0.01,0.01,0.02,0,0.01,0.03,0.02,0.01
+Exposure to crimes,Action when feeling unsafe,Pray/ask god for help,0.03,0.05,0.06,0.03,0.03,0.01,0.02,0.01,0.04
+Exposure to crimes,Action when feeling unsafe,"Other, specify",0.01,0.01,0.01,0.01,0.02,0.01,0.01,0.02,0.02
+Exposure to crimes,Action when feeling unsafe,No response,0.06,0.07,0.08,0.05,0.06,0.1,0.05,0.06,0.06
+Exposure to crimes,Change in sense of security in last year,More,0.08,0.1,0.07,0.08,0.12,0.09,0.06,0.06,0.05
+Exposure to crimes,Change in sense of security in last year,Same,0.75,0.71,0.74,0.78,0.73,0.79,0.74,0.77,0.78
+Exposure to crimes,Change in sense of security in last year,Less,0.17,0.19,0.19,0.15,0.16,0.11,0.2,0.17,0.16
+Exposure to crimes,Perception of police,Access to police (% bad - very bad),0.44,0.51,0.39,0.39,0.33,0.46,0.46,0.41,0.51
+Exposure to crimes,Perception of police,Likelihood that community would use violence if police does first (little - not at all),0.37,0.35,0.42,0.37,0.37,0.28,0.38,0.45,0.4
+Exposure to crimes,Perception of police,Effectiveness of police at controlling crime in the area (%bad - very bad),0.42,0.47,0.34,0.35,0.3,0.45,0.43,0.43,0.48
+Exposure to crimes,Perception of police,Police respond promptly to requests for assistance (% agree),0.21,0.19,0.2,0.23,0.25,0.22,0.23,0.2,0.18
+Exposure to crimes,Perception of police,Police does as much as possible to be of service (% little - not at all),0.45,0.51,0.43,0.41,0.35,0.49,0.47,0.35,0.51
+Exposure to crimes,Perception of police,Extent to which it is possible to avoid arrest by offering a bribe to a police officer (little - not at all),0.24,0.18,0.29,0.34,0.17,0.25,0.26,0.19,0.28
+Exposure to crimes,Perception of police,Frequency of police abuse in their contacts with people (% often - all the time),0.15,0.18,0.11,0.13,0.09,0.15,0.18,0.15,0.18
+Exposure to crimes,Perception of police,Police treat people of all groups fairly and without discrimination (% agree),0.25,0.22,0.22,0.2,0.32,0.25,0.28,0.21,0.29
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),The police,0.55,0.65,0.56,0.52,0.42,0.54,0.55,0.49,0.62
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),The judicial system,0.58,0.6,0.55,0.62,0.49,0.58,0.59,0.53,0.71
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),Other state actors,0.73,0.78,0.67,0.82,0.66,0.73,0.71,0.68,0.85
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),Associations / groups in the community,0.46,0.47,0.43,0.5,0.44,0.4,0.5,0.39,0.61
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),Individuals in the community,0.52,0.51,0.44,0.58,0.5,0.57,0.53,0.46,0.62
+Exposure to crimes,Contribution of actors to adressing crimes (% little - not at all),Other actors,0.76,0.77,0.68,0.83,0.82,0.76,0.76,0.71,0.75
+Exposure to crimes,Perception of community response (% good - very good),The ability of the people in this community to come together to adress crimes without violence,0.51,0.47,0.64,0.48,0.57,0.64,0.48,0.47,0.49
+Exposure to crimes,Perception of community response (% good - very good),The ability of the people in this and other community to rto adress crimes without violence,0.45,0.41,0.53,0.41,0.52,0.58,0.42,0.43,0.41
+Exposure to crimes,Perception of crime response (% agree),The best way to adress crimes is to say nothing and accept what happened,0.16,0.16,0.12,0.13,0.17,0.18,0.18,0.16,0.09
+Exposure to crimes,Perception of crime response (% agree),Q46. Crimes must be adressed by the insituttions of the state,0.85,0.86,0.83,0.84,0.85,0.88,0.84,0.87,0.83
+Exposure to crimes,Perception of crime response (% agree),It is possible for the community to organzie itself and prevent crimes,0.85,0.83,0.87,0.81,0.83,0.9,0.83,0.87,0.86
+Exposure to crimes,Perception of crime response (% agree),Private security is necessary to prevent crimes,0.57,0.53,0.66,0.55,0.57,0.5,0.6,0.55,0.58
+Exposure to crimes,Perception of crime response (% agree),"It is acceptable for the police to use violence against criminals, even if they are not violent",0.26,0.24,0.35,0.3,0.25,0.26,0.29,0.19,0.17
+Exposure to crimes,Perception of crime response (% agree),"Sometimes, it is acceptable for the community to use violence in response to a crime",0.29,0.24,0.41,0.3,0.32,0.3,0.27,0.29,0.25
+Exposure to crimes,Acceptable use of violence in response to crimes,Murder,0.31,0.31,0.42,0.44,0.37,0.23,0.26,0.28,0.35
+Exposure to crimes,Acceptable use of violence in response to crimes,Sexual violence / rape,0.25,0.28,0.26,0.33,0.29,0.23,0.23,0.22,0.24
+Exposure to crimes,Acceptable use of violence in response to crimes,Other physical violence,0.07,0.05,0.11,0.17,0.05,0.08,0.05,0.04,0.04
+Exposure to crimes,Acceptable use of violence in response to crimes,Theft,0.17,0.12,0.27,0.2,0.19,0.19,0.13,0.18,0.17
+Exposure to crimes,Acceptable use of violence in response to crimes,Kidnapping,0.01,0.01,0.01,0.01,0,0.01,0.01,0.02,0.01
+Exposure to crimes,Acceptable use of violence in response to crimes,Never/none/not okay,0.55,0.56,0.38,0.39,0.44,0.63,0.62,0.61,0.53
+Exposure to crimes,Acceptable use of violence in response to crimes,Other,0.01,0.01,0.02,0.01,0.02,0.02,0.01,0.01,0.02
+Exposure to crimes,Level of violence,Past level (% a lot - extreme),0.32,0.34,0.36,0.4,0.41,0.3,0.29,0.24,0.29
+Exposure to crimes,Level of violence,Risk of community violence (% a lot - extreme),0.16,0.13,0.21,0.17,0.2,0.17,0.16,0.14,0.16
+Exposure to crimes,Risk of conflict becoming violent (somewhat - extremely likely),Community conflicts over the use and dstribution of natural resources?,0.34,0.4,0.33,0.29,0.36,0.25,0.3,0.42,0.45
+Exposure to crimes,Risk of conflict becoming violent (somewhat - extremely likely),Community conflicts over other agrarian issues?,0.3,0.37,0.24,0.25,0.27,0.2,0.28,0.39,0.39
+Exposure to crimes,Risk of conflict becoming violent (somewhat - extremely likely),Community conflicts over development decisions?,0.37,0.43,0.38,0.25,0.35,0.26,0.34,0.5,0.38
+Exposure to crimes,Risk of conflict becoming violent (somewhat - extremely likely),"Community conflicts over jobs, the economy?",0.28,0.26,0.23,0.26,0.23,0.21,0.27,0.39,0.33
+Exposure to crimes,Risk of conflict becoming violent (somewhat - extremely likely),Other conflicts,0.2,0.18,0.19,0.14,0.16,0.16,0.2,0.31,0.27
+Domestic violence,Acceptable circumstances for inter-partner violence,Never,0.93,0.92,0.92,0.93,0.91,0.95,0.92,0.94,0.93
+Domestic violence,Acceptable circumstances for inter-partner violence,Lack of respect,0.03,0.05,0.01,0.04,0.05,0.03,0.03,0.02,0.02
+Domestic violence,Acceptable circumstances for inter-partner violence,Having an affair,0.04,0.04,0.04,0.04,0.05,0.03,0.04,0.03,0.02
+Domestic violence,Acceptable circumstances for inter-partner violence,Food not ready,0.01,0,0,0.01,0.01,0,0.01,0.01,0.01
+Domestic violence,Acceptable circumstances for inter-partner violence,Damage something/lose money,0,0.01,0.01,0,0,0,0,0,0
+Domestic violence,Acceptable circumstances for inter-partner violence,Come back home too late,0.01,0.01,0.02,0,0,0,0,0,0
+Domestic violence,Acceptable circumstances for inter-partner violence,Go somewhere without permission,0.01,0.01,0.02,0,0,0,0.01,0,0
+Domestic violence,Acceptable circumstances for inter-partner violence,Self-defense/They abuse first/defend my child,0.01,0,0,0.01,0,0.01,0.01,0.01,0.01
+Domestic violence,Acceptable circumstances for inter-partner violence,"Other, specify",0.02,0.02,0.03,0.01,0.02,0.01,0.01,0.01,0.02
+Domestic violence,Acceptable circumstances for vuiolence against children,Never,0.77,0.78,0.8,0.82,0.73,0.78,0.78,0.71,0.78
+Domestic violence,Acceptable circumstances for vuiolence against children,Lack of respect,0.14,0.14,0.08,0.11,0.16,0.13,0.12,0.2,0.11
+Domestic violence,Acceptable circumstances for vuiolence against children,Damage something/lose money,0.01,0.02,0.01,0.02,0.03,0.01,0.01,0,0.02
+Domestic violence,Acceptable circumstances for vuiolence against children,Don't go to school,0.02,0.02,0.01,0.02,0.02,0.01,0.01,0.01,0.03
+Domestic violence,Acceptable circumstances for vuiolence against children,Bad results at school,0.01,0.02,0.01,0.02,0.01,0.01,0.01,0,0.04
+Domestic violence,Acceptable circumstances for vuiolence against children,Women getting pregnant,0,0,0,0,0.01,0,0.01,0,0.01
+Domestic violence,Acceptable circumstances for vuiolence against children,Cuando son muy contestones y malcriados,0.13,0.12,0.14,0.1,0.17,0.12,0.1,0.17,0.09
+Domestic violence,Acceptable circumstances for vuiolence against children,Going around with bad people,0.03,0.04,0.03,0.03,0.05,0.02,0.02,0.04,0.04
+Domestic violence,Acceptable circumstances for vuiolence against children,Stealing,0.04,0.05,0.04,0.01,0.05,0.03,0.03,0.03,0.04
+Domestic violence,Acceptable circumstances for vuiolence against children,To correct/educate/train them,0.01,0.01,0.01,0.01,0,0,0.02,0.02,0
+Domestic violence,Acceptable circumstances for vuiolence against children,"Other, specify",0.01,0,0,0.01,0.01,0,0.02,0.01,0
+Domestic violence,Acceptable circumstances for vuiolence against children,No response,0.01,0.02,0.01,0,0,0,0,0,0.05
+Domestic violence,Exposure,Violence or threat by partner,0.08,0.06,0.08,0.08,0.08,0.06,0.11,0.1,0.05
+Domestic violence,Exposure,Threat with a weapon by a spouse - prevalence,0.02,0.01,0.01,0.02,0.02,0.01,0.02,0.03,0.01
+Domestic violence,Exposure,Threat with a weapon by a spouse - incidence (one year),0.01,0.01,0.01,0,0.01,0,0.01,0.01,0
+Domestic violence,Exposure,"Hit by a spouse in a manner that causes pain, injury - prevalence",0.05,0.02,0.05,0.05,0.05,0.04,0.06,0.05,0.03
+Domestic violence,Exposure,"Hit by a spouse in a manner that causes pain, injury - incidence (one year)",0.01,0.01,0.01,0.01,0.01,0.01,0.02,0.01,0
+Domestic violence,Exposure,"Sexual abuse by a spouse, partner - prevalence",0.01,0,0,0,0.01,0.01,0.01,0.02,0
+Domestic violence,Exposure,"Sexual abuse by a spouse, partner - incidence (one year)",0,0,0,0,0,0,0,0.01,0
+Domestic violence,Exposure,Has threatened a spouse or partner with a weapon - prevalence,0.01,0,0,0,0,0.02,0.01,0,0.01
+Domestic violence,Exposure,Has threatened a spouse or partner with a weapon - incidence (one year),0,0,0,0,0,0.01,0,0,0
+Domestic violence,Exposure,"Has hit a spouse or partner in a manner that causes pain, injury - prevalence",0.02,0.04,0,0.02,0.01,0.03,0.03,0.02,0.02
+Domestic violence,Exposure,"Has hit a spouse or partner in a manner that causes pain, injury - incidence (one year)",0.01,0,0,0,0,0.01,0.01,0,0.01
+Domestic violence,Exposure,Has hit a child in a manner that caused serious pain or injury - prevalence,0.04,0.06,0,0.04,0.03,0.05,0.03,0.03,0.02
+Domestic violence,Exposure,Has hit a child in a manner that caused serious pain or injury - incidence (one year),0.01,0.02,0,0.02,0.01,0.03,0.01,0.01,0.01
+Domestic violence,Response to domestic violence (if experienced),Denounced the assailant,0.15,0.08,0.09,0.22,0.16,0.2,0.18,0.12,0.29
+Domestic violence,Response to domestic violence (if experienced),Kept it a secret,0.52,0.62,0.78,0.33,0.37,0.2,0.51,0.63,0.43
+Domestic violence,Response to domestic violence (if experienced),Reported it to a NGO,0.02,0,0,0.06,0,0,0.01,0.05,0.14
+Domestic violence,Response to domestic violence (if experienced),Told a religious oranizaiton,0.05,0,0.09,0.17,0,0.05,0.03,0.05,0.14
+Domestic violence,Response to domestic violence (if experienced),Went to the doctor,0.04,0,0,0.06,0,0,0.07,0.08,0.14
+Domestic violence,Response to domestic violence (if experienced),Nothing,0.07,0,0,0.11,0.21,0.26,0.07,0,0
+Domestic violence,Response to domestic violence (if experienced),Went to my family,0.03,0,0,0.11,0.05,0,0.03,0.05,0
+Domestic violence,Response to domestic violence (if experienced),Left my partner,0.06,0.15,0,0.06,0.05,0.1,0.03,0.05,0
+Domestic violence,Response to domestic violence (if experienced),"Other, specify",0.03,0,0,0.06,0,0,0.04,0.08,0
+Domestic violence,Response to domestic violence (if experienced),No response,0.14,0.15,0.13,0.06,0.16,0.25,0.12,0.1,0.29
+Domestic violence,Response to domestic violence (if experienced),Has threatened a spouse or partner with a weapon - prevalence,0.01,0,0,0,0,0.02,0.01,0,0.01
+Domestic violence,Response to domestic violence (if experienced),Has threatened a spouse or partner with a weapon - incidence (one year),0,0,0,0,0,0.01,0,0,0
+Domestic violence,Response to domestic violence (if experienced),"Has hit a spouse or partner in a manner that causes pain, injury - prevalence",0.02,0.04,0,0.02,0.01,0.03,0.03,0.02,0.02
+Domestic violence,Response to domestic violence (if experienced),"Has hit a spouse or partner in a manner that causes pain, injury - incidence (one year)",0.01,0,0,0,0,0.01,0.01,0,0.01
+Domestic violence,Response to domestic violence (if experienced),Has hit a child in a manner that caused serious pain or injury - prevalence,0.04,0.06,0,0.04,0.03,0.05,0.03,0.03,0.02
+Domestic violence,Response to domestic violence (if experienced),Has hit a child in a manner that caused serious pain or injury - incidence (one year),0.01,0.02,0,0.02,0.01,0.03,0.01,0.01,0.01
+Justice,Knowledge and access,Understanding of formal justice system (% little - none),0.57,0.54,0.55,0.57,0.55,0.55,0.62,0.58,0.63
+Justice,Knowledge and access,Knowledge nof rights as citizen (% little - none),0.26,0.21,0.33,0.19,0.22,0.25,0.33,0.25,0.28
+Justice,Knowledge and access,Access to justice (% bad - very bad),0.32,0.34,0.28,0.35,0.29,0.35,0.32,0.27,0.31
+Justice,Perception of justice (% agree),People have equal rights before the law in Guatemala,0.79,0.77,0.75,0.74,0.78,0.84,0.8,0.81,0.79
+Justice,Perception of justice (% agree),Laws in Guatemala favor some people / groups,0.78,0.82,0.72,0.78,0.68,0.77,0.82,0.79,0.78
+Justice,Perception of justice (% agree),Some people are above the law,0.73,0.71,0.73,0.78,0.59,0.76,0.79,0.72,0.72
+Justice,Perception of justice (% agree),judges and prosecutors are generally respectful of the rights of defendants and victims,0.39,0.34,0.38,0.36,0.46,0.41,0.44,0.34,0.46
+Justice,Perception of justice (% agree),"Courts treat people fairly regardless of their income, race, national or social origin, gender or religion",0.37,0.33,0.39,0.35,0.43,0.37,0.42,0.27,0.46
+Justice,Perception of justice (% agree),Victims of crime have to pay an unofficial fee to have their complaints proceed to court,0.23,0.26,0.15,0.16,0.22,0.21,0.25,0.24,0.21
+Justice,Perception of justice (% agree),Women who are victims of sexual or other gender-based violence are able to receive a fair hearing in court?,0.79,0.78,0.79,0.76,0.77,0.82,0.81,0.78,0.78
+Justice,Perception of justice (% agree),Men who are victims of sexual or other gender-based violence are able to receive a fair hearing in court?,0.77,0.77,0.78,0.73,0.77,0.79,0.78,0.73,0.77
+Justice,Perception of justice (% agree),Judges are able to make decisions without interference by Government or politicians?,0.29,0.28,0.33,0.26,0.38,0.25,0.3,0.25,0.32
+Justice,Perception of justice (% agree),People can avoid a conviction or receive a less severe punishment by paying a bribe,0.46,0.52,0.3,0.37,0.37,0.44,0.51,0.58,0.3
