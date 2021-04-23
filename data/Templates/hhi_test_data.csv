@@ -1,412 +1,412 @@
-group,question,response,value,Women,Men
-Demographic details,v7 - Appartenance  de la  structure de santé,Confesionnelle,0.042553191,0.055045872,0.034682081
-Demographic details,v7 - Appartenance  de la  structure de santé,Privée,0.783687943,0.752293578,0.803468208
-Demographic details,v7 - Appartenance  de la  structure de santé,Publique,0.173758865,0.19266055,0.161849711
+group,question,response,Total,Women,Men
+Demographic details,v7 - Appartenance  de la  structure de sant≈Ω,Confesionnelle,0.042553191,0.055045872,0.034682081
+Demographic details,v7 - Appartenance  de la  structure de sant≈Ω,Priv≈Ωe,0.783687943,0.752293578,0.803468208
+Demographic details,v7 - Appartenance  de la  structure de sant≈Ω,Publique,0.173758865,0.19266055,0.161849711
 Demographic details,Income,Income per year,30000,40000,20000
 Demographic details,Income,Last month,30000,40000,20000
 Demographic details,Age,Age,76,75,74
 Demographic details,f1 - info_profil/Sexe,Femme,0.386524823,1,
 Demographic details,f1 - info_profil/Sexe,Homme,0.613475177,,1
-Facility,v8 - Type de la structure de santé,Centre de Santé,0.833333333,0.834862385,0.832369942
-Facility,v8 - Type de la structure de santé,Dispensaire,0.017730496,0.018348624,0.01734104
-Facility,v8 - Type de la structure de santé,Hôpital,0.145390071,0.146788991,0.144508671
-Facility,v8 - Type de la structure de santé,Poste de Santé,0.003546099,,0.005780347
-Facility,v9 - Catégorie de la structure,Catégorie 1 ( Plus de 40 lits),0.106382979,0.082568807,0.121387283
-Facility,v9 - Catégorie de la structure,Catégorie 2 (20 - 39 lits),0.156028369,0.165137615,0.150289017
-Facility,v9 - Catégorie de la structure,Catégorie 3 (5 - 19 lits),0.638297872,0.669724771,0.61849711
-Facility,v9 - Catégorie de la structure,Catégorie 4 (inclus tradipraticien) (0 - 4 lits),0.09929078,0.082568807,0.10982659
-Facility,Quel est votre position/ rôle ?,Assistant (décrirai),0.014184397,0.018348624,0.011560694
-Facility,Quel est votre position/ rôle ?,"Autre, préciser",0.017730496,0.009174312,0.023121387
-Facility,Quel est votre position/ rôle ?,Infirmière,0.35106383,0.504587156,0.25433526
-Facility,Quel est votre position/ rôle ?,Infirmière titulaire,0.368794326,0.311926606,0.404624277
-Facility,Quel est votre position/ rôle ?,Laborantin,0.017730496,0.027522936,0.011560694
-Facility,Quel est votre position/ rôle ?,Médecin,0.216312057,0.100917431,0.289017341
-Facility,Quel est votre position/ rôle ?,Sage-femme/Accoucheuse,0.010638298,0.027522936,
-Facility,Quel est votre position/ rôle ?,Travailleur ordinaire (THEO),0.003546099,,0.005780347
-Facility,f3 - info_profil/Est-ce que vous êtes le point focal PCI ?,Non,0.578014184,0.642201835,0.537572254
-Facility,f3 - info_profil/Est-ce que vous êtes le point focal PCI ?,Oui,0.421985816,0.357798165,0.462427746
-Facility,f4 - service_soins/Est-ce que votre centre a de l’eau ?,"1= Oui, en permanence et suffisant pour toutes les activités",0.719858156,0.642201835,0.768786127
-Facility,f4 - service_soins/Est-ce que votre centre a de l’eau ?,"2= non, il faut que nous allions en chercher chaque jour",0.138297872,0.183486239,0.10982659
-Facility,f4 - service_soins/Est-ce que votre centre a de l’eau ?,"2= oui, en permanence mais pas suffisant pour toutes les activités",0.141843972,0.174311927,0.121387283
+Facility,v8 - Type de la structure de sant≈Ω,Centre de Sant≈Ω,0.833333333,0.834862385,0.832369942
+Facility,v8 - Type de la structure de sant≈Ω,Dispensaire,0.017730496,0.018348624,0.01734104
+Facility,v8 - Type de la structure de sant≈Ω,H‚Ñ¢pital,0.145390071,0.146788991,0.144508671
+Facility,v8 - Type de la structure de sant≈Ω,Poste de Sant≈Ω,0.003546099,,0.005780347
+Facility,v9 - Cat≈Ωgorie de la structure,Cat≈Ωgorie 1 ( Plus de 40 lits),0.106382979,0.082568807,0.121387283
+Facility,v9 - Cat≈Ωgorie de la structure,Cat≈Ωgorie 2 (20 - 39 lits),0.156028369,0.165137615,0.150289017
+Facility,v9 - Cat≈Ωgorie de la structure,Cat≈Ωgorie 3 (5 - 19 lits),0.638297872,0.669724771,0.61849711
+Facility,v9 - Cat≈Ωgorie de la structure,Cat≈Ωgorie 4 (inclus tradipraticien) (0 - 4 lits),0.09929078,0.082568807,0.10982659
+Facility,Quel est votre position/ r‚Ñ¢le ?,Assistant (d≈Ωcrirai),0.014184397,0.018348624,0.011560694
+Facility,Quel est votre position/ r‚Ñ¢le ?,"Autre, pr≈Ωciser",0.017730496,0.009174312,0.023121387
+Facility,Quel est votre position/ r‚Ñ¢le ?,Infirmi¬ère,0.35106383,0.504587156,0.25433526
+Facility,Quel est votre position/ r‚Ñ¢le ?,Infirmi¬ère titulaire,0.368794326,0.311926606,0.404624277
+Facility,Quel est votre position/ r‚Ñ¢le ?,Laborantin,0.017730496,0.027522936,0.011560694
+Facility,Quel est votre position/ r‚Ñ¢le ?,M≈Ωdecin,0.216312057,0.100917431,0.289017341
+Facility,Quel est votre position/ r‚Ñ¢le ?,Sage-femme/Accoucheuse,0.010638298,0.027522936,
+Facility,Quel est votre position/ r‚Ñ¢le ?,Travailleur ordinaire (THEO),0.003546099,,0.005780347
+Facility,f3 - info_profil/Est-ce que vous ¬êtes le point focal PCI ?,Non,0.578014184,0.642201835,0.537572254
+Facility,f3 - info_profil/Est-ce que vous ¬êtes le point focal PCI ?,Oui,0.421985816,0.357798165,0.462427746
+Facility,f4 - service_soins/Est-ce que votre centre a de l√ïeau ?,"1= Oui, en permanence et suffisant pour toutes les activit≈Ωs",0.719858156,0.642201835,0.768786127
+Facility,f4 - service_soins/Est-ce que votre centre a de l√ïeau ?,"2= non, il faut que nous allions en chercher chaque jour",0.138297872,0.183486239,0.10982659
+Facility,f4 - service_soins/Est-ce que votre centre a de l√ïeau ?,"2= oui, en permanence mais pas suffisant pour toutes les activit≈Ωs",0.141843972,0.174311927,0.121387283
 Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,1=Pas des latrines,0.003546099,,0.005780347
-Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,2=Latrines séparées pour hommes et femmes,0.304964539,0.28440367,0.317919075
-Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,3=Latrines séparées pour employées et patients,0.521276596,0.541284404,0.50867052
-Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,4=Latrines séparées pour les gens d’isolation,0.056737589,0.04587156,0.063583815
-Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,5=Latrines utilisée par tout le monde (sans division),0.404255319,0.366972477,0.427745665
-Medical service,f6 - Comment évaluez-vous votre niveau de connaissance sur la COVID-19,1= Très mauvais,0.007092199,,0.011560694
-Medical service,f6 - Comment évaluez-vous votre niveau de connaissance sur la COVID-19,2= Mauvais,0.035460993,0.027522936,0.040462428
-Medical service,f6 - Comment évaluez-vous votre niveau de connaissance sur la COVID-19,3= Moyen,0.407801418,0.47706422,0.36416185
-Medical service,f6 - Comment évaluez-vous votre niveau de connaissance sur la COVID-19,4= Bon,0.382978723,0.376146789,0.387283237
-Medical service,f6 - Comment évaluez-vous votre niveau de connaissance sur la COVID-19,5= Très bon,0.166666667,0.119266055,0.196531792
-Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communauté ?,1=Oui,0.911347518,0.899082569,0.919075145
-Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communauté ?,2= Partiellement (pas totalement),0.078014184,0.082568807,0.075144509
-Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communauté ?,3=Non,0.010638298,0.018348624,0.005780347
+Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,2=Latrines s≈Ωpar≈Ωes pour hommes et femmes,0.304964539,0.28440367,0.317919075
+Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,3=Latrines s≈Ωpar≈Ωes pour employ≈Ωes et patients,0.521276596,0.541284404,0.50867052
+Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,4=Latrines s≈Ωpar≈Ωes pour les gens d√ïisolation,0.056737589,0.04587156,0.063583815
+Medical service,f5_1 - service_soins/Quel genre des latrines a votre structure sanitaire ?,5=Latrines utilis≈Ωe par tout le monde (sans division),0.404255319,0.366972477,0.427745665
+Medical service,f6 - Comment ≈Ωvaluez-vous votre niveau de connaissance sur la COVID-19,1= Tr¬ès mauvais,0.007092199,,0.011560694
+Medical service,f6 - Comment ≈Ωvaluez-vous votre niveau de connaissance sur la COVID-19,2= Mauvais,0.035460993,0.027522936,0.040462428
+Medical service,f6 - Comment ≈Ωvaluez-vous votre niveau de connaissance sur la COVID-19,3= Moyen,0.407801418,0.47706422,0.36416185
+Medical service,f6 - Comment ≈Ωvaluez-vous votre niveau de connaissance sur la COVID-19,4= Bon,0.382978723,0.376146789,0.387283237
+Medical service,f6 - Comment ≈Ωvaluez-vous votre niveau de connaissance sur la COVID-19,5= Tr¬ès bon,0.166666667,0.119266055,0.196531792
+Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communaut≈Ω ?,1=Oui,0.911347518,0.899082569,0.919075145
+Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communaut≈Ω ?,2= Partiellement (pas totalement),0.078014184,0.082568807,0.075144509
+Medical service,f7 - Sentez-vous capable de donner des explications sur le COVID-19 aux patients et aux membres de votre communaut≈Ω ?,3=Non,0.010638298,0.018348624,0.005780347
 Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",1= Informations sur la transmission,0.28,0.454545455,0.142857143
 Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",2= Informations sur les tests diagnostiques,0.64,0.636363636,0.642857143
 Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",3= Informations sur les mesures de confinement et quarantaine,0.32,0.545454545,0.142857143
-Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",4= Informations sur la prévention,0.2,0.363636364,0.071428571
+Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",4= Informations sur la pr≈Ωvention,0.2,0.363636364,0.071428571
 Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",5= Informations sur le traitement et la prise en charge des patients,0.8,0.727272727,0.857142857
 Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",6= Informations sur les centres de traitements COVID-19,0.36,0.181818182,0.5
-Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",7= Informations sur le triage et l’isolation,0.64,0.909090909,0.428571429
-Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",9= informations sur les méthodes pour communiquer et sensibiliser sur la COVID,0.16,0.090909091,0.214285714
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",1=Toux,0.875886525,0.963302752,0.820809249
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",2=Fatigue intense,0.326241135,0.311926606,0.335260116
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",3=Fièvre,0.968085106,0.95412844,0.976878613
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",4= Difficultés respiratoire,0.861702128,0.853211009,0.867052023
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",5= Frissons,0.095744681,0.091743119,0.098265896
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",6= Diminution ou perte du sens du goût ou de l'odorat,0.163120567,0.155963303,0.167630058
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",7= L'essoufflement,0.24822695,0.247706422,0.248554913
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",8= Douleur ou oppression dans la poitrine,0.120567376,0.128440367,0.115606936
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",9= Nouvelle toux ou aggravation de la toux,0.219858156,0.146788991,0.265895954
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",10= De fortes douleurs musculaires ou de la fatigue,0.287234043,0.275229358,0.294797688
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",11= Diarrhées,0.163120567,0.155963303,0.167630058
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",12= Maux de tête,0.205673759,0.183486239,0.219653179
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",13= Rhume,0.219858156,0.165137615,0.25433526
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",14= Vomissement,0.063829787,0.100917431,0.040462428
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?",15= Maux de gorge,0.102836879,0.055045872,0.132947977
-Clinical knowledge,"f9_1 - D’après vous, quels sont les signes du COVID-19?","97= Autres symptômes de la grippe Autre, préciser",0.021276596,0.009174312,0.028901734
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?",1 = Dans l’air  dans toutes les espaces,0.120567376,0.119266055,0.121387283
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?",2 = Par contact avec quelqu’un malade avec COVID-19,0.783687943,0.788990826,0.780346821
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?",3= Par les étrangers,0.035460993,0.04587156,0.028901734
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?",4= Par les goulettes expulsées par par les personnes infectées,0.90070922,0.944954128,0.87283237
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?",6 = Contact avec les surfaces ou objecfs infectés,0.042553191,0.018348624,0.057803468
-Clinical knowledge,"f10_1 - D’après vous, comment le COVID-19 se transmet-elle ?","97= Autre, préciser",0.003546099,,0.005780347
-Clinical knowledge,f11 - Que pensez-vous du niveau de gravité du COVID-19 en RDC?,2 = il infecte beaucoup de personnes et beaucoup meurent,0.212765957,0.275229358,0.173410405
-Clinical knowledge,f11 - Que pensez-vous du niveau de gravité du COVID-19 en RDC?,3 = il infecte beaucoup de gens mais peu en meurent,0.695035461,0.633027523,0.734104046
-Clinical knowledge,f11 - Que pensez-vous du niveau de gravité du COVID-19 en RDC?,4 = il infecte quelques personnes mais elles meurent toutes,0.017730496,0.018348624,0.01734104
-Clinical knowledge,f11 - Que pensez-vous du niveau de gravité du COVID-19 en RDC?,5 = il infecte quelques personnes mais elles vivent toutes,0.046099291,0.055045872,0.040462428
-Clinical knowledge,f11 - Que pensez-vous du niveau de gravité du COVID-19 en RDC?,98 =  pas de réponse,0.028368794,0.018348624,0.034682081
-Clinical knowledge,"f12 - Comment évaluez- vous votre propre risque d’être infecté par le COVID sur une échelle de 1 à 5, ou 1 représente aucun risque, et 5 représente un haut risque.",1 = 1 (aucun risque),0.014184397,0.009174312,0.01734104
-Clinical knowledge,"f12 - Comment évaluez- vous votre propre risque d’être infecté par le COVID sur une échelle de 1 à 5, ou 1 représente aucun risque, et 5 représente un haut risque.",2 = 2 (faible risque),0.141843972,0.100917431,0.167630058
-Clinical knowledge,"f12 - Comment évaluez- vous votre propre risque d’être infecté par le COVID sur une échelle de 1 à 5, ou 1 représente aucun risque, et 5 représente un haut risque.",3 = 3 (risque moyen),0.25177305,0.293577982,0.225433526
-Clinical knowledge,"f12 - Comment évaluez- vous votre propre risque d’être infecté par le COVID sur une échelle de 1 à 5, ou 1 représente aucun risque, et 5 représente un haut risque.",4 = 4 (risque élevé),0.326241135,0.376146789,0.294797688
-Clinical knowledge,"f12 - Comment évaluez- vous votre propre risque d’être infecté par le COVID sur une échelle de 1 à 5, ou 1 représente aucun risque, et 5 représente un haut risque.",5 = 5 (risque très élevé),0.265957447,0.220183486,0.294797688
-Clinical knowledge,f13 - Croyez-vous que le risque d’attraper le COVID est le même pour tous ?,Non,0.40070922,0.394495413,0.404624277
-Clinical knowledge,f13 - Croyez-vous que le risque d’attraper le COVID est le même pour tous ?,Oui,0.59929078,0.605504587,0.595375723
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,1= Enfants moins de 5 ans,0.070921986,0.091743119,0.057803468
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,2= Personnes âgées,0.794326241,0.724770642,0.838150289
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,3= Personnes avec une maladie sous-jacente,0.606382979,0.532110092,0.653179191
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,4= Femmes enceintes,0.170212766,0.19266055,0.156069364
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,5= Tout le monde est vulnérable,0.102836879,0.128440367,0.086705202
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,6= Les personnes qui ne respectent pas les consignes données,0.265957447,0.311926606,0.23699422
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,7= Les professionnels de santé ou les soignants,0.14893617,0.211009174,0.10982659
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,97= Autre,0.028368794,0.018348624,0.034682081
-Clinical knowledge,f14_1 - D’après vous quelles sont les personnes les plus vulnérables au COVID ?,pas de réponse,0.010638298,0.018348624,0.005780347
-Perceptions,f15 - Pensez-vous qu’une personne qui a été guérie du COVID peut tomber malade une seconde fois ?,Je ne sais pas,0.053191489,0.036697248,0.063583815
-Perceptions,f15 - Pensez-vous qu’une personne qui a été guérie du COVID peut tomber malade une seconde fois ?,Non,0.070921986,0.100917431,0.052023121
-Perceptions,f15 - Pensez-vous qu’une personne qui a été guérie du COVID peut tomber malade une seconde fois ?,Oui,0.868794326,0.853211009,0.878612717
-Perceptions,f15 - Pensez-vous qu’une personne qui a été guérie du COVID peut tomber malade une seconde fois ?,Pas de reponse,0.007092199,0.009174312,0.005780347
-Perceptions,f16 - Pensez-vous qu’une personne qui a été guérie du COVID peut encore le transmettre ?,1= oui,0.180851064,0.110091743,0.225433526
-Perceptions,f16 - Pensez-vous qu’une personne qui a été guérie du COVID peut encore le transmettre ?,2= non,0.790780142,0.853211009,0.751445087
-Perceptions,f16 - Pensez-vous qu’une personne qui a été guérie du COVID peut encore le transmettre ?,3= ça dépend de la gravité de sa maladie,0.017730496,0.027522936,0.011560694
-Perceptions,f16 - Pensez-vous qu’une personne qui a été guérie du COVID peut encore le transmettre ?,4= ça dépend de depuis combien de temps elle est guérie,0.010638298,0.009174312,0.011560694
-Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et guérissent ensuite, celles qui n’ont pas été infectées seront moins vulnérables au COVID ?",Je ne sais pas,0.010638298,0.009174312,0.011560694
-Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et guérissent ensuite, celles qui n’ont pas été infectées seront moins vulnérables au COVID ?",Non,0.719858156,0.697247706,0.734104046
-Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et guérissent ensuite, celles qui n’ont pas été infectées seront moins vulnérables au COVID ?",Oui,0.262411348,0.28440367,0.248554913
-Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et guérissent ensuite, celles qui n’ont pas été infectées seront moins vulnérables au COVID ?",Pas de reponse,0.007092199,0.009174312,0.005780347
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)",1= Je ne sais pas ce que c’est,0.09929078,0.055045872,0.12716763
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)",2=Arrêter la transmission des maladies infectieuses,0.613475177,0.623853211,0.606936416
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)",3=Eviter la transmission des maladies infectieuses entre patients,0.375886525,0.412844037,0.352601156
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)",4=Eviter la transmission des maladies infectieuses entre personnels de santé et patients,0.457446809,0.495412844,0.433526012
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)","97 = Autres, préciser",0.028368794,,0.046242775
-Perceptions,"f19_1 - approche_pci/D’après vous, a quoi sert la prévention et le contrôle des infections ? (PCI)",98 =  pas de réponse,0.007092199,0.009174312,0.005780347
-Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de prévention et contrôle des infections (PCI) peuvent être appliqués pour le COVID-19 ?,Je ne sais pas,0.046099291,0.036697248,0.052023121
-Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de prévention et contrôle des infections (PCI) peuvent être appliqués pour le COVID-19 ?,Non,0.081560284,0.082568807,0.080924855
-Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de prévention et contrôle des infections (PCI) peuvent être appliqués pour le COVID-19 ?,Oui,0.868794326,0.871559633,0.867052023
-Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de prévention et contrôle des infections (PCI) peuvent être appliqués pour le COVID-19 ?,Pas de reponse,0.003546099,0.009174312,
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",1= Identifier les cas suspects et monter les alertes,0.340425532,0.339449541,0.341040462
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",2= Envoyer tous les malades aux centres de traitement COVID-19,0.280141844,0.266055046,0.289017341
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",3= Décontaminer la structure,0.191489362,0.201834862,0.184971098
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",4=Sensibiliser les patients,0.960992908,0.944954128,0.971098266
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",5=Convaincre les malades pour faire une alerte,0.393617021,0.403669725,0.387283237
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",6=Je ne sais pas,0.003546099,,0.005780347
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?",7= Prise en charge de patients,0.039007092,0.036697248,0.040462428
-Perceptions,"f21_1 - approche_pci/D’après vous, quel est le rôle des structures et personnels de santé pour arrêter l’épidémie ?","97=Autre, préciser",0.021276596,0.009174312,0.028901734
-Perceptions,g1 - Avez-vous reçu une formation spécifiquement pour les personnels de santé et les structures sanitaires pour le COVID-19?,Non,0.602836879,0.550458716,0.63583815
-Perceptions,g1 - Avez-vous reçu une formation spécifiquement pour les personnels de santé et les structures sanitaires pour le COVID-19?,Oui,0.397163121,0.449541284,0.36416185
-Perceptions,g1_non - Est ce que quelqu’un d’autre dans votre structure a reçu une formation spécifiquement pour les personnels de santé et les structures sanitaires ?,Non,0.397163121,0.302752294,0.456647399
-Perceptions,g1_non - Est ce que quelqu’un d’autre dans votre structure a reçu une formation spécifiquement pour les personnels de santé et les structures sanitaires ?,Oui,0.205673759,0.247706422,0.179190751
-Perceptions,g2_1 - Formation recue,1=  Comment vous protéger contre le COVID-19,0.6875,0.755102041,0.634920635
-Perceptions,g2_1 - Formation recue,2=  Symptômes du COVID-19,0.616071429,0.673469388,0.571428571
+Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",7= Informations sur le triage et l√ïisolation,0.64,0.909090909,0.428571429
+Medical service,"f8_1 - Si vous ne vous sentez pas capable ou totalement capable de donner des explications sur le COVID-19, quelles informations vous manquent-ils ?",9= informations sur les m≈Ωthodes pour communiquer et sensibiliser sur la COVID,0.16,0.090909091,0.214285714
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",1=Toux,0.875886525,0.963302752,0.820809249
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",2=Fatigue intense,0.326241135,0.311926606,0.335260116
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",3=Fi¬èvre,0.968085106,0.95412844,0.976878613
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",4= Difficult≈Ωs respiratoire,0.861702128,0.853211009,0.867052023
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",5= Frissons,0.095744681,0.091743119,0.098265896
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",6= Diminution ou perte du sens du go≈æt ou de l'odorat,0.163120567,0.155963303,0.167630058
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",7= L'essoufflement,0.24822695,0.247706422,0.248554913
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",8= Douleur ou oppression dans la poitrine,0.120567376,0.128440367,0.115606936
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",9= Nouvelle toux ou aggravation de la toux,0.219858156,0.146788991,0.265895954
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",10= De fortes douleurs musculaires ou de la fatigue,0.287234043,0.275229358,0.294797688
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",11= Diarrh≈Ωes,0.163120567,0.155963303,0.167630058
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",12= Maux de t¬ête,0.205673759,0.183486239,0.219653179
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",13= Rhume,0.219858156,0.165137615,0.25433526
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",14= Vomissement,0.063829787,0.100917431,0.040462428
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?",15= Maux de gorge,0.102836879,0.055045872,0.132947977
+Clinical knowledge,"f9_1 - D√ïapr¬ès vous, quels sont les signes du COVID-19?","97= Autres sympt‚Ñ¢mes de la grippe Autre, pr≈Ωciser",0.021276596,0.009174312,0.028901734
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?",1 = Dans l√ïair  dans toutes les espaces,0.120567376,0.119266055,0.121387283
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?",2 = Par contact avec quelqu√ïun malade avec COVID-19,0.783687943,0.788990826,0.780346821
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?",3= Par les ≈Ωtrangers,0.035460993,0.04587156,0.028901734
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?",4= Par les goulettes expuls≈Ωes par par les personnes infect≈Ωes,0.90070922,0.944954128,0.87283237
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?",6 = Contact avec les surfaces ou objecfs infect≈Ωs,0.042553191,0.018348624,0.057803468
+Clinical knowledge,"f10_1 - D√ïapr¬ès vous, comment le COVID-19 se transmet-elle ?","97= Autre, pr≈Ωciser",0.003546099,,0.005780347
+Clinical knowledge,f11 - Que pensez-vous du niveau de gravit≈Ω du COVID-19 en RDC?,2 = il infecte beaucoup de personnes et beaucoup meurent,0.212765957,0.275229358,0.173410405
+Clinical knowledge,f11 - Que pensez-vous du niveau de gravit≈Ω du COVID-19 en RDC?,3 = il infecte beaucoup de gens mais peu en meurent,0.695035461,0.633027523,0.734104046
+Clinical knowledge,f11 - Que pensez-vous du niveau de gravit≈Ω du COVID-19 en RDC?,4 = il infecte quelques personnes mais elles meurent toutes,0.017730496,0.018348624,0.01734104
+Clinical knowledge,f11 - Que pensez-vous du niveau de gravit≈Ω du COVID-19 en RDC?,5 = il infecte quelques personnes mais elles vivent toutes,0.046099291,0.055045872,0.040462428
+Clinical knowledge,f11 - Que pensez-vous du niveau de gravit≈Ω du COVID-19 en RDC?,98 =  pas de r≈Ωponse,0.028368794,0.018348624,0.034682081
+Clinical knowledge,"f12 - Comment ≈Ωvaluez- vous votre propre risque d√ï¬être infect≈Ω par le COVID sur une ≈Ωchelle de 1 ÀÜ 5, ou 1 repr≈Ωsente aucun risque, et 5 repr≈Ωsente un haut risque.",1 = 1 (aucun risque),0.014184397,0.009174312,0.01734104
+Clinical knowledge,"f12 - Comment ≈Ωvaluez- vous votre propre risque d√ï¬être infect≈Ω par le COVID sur une ≈Ωchelle de 1 ÀÜ 5, ou 1 repr≈Ωsente aucun risque, et 5 repr≈Ωsente un haut risque.",2 = 2 (faible risque),0.141843972,0.100917431,0.167630058
+Clinical knowledge,"f12 - Comment ≈Ωvaluez- vous votre propre risque d√ï¬être infect≈Ω par le COVID sur une ≈Ωchelle de 1 ÀÜ 5, ou 1 repr≈Ωsente aucun risque, et 5 repr≈Ωsente un haut risque.",3 = 3 (risque moyen),0.25177305,0.293577982,0.225433526
+Clinical knowledge,"f12 - Comment ≈Ωvaluez- vous votre propre risque d√ï¬être infect≈Ω par le COVID sur une ≈Ωchelle de 1 ÀÜ 5, ou 1 repr≈Ωsente aucun risque, et 5 repr≈Ωsente un haut risque.",4 = 4 (risque ≈Ωlev≈Ω),0.326241135,0.376146789,0.294797688
+Clinical knowledge,"f12 - Comment ≈Ωvaluez- vous votre propre risque d√ï¬être infect≈Ω par le COVID sur une ≈Ωchelle de 1 ÀÜ 5, ou 1 repr≈Ωsente aucun risque, et 5 repr≈Ωsente un haut risque.",5 = 5 (risque tr¬ès ≈Ωlev≈Ω),0.265957447,0.220183486,0.294797688
+Clinical knowledge,f13 - Croyez-vous que le risque d√ïattraper le COVID est le m¬ême pour tous ?,Non,0.40070922,0.394495413,0.404624277
+Clinical knowledge,f13 - Croyez-vous que le risque d√ïattraper le COVID est le m¬ême pour tous ?,Oui,0.59929078,0.605504587,0.595375723
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,1= Enfants moins de 5 ans,0.070921986,0.091743119,0.057803468
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,2= Personnes ‚Ä∞g≈Ωes,0.794326241,0.724770642,0.838150289
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,3= Personnes avec une maladie sous-jacente,0.606382979,0.532110092,0.653179191
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,4= Femmes enceintes,0.170212766,0.19266055,0.156069364
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,5= Tout le monde est vuln≈Ωrable,0.102836879,0.128440367,0.086705202
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,6= Les personnes qui ne respectent pas les consignes donn≈Ωes,0.265957447,0.311926606,0.23699422
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,7= Les professionnels de sant≈Ω ou les soignants,0.14893617,0.211009174,0.10982659
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,97= Autre,0.028368794,0.018348624,0.034682081
+Clinical knowledge,f14_1 - D√ïapr¬ès vous quelles sont les personnes les plus vuln≈Ωrables au COVID ?,pas de r≈Ωponse,0.010638298,0.018348624,0.005780347
+Perceptions,f15 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut tomber malade une seconde fois ?,Je ne sais pas,0.053191489,0.036697248,0.063583815
+Perceptions,f15 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut tomber malade une seconde fois ?,Non,0.070921986,0.100917431,0.052023121
+Perceptions,f15 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut tomber malade une seconde fois ?,Oui,0.868794326,0.853211009,0.878612717
+Perceptions,f15 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut tomber malade une seconde fois ?,Pas de reponse,0.007092199,0.009174312,0.005780347
+Perceptions,f16 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut encore le transmettre ?,1= oui,0.180851064,0.110091743,0.225433526
+Perceptions,f16 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut encore le transmettre ?,2= non,0.790780142,0.853211009,0.751445087
+Perceptions,f16 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut encore le transmettre ?,3= ¬ça d≈Ωpend de la gravit≈Ω de sa maladie,0.017730496,0.027522936,0.011560694
+Perceptions,f16 - Pensez-vous qu√ïune personne qui a ≈Ωt≈Ω gu≈Ωrie du COVID peut encore le transmettre ?,4= ¬ça d≈Ωpend de depuis combien de temps elle est gu≈Ωrie,0.010638298,0.009174312,0.011560694
+Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et gu≈Ωrissent ensuite, celles qui n√ïont pas ≈Ωt≈Ω infect≈Ωes seront moins vuln≈Ωrables au COVID ?",Je ne sais pas,0.010638298,0.009174312,0.011560694
+Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et gu≈Ωrissent ensuite, celles qui n√ïont pas ≈Ωt≈Ω infect≈Ωes seront moins vuln≈Ωrables au COVID ?",Non,0.719858156,0.697247706,0.734104046
+Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et gu≈Ωrissent ensuite, celles qui n√ïont pas ≈Ωt≈Ω infect≈Ωes seront moins vuln≈Ωrables au COVID ?",Oui,0.262411348,0.28440367,0.248554913
+Perceptions,"f17 - Pensez-vous que si beaucoup de personnes tombent malades du COVID et gu≈Ωrissent ensuite, celles qui n√ïont pas ≈Ωt≈Ω infect≈Ωes seront moins vuln≈Ωrables au COVID ?",Pas de reponse,0.007092199,0.009174312,0.005780347
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)",1= Je ne sais pas ce que c√ïest,0.09929078,0.055045872,0.12716763
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)",2=Arr¬êter la transmission des maladies infectieuses,0.613475177,0.623853211,0.606936416
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)",3=Eviter la transmission des maladies infectieuses entre patients,0.375886525,0.412844037,0.352601156
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)",4=Eviter la transmission des maladies infectieuses entre personnels de sant≈Ω et patients,0.457446809,0.495412844,0.433526012
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)","97 = Autres, pr≈Ωciser",0.028368794,,0.046242775
+Perceptions,"f19_1 - approche_pci/D√ïapr¬ès vous, a quoi sert la pr≈Ωvention et le contr‚Ñ¢le des infections ? (PCI)",98 =  pas de r≈Ωponse,0.007092199,0.009174312,0.005780347
+Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de pr≈Ωvention et contr‚Ñ¢le des infections (PCI) peuvent ¬être appliqu≈Ωs pour le COVID-19 ?,Je ne sais pas,0.046099291,0.036697248,0.052023121
+Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de pr≈Ωvention et contr‚Ñ¢le des infections (PCI) peuvent ¬être appliqu≈Ωs pour le COVID-19 ?,Non,0.081560284,0.082568807,0.080924855
+Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de pr≈Ωvention et contr‚Ñ¢le des infections (PCI) peuvent ¬être appliqu≈Ωs pour le COVID-19 ?,Oui,0.868794326,0.871559633,0.867052023
+Perceptions,f20 - approche_pci/Est-ce que vous pensez que les protocoles de pr≈Ωvention et contr‚Ñ¢le des infections (PCI) peuvent ¬être appliqu≈Ωs pour le COVID-19 ?,Pas de reponse,0.003546099,0.009174312,
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",1= Identifier les cas suspects et monter les alertes,0.340425532,0.339449541,0.341040462
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",2= Envoyer tous les malades aux centres de traitement COVID-19,0.280141844,0.266055046,0.289017341
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",3= D≈Ωcontaminer la structure,0.191489362,0.201834862,0.184971098
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",4=Sensibiliser les patients,0.960992908,0.944954128,0.971098266
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",5=Convaincre les malades pour faire une alerte,0.393617021,0.403669725,0.387283237
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",6=Je ne sais pas,0.003546099,,0.005780347
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?",7= Prise en charge de patients,0.039007092,0.036697248,0.040462428
+Perceptions,"f21_1 - approche_pci/D√ïapr¬ès vous, quel est le r‚Ñ¢le des structures et personnels de sant≈Ω pour arr¬êter l√ï≈Ωpid≈Ωmie ?","97=Autre, pr≈Ωciser",0.021276596,0.009174312,0.028901734
+Perceptions,g1 - Avez-vous re¬çu une formation sp≈Ωcifiquement pour les personnels de sant≈Ω et les structures sanitaires pour le COVID-19?,Non,0.602836879,0.550458716,0.63583815
+Perceptions,g1 - Avez-vous re¬çu une formation sp≈Ωcifiquement pour les personnels de sant≈Ω et les structures sanitaires pour le COVID-19?,Oui,0.397163121,0.449541284,0.36416185
+Perceptions,g1_non - Est ce que quelqu√ïun d√ïautre dans votre structure a re¬çu une formation sp≈Ωcifiquement pour les personnels de sant≈Ω et les structures sanitaires ?,Non,0.397163121,0.302752294,0.456647399
+Perceptions,g1_non - Est ce que quelqu√ïun d√ïautre dans votre structure a re¬çu une formation sp≈Ωcifiquement pour les personnels de sant≈Ω et les structures sanitaires ?,Oui,0.205673759,0.247706422,0.179190751
+Perceptions,g2_1 - Formation recue,1=  Comment vous prot≈Ωger contre le COVID-19,0.6875,0.755102041,0.634920635
+Perceptions,g2_1 - Formation recue,2=  Sympt‚Ñ¢mes du COVID-19,0.616071429,0.673469388,0.571428571
 Perceptions,g2_1 - Formation recue,3 = Comment prendre en charge une malade de COVID-19,0.5,0.489795918,0.507936508
 Perceptions,g2_1 - Formation recue,4= Attitude devant un suspect de la COVID-19,0.366071429,0.387755102,0.349206349
-Perceptions,g2_1 - Formation recue,5= Message à donner aux patients,0.366071429,0.428571429,0.317460317
-Perceptions,g2_1 - Formation recue,6= Comment protéger les patients,0.348214286,0.408163265,0.301587302
-Perceptions,g2_1 - Formation recue,7= Prévention et contrôle des infections,0.607142857,0.571428571,0.634920635
-Perceptions,g2_1 - Formation recue,8= Comment parler et engager avec la communauté,0.303571429,0.367346939,0.253968254
+Perceptions,g2_1 - Formation recue,5= Message ÀÜ donner aux patients,0.366071429,0.428571429,0.317460317
+Perceptions,g2_1 - Formation recue,6= Comment prot≈Ωger les patients,0.348214286,0.408163265,0.301587302
+Perceptions,g2_1 - Formation recue,7= Pr≈Ωvention et contr‚Ñ¢le des infections,0.607142857,0.571428571,0.634920635
+Perceptions,g2_1 - Formation recue,8= Comment parler et engager avec la communaut≈Ω,0.303571429,0.367346939,0.253968254
 Perceptions,g2_1 - Formation recue,Comment identifier un cas suspect de COVID-19,0.446428571,0.469387755,0.428571429
-Perceptions,g2_1 - Formation recue,10= Apercu géneral sur la COVID-19,0.857142857,0.666666667,1
-Perceptions,"g2_13 - Formation recue/Si oui, Sur quel thème avez-vous été formé ?/99 = Refuse de répondre",,0.991071429,0.979591837,1
-Perceptions,"g2_13 - Formation recue/Si oui, Sur quel thème avez-vous été formé ?/99 = Refuse de répondre","g2_13 - Formation recue/Si oui, Sur quel thème avez-vous été formé ?/99 = Refuse de répondre",0.008928571,0.020408163,
-Perceptions,g3 - Formation recue/En quelle langue était la formation ?,2= Français,0.9375,0.87755102,0.984126984
-Perceptions,g3 - Formation recue/En quelle langue était la formation ?,3= Lingala,0.0625,0.12244898,0.015873016
-Perceptions,g4 - Formation recue/En future quelle langage croyez-vous mieux pour faire les formations pour les personnels de santé dans votre Aire de santé ?,2= Français,0.803571429,0.714285714,0.873015873
-Perceptions,g4 - Formation recue/En future quelle langage croyez-vous mieux pour faire les formations pour les personnels de santé dans votre Aire de santé ?,3= Lingala,0.196428571,0.285714286,0.126984127
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,1=Les recommandations données sont applicables dans ma FOSA,0.598214286,0.714285714,0.507936508
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,2=Les recommandations données ne sont pas applicables dans ma FOSA,0.017857143,0.020408163,0.015873016
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,3=J’ai compris le contenu de la formation,0.044642857,0.06122449,0.031746032
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,5=Apres la formation je suis capable de former le reste des employés de ma FOSA,0.3125,0.183673469,0.412698413
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,6=Apres la formation je ne suis pas capable de former le reste des employés de ma FOSA,0.017857143,0,0.031746032
-Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations reçues ?,99 = Refuse de répondre,0.008928571,0.020408163,0
-Perceptions,g6 - Formation recue/Sentez-vous capable d’appliquer les conseils fournit dans la formation ?,1=Oui,0.946428571,0.93877551,0.952380952
-Perceptions,g6 - Formation recue/Sentez-vous capable d’appliquer les conseils fournit dans la formation ?,2= Partiellement (pas totalement),0.053571429,0.06122449,0.047619048
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,1= Evaluation de la PCI par des partenaires,0.4375,0.387755102,0.476190476
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,2= Formation sur la PCI,0.678571429,0.734693878,0.634920635
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,3= Etablir un point focal en PCI dans la FOSA,0.526785714,0.469387755,0.571428571
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,4= Approvisionnement d’équipement de protection individuel,0.714285714,0.693877551,0.73015873
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,5= Supervision des points focaux PCI,0.571428571,0.530612245,0.603174603
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,6= Approvisionnement en eau,0.241071429,0.306122449,0.19047619
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,7= Approvisionnent en matériel pour faire le triage,0.642857143,0.653061224,0.634920635
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,8= Approvisionnement en matériel de PCI (gants,0.794642857,0.795918367,0.793650794
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,9= Appui financière du propriétaire du FOSA,0.4375,0.428571429,0.444444444
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,10= Appui financier du Ministère de la Santé et des partenaires,0.75,0.714285714,0.777777778
-Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider à mettre en œuvre la PCI ?,98 = pas de réponse,0.008928571,0.020408163,
-Perceptions,"g8 - Est-ce que votre structure a reçu du matériel d’information (poster, dépliant, protocoles, etc.) sur le COVID-19 à garder dans votre structure ?",Je ne sais pas,0.003546099,0.009174312,
-Perceptions,"g8 - Est-ce que votre structure a reçu du matériel d’information (poster, dépliant, protocoles, etc.) sur le COVID-19 à garder dans votre structure ?",Non,0.283687943,0.247706422,0.306358382
-Perceptions,"g8 - Est-ce que votre structure a reçu du matériel d’information (poster, dépliant, protocoles, etc.) sur le COVID-19 à garder dans votre structure ?",Oui,0.712765957,0.743119266,0.693641618
-Perceptions,g8_1 - Quelles matérielles ?,1=Poster sur COVID-19,0.970149254,0.975308642,0.966666667
-Perceptions,g8_1 - Quelles matérielles ?,2=Dépliant sur COVID-19,0.412935323,0.382716049,0.433333333
-Perceptions,g8_1 - Quelles matérielles ?,3= « SOP » «POS »  des guides/protocole interne ou externe)pour la Protection & Contrôle de Infections (PCI) pour le COVID-19,0.28358209,0.320987654,0.258333333
-Perceptions,g8_1 - Quelles matérielles ?,4=Guides de décontamination,0.189054726,0.209876543,0.175
-Perceptions,g9 - Est-ce que vous avez été formés sur la prévention et contrôle des infections (PCI) autres que pour le COVID-19 ?,Non,0.453900709,0.467889908,0.445086705
-Perceptions,g9 - Est-ce que vous avez été formés sur la prévention et contrôle des infections (PCI) autres que pour le COVID-19 ?,Oui,0.546099291,0.532110092,0.554913295
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",1= Accouchements,0.253246753,0.344827586,0.197916667
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",2= Chirurgie,0.077922078,0.068965517,0.083333333
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",3= Injections,0.149350649,0.155172414,0.145833333
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",4= Maladies infectieuses,0.785714286,0.775862069,0.791666667
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",5=Cholera,0.266233766,0.24137931,0.28125
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",6= Ebola,0.220779221,0.172413793,0.25
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",7= Santé maternelle & infantile (accouchements etc),0.24025974,0.327586207,0.1875
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/","97 = Autre, préciser",0.097402597,0.068965517,0.114583333
-Perceptions,"g10_1 - Est ce que vous été formés sur la prévention et contrôle des infections pour des thématiques autres que pour le COVID-19, sur quelles thématiques avez-vous etiez former dans le PCI/",98 =  pas de réponse,0.006493506,,0.010416667
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",1 =Prise de température à l’entrée,0.407801418,0.449541284,0.38150289
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",2= Suivi de la température pour tous les patients,0.365248227,0.403669725,0.341040462
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",3= Désinfection systématique de la structure avec du chlore,0.34751773,0.366972477,0.335260116
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",4= Désinfection systématique de la structure avec savon,0.237588652,0.266055046,0.219653179
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",5 = Désinfection après un cas ou cas suspect avec chlore,0.159574468,0.155963303,0.161849711
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",6= Désinfection après un cas ou cas suspect avec savon,0.124113475,0.119266055,0.12716763
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",7= Triage des déchets,0.209219858,0.247706422,0.184971098
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",8= Procédures sécurité des opérationnelle normalisé pour les injections,0.04964539,0.036697248,0.057803468
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",9= Nommer un point focal en prévention et contrôle des infections,0.109929078,0.119266055,0.104046243
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",10=Stations de lavage de mains avec chlore,0.333333333,0.366972477,0.312138728
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",11= Stations de lavage de mains avec savon et eau,0.673758865,0.642201835,0.693641618
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",12=Gel alcoolique pour les mains,0.439716312,0.532110092,0.38150289
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",13=Processus de triage pour les patients,0.170212766,0.174311927,0.167630058
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",14=Recherche active de cas de COVID-19 dans la structure,0.04964539,0.055045872,0.046242775
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",15 =Aménagement d’une salle d’isolation,0.053191489,0.064220183,0.046242775
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",16= Achat de d’équipements de protection individuel pour le personnel soignant,0.25177305,0.229357798,0.265895954
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",17= Décontamination des lits et draps avec l’eau et chlore,0.234042553,0.266055046,0.213872832
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",18= Aucune,0.042553191,0.027522936,0.052023121
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",19= Je ne sais pas,0.003546099,0.009174312,
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",20= Personne n’a reçu une formation sur la PCI,0.173758865,0.146788991,0.190751445
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",21= le port obligatoire de Masques Et gants,0.124113475,0.128440367,0.121387283
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/","97= Autre, préciser",0.056737589,0.055045872,0.057803468
-Perceptions,"g11_1 - Si vous, ou quelqu’un dans votre structure avez reçu une formation sur le PCI, quels changements ont été mis en place dans votre FOSA ?/",98 =  pas de réponse,0.003546099,0.009174312,
-Perceptions,"g12 - Si une formation en PCI a été reçue dans votre structure/ FOSA, sentez-vous capable d’appliquer les protocoles PCI ?",1=Oui,0.75177305,0.80733945,0.716763006
-Perceptions,"g12 - Si une formation en PCI a été reçue dans votre structure/ FOSA, sentez-vous capable d’appliquer les protocoles PCI ?",2=Partiellement (pas totalement),0.081560284,0.091743119,0.075144509
-Perceptions,"g12 - Si une formation en PCI a été reçue dans votre structure/ FOSA, sentez-vous capable d’appliquer les protocoles PCI ?",3=Non,0.15248227,0.082568807,0.196531792
-Perceptions,"g12 - Si une formation en PCI a été reçue dans votre structure/ FOSA, sentez-vous capable d’appliquer les protocoles PCI ?",98 = pas de réponse,0.014184397,0.018348624,0.011560694
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,1= Parce qu’on a le matériel nécessaire,0.386792453,0.443181818,0.346774194
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,2= Parce que j’ai le soutient de ma hiérarchie,0.179245283,0.204545455,0.161290323
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,3=Parce que j’ai compris le protocole PCI,0.613207547,0.613636364,0.612903226
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,4= Parce que les patients vont accepter ces changements,0.273584906,0.306818182,0.25
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,5= Parce qu’on a toutes les instructions pour qu’on n’oublie pas,0.372641509,0.375,0.370967742
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,6= Parce que on aura une suivi et appui régulière,0.226415094,0.227272727,0.225806452
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,7=Pour se protèger et éviter ou arrêter la contamination,0.117924528,0.068181818,0.153225806
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,97= Autres à préciser,0.037735849,0.034090909,0.040322581
-Perceptions,g12_1 - Si une formation en PCI a été reçue dans votre structure,98 = Je ne sais pas ,0.014150943,0.022727273,0.008064516
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,2=Manque de supervision régulière,0.216312057,0.211009174,0.219653179
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,3=Manque de formation régulière,0.464539007,0.366972477,0.526011561
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,4=Manque de matériel de communication en langue locale pour le personnel de sante,0.187943262,0.155963303,0.208092486
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,5=Manque de matériel de communication en langue locale pour les patients,0.216312057,0.211009174,0.219653179
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,6=Manque de formation pour tout le personnel de santé dans la structure,0.35106383,0.348623853,0.352601156
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,7=Pas de récompense financière,0.287234043,0.275229358,0.294797688
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,8= Il manque matériaux de PCI (gants,0.645390071,0.596330275,0.676300578
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,9=Pas de financement du matériel (PCI),0.492907801,0.47706422,0.502890173
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,10=Manque de soutien de la hiérarchie,0.195035461,0.174311927,0.208092486
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,11=Pas assez des employés affectés par la PCI,0.060283688,0.064220183,0.057803468
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,12= Nous avons peur pour être infecté par COVID4=,0.010638298,0.009174312,0.011560694
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,13= Nous n’avons pas assez d’information pour appliquer le protocole de PCI,0.088652482,0.082568807,0.092485549
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,14= Nous sentons menacé par la communauté ou les patients,0.067375887,0.091743119,0.052023121
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,15= Nous n’avons pas le temps pour appliquer le protocole PCI,0.010638298,0.009174312,0.011560694
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,16= Rien,0.074468085,0.110091743,0.052023121
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,17= Les patients refusent de se réglementer aux mesures PCI,0.021276596,0.018348624,0.023121387
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,"97=Autres, préciser",0.017730496,,0.028901734
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,18=Rien,0.007092199,0.009174312,0.005780347
-Perceptions,13_2 - Quelles sont les barrières auxquelles votre structure,98 =  Pas de réponse,0.003546099,0.009174312,
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,1 = Supervision régulière,0.304964539,0.311926606,0.300578035
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,2 = Formation régulière,0.54964539,0.486238532,0.589595376
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,3 = Matériel de communication en langue locale pour le personnel de santé,0.258865248,0.229357798,0.277456647
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,4 = Matériel de communication en langue locale pour les patients,0.269503546,0.256880734,0.277456647
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,5= Formation de tout le personnel de santé dans la structure,0.45035461,0.458715596,0.445086705
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,6=Récompense financière,0.361702128,0.348623853,0.369942197
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,7= Financement du matériel (PCI),0.74822695,0.743119266,0.751445087
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,8= Soutien de la hiérarchie,0.276595745,0.266055046,0.283236994
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,9 = Augmentation du nombre d’employés affecté à la PCI,0.102836879,0.100917431,0.104046243
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,10= Soutien du Ministere de la santé,0.354609929,0.376146789,0.341040462
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,Soutien ou comprehension des patients,0.19858156,0.220183486,0.184971098
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,Sensibiliser la communauté sur la PCI,0.021276596,0.027522936,0.01734104
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,Besoin de rien du tout,0.028368794,0.055045872,0.011560694
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,"97 =Autre, préciser",0.010638298,,0.01734104
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,98 = pas de réponse,0.021276596,0.027522936,0.01734104
-Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de prévention et contrôle des infections ?,99 = Refuse de répondre,0.003546099,,0.005780347
-Perceptions,g15 - Est-ce que vous sentez suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19?,1=Oui,0.75177305,0.697247706,0.786127168
-Perceptions,g15 - Est-ce que vous sentez suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19?,2=Pas totalement,0.145390071,0.137614679,0.150289017
-Perceptions,g15 - Est-ce que vous sentez suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19?,3=Non,0.102836879,0.165137615,0.063583815
-Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19, quelles informations vous manquent-ils ?",1= Les symptômes de COVID,0.1,0.060606061,0.135135135
-Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19, quelles informations vous manquent-ils ?",3= La définition d’un cas suspect,0.2,0.212121212,0.189189189
-Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19, quelles informations vous manquent-ils ?",4=Comment avoir les informations de la patient (pour identifier un cas suspect),0.428571429,0.424242424,0.432432432
-Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19, quelles informations vous manquent-ils ?","97=Autre, préciser",0.257142857,0.272727273,0.243243243
-Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment informé pour savoir détecter un patient suspecté d’avoir le COVID-19, quelles informations vous manquent-ils ?",98 = pas de réponse,0.014285714,0.03030303,0
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",1= Isoler le patient,0.457446809,0.422018349,0.479768786
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",2= Référer le patient à une autre structure sanitaire,0.517730496,0.486238532,0.537572254
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",3= Prendre en charge le patient,0.056737589,0.064220183,0.052023121
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",4= Faire des analyses médicales pour exclure d’autres pathologies,0.074468085,0.036697248,0.098265896
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",5= Appeler le numéro vert pour signaler un cas suspect,0.460992908,0.467889908,0.456647399
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",6= Appeler le RECO pour signaler un cas suspect,0.262411348,0.266055046,0.260115607
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",7= Donner des médicaments modernes pour calmer les symptômes,0.131205674,0.110091743,0.144508671
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",8=Donner des médicaments traditionnels pour calmer les symptômes,0.003546099,0.009174312,
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",9= Demander aux patients de mettre un masque facial,0.255319149,0.28440367,0.23699422
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",10= Utiliser les EPI tout en faisant les soins du patients,0.106382979,0.110091743,0.104046243
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",12=Alerter le bureau central de la zone de santé,0.209219858,0.211009174,0.208092486
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?","97= Autre, préciser",0.035460993,0.036697248,0.034682081
-Perceptions,"g16_1 - Si vous soupçonnez un patient d’avoir le COVID-19, que ferez-vous ?",98 = pas de réponse,0.003546099,0.009174312,
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",1= Décontamination avec pulvérisateur d’eau chloré,0.581560284,0.633027523,0.549132948
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",2= Nettoyage avec savon et eau et après décontamination à l’eau chloré,0.535460993,0.577981651,0.50867052
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",3= Aucune action,0.042553191,0.009174312,0.063583815
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",4= Demander aux agents de la réponse COVID d’intervenir,0.397163121,0.376146789,0.410404624
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",5= identifier toutes les personnes qui étaient en contact avec le malade,0.031914894,0.04587156,0.023121387
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?","97=Autre, spécifiez",0.014184397,0.027522936,0.005780347
-Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, après son départ que ferez-vous ?",98 = Je ne sais pas,0.010638298,0.027522936,
-Perceptions,g18 - Est-ce que vous sentez suffisamment informé pour arrêter la transmission de COVID dans votre centre de santé ?,"1= Oui,",0.687943262,0.669724771,0.699421965
-Perceptions,g18 - Est-ce que vous sentez suffisamment informé pour arrêter la transmission de COVID dans votre centre de santé ?,2=Pas totalement,0.195035461,0.183486239,0.202312139
-Perceptions,g18 - Est-ce que vous sentez suffisamment informé pour arrêter la transmission de COVID dans votre centre de santé ?,"3= Non,",0.113475177,0.146788991,0.092485549
-Perceptions,g18 - Est-ce que vous sentez suffisamment informé pour arrêter la transmission de COVID dans votre centre de santé ?,98 = pas de réponse,0.003546099,,0.005780347
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",1= Comment détecter le COVID,0.528735632,0.583333333,0.490196078
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",2= Comment isoler un patient,0.379310345,0.361111111,0.392156863
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",3= Comment faire un alerte,0.114942529,0.111111111,0.117647059
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",4= Comment faire la décontamination,0.206896552,0.138888889,0.254901961
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",5= Comment éviter les infections nosocomiales,0.310344828,0.333333333,0.294117647
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",6= Comment mettre et enlever les EPI,0.229885057,0.222222222,0.235294118
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?","97= Autre, préciser",0.057471264,0.055555556,0.058823529
-Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment informé, qu’est-ce qui vous manque ?",98 = pas de réponse,0.022988506,0.027777778,0.019607843
-Perceptions,g19 - Pensez-vous que votre FOSA a le matériel nécessaire pour éviter les infections nosocomiales de COVID ?,1=Oui,0.20212766,0.247706422,0.173410405
-Perceptions,g19 - Pensez-vous que votre FOSA a le matériel nécessaire pour éviter les infections nosocomiales de COVID ?,2=Pas totalement,0.329787234,0.28440367,0.358381503
-Perceptions,g19 - Pensez-vous que votre FOSA a le matériel nécessaire pour éviter les infections nosocomiales de COVID ?,3=Non,0.460992908,0.467889908,0.456647399
-Perceptions,g19 - Pensez-vous que votre FOSA a le matériel nécessaire pour éviter les infections nosocomiales de COVID ?,98 =  pas de réponse,0.007092199,,0.011560694
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",1= Eau,0.153846154,0.215686275,0.113924051
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",2= Savon,0.292307692,0.254901961,0.316455696
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",3= L’eau chlorée pour lavez les mains,0.2,0.196078431,0.202531646
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",4= L’eau chlorée pour nettoyer,0.215384615,0.196078431,0.227848101
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",5= Pulvérisateur,0.4,0.411764706,0.392405063
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",6=Masques,0.661538462,0.588235294,0.708860759
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",7=Lunettes,0.415384615,0.411764706,0.417721519
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",8= Combinaisons,0.607692308,0.529411765,0.658227848
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",9=Procédure d'opération normalisé,0.123076923,0.156862745,0.101265823
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",10= Gants,0.615384615,0.568627451,0.64556962
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",11= triage des déchets médicaux,0.192307692,0.156862745,0.215189873
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",12= Latrines,0.030769231,0.019607843,0.037974684
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",13= Poste de Triage,0.238461538,0.254901961,0.227848101
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",14= Place d’isolement,0.323076923,0.333333333,0.316455696
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",15=Lits,0.069230769,0.098039216,0.050632911
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",16= Thermo flash,0.623076923,0.647058824,0.607594937
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",17= Matériel de stérilisation (autoclave ou désinfection chimique),0.2,0.196078431,0.202531646
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",18= Incinérateur ou essence,0.138461538,0.098039216,0.164556962
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",19= Les matelas recouverts d'un materiel impermeable,0.153846154,0.196078431,0.126582278
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?",21= Tous les matériels de protection,0.076923077,0.058823529,0.088607595
-Perceptions,"g19_non_1 - Si non, qu’est ce qui manque ?","97= Autre, préciser",0.038461538,0.039215686,0.037974684
-Perceptions,h1 - Sentez-vous-même a risque d’attraper le COVID-19 ?,1= Oui,0.946808511,0.926605505,0.959537572
-Perceptions,h1 - Sentez-vous-même a risque d’attraper le COVID-19 ?,2= Non,0.053191489,0.073394495,0.040462428
-Perceptions,h2 - Croyez-vous que les personnels de santé soient plus à risque d’attraper le COVID ?,1= Oui,0.975177305,0.972477064,0.976878613
-Perceptions,h2 - Croyez-vous que les personnels de santé soient plus à risque d’attraper le COVID ?,2= Non,0.024822695,0.027522936,0.023121387
-Perceptions,"h3_1 - Si oui, pourquoi",1=Manque de capacité de détecter,0.186379928,0.185185185,0.187134503
-Perceptions,"h3_1 - Si oui, pourquoi",2= Manque de capacité de protéger moi-même (matérielles),0.577060932,0.574074074,0.578947368
-Perceptions,"h3_1 - Si oui, pourquoi",3= Manque d’informations,0.218637993,0.185185185,0.239766082
+Perceptions,g2_1 - Formation recue,10= Apercu g≈Ωneral sur la COVID-19,0.857142857,0.666666667,1
+Perceptions,"g2_13 - Formation recue/Si oui, Sur quel th¬ème avez-vous ≈Ωt≈Ω form≈Ω ?/99 = Refuse de r≈Ωpondre",,0.991071429,0.979591837,1
+Perceptions,"g2_13 - Formation recue/Si oui, Sur quel th¬ème avez-vous ≈Ωt≈Ω form≈Ω ?/99 = Refuse de r≈Ωpondre","g2_13 - Formation recue/Si oui, Sur quel th¬ème avez-vous ≈Ωt≈Ω form≈Ω ?/99 = Refuse de r≈Ωpondre",0.008928571,0.020408163,
+Perceptions,g3 - Formation recue/En quelle langue ≈Ωtait la formation ?,2= Fran¬çais,0.9375,0.87755102,0.984126984
+Perceptions,g3 - Formation recue/En quelle langue ≈Ωtait la formation ?,3= Lingala,0.0625,0.12244898,0.015873016
+Perceptions,g4 - Formation recue/En future quelle langage croyez-vous mieux pour faire les formations pour les personnels de sant≈Ω dans votre Aire de sant≈Ω ?,2= Fran¬çais,0.803571429,0.714285714,0.873015873
+Perceptions,g4 - Formation recue/En future quelle langage croyez-vous mieux pour faire les formations pour les personnels de sant≈Ω dans votre Aire de sant≈Ω ?,3= Lingala,0.196428571,0.285714286,0.126984127
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,1=Les recommandations donn≈Ωes sont applicables dans ma FOSA,0.598214286,0.714285714,0.507936508
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,2=Les recommandations donn≈Ωes ne sont pas applicables dans ma FOSA,0.017857143,0.020408163,0.015873016
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,3=J√ïai compris le contenu de la formation,0.044642857,0.06122449,0.031746032
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,5=Apres la formation je suis capable de former le reste des employ≈Ωs de ma FOSA,0.3125,0.183673469,0.412698413
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,6=Apres la formation je ne suis pas capable de former le reste des employ≈Ωs de ma FOSA,0.017857143,0,0.031746032
+Perceptions,g5 - Formation recue/Que pensez-vous des informations et recommandations re¬çues ?,99 = Refuse de r≈Ωpondre,0.008928571,0.020408163,0
+Perceptions,g6 - Formation recue/Sentez-vous capable d√ïappliquer les conseils fournit dans la formation ?,1=Oui,0.946428571,0.93877551,0.952380952
+Perceptions,g6 - Formation recue/Sentez-vous capable d√ïappliquer les conseils fournit dans la formation ?,2= Partiellement (pas totalement),0.053571429,0.06122449,0.047619048
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,1= Evaluation de la PCI par des partenaires,0.4375,0.387755102,0.476190476
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,2= Formation sur la PCI,0.678571429,0.734693878,0.634920635
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,3= Etablir un point focal en PCI dans la FOSA,0.526785714,0.469387755,0.571428571
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,4= Approvisionnement d√ï≈Ωquipement de protection individuel,0.714285714,0.693877551,0.73015873
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,5= Supervision des points focaux PCI,0.571428571,0.530612245,0.603174603
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,6= Approvisionnement en eau,0.241071429,0.306122449,0.19047619
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,7= Approvisionnent en mat≈Ωriel pour faire le triage,0.642857143,0.653061224,0.634920635
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,8= Approvisionnement en mat≈Ωriel de PCI (gants,0.794642857,0.795918367,0.793650794
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,9= Appui financi¬ère du propri≈Ωtaire du FOSA,0.4375,0.428571429,0.444444444
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,10= Appui financier du Minist¬ère de la Sant≈Ω et des partenaires,0.75,0.714285714,0.777777778
+Perceptions,g7_1 - Formation recue/Quels des choix suivants est le plus important pour vous aider ÀÜ mettre en √èuvre la PCI ?,98 = pas de r≈Ωponse,0.008928571,0.020408163,
+Perceptions,"g8 - Est-ce que votre structure a re¬çu du mat≈Ωriel d√ïinformation (poster, d≈Ωpliant, protocoles, etc.) sur le COVID-19 ÀÜ garder dans votre structure ?",Je ne sais pas,0.003546099,0.009174312,
+Perceptions,"g8 - Est-ce que votre structure a re¬çu du mat≈Ωriel d√ïinformation (poster, d≈Ωpliant, protocoles, etc.) sur le COVID-19 ÀÜ garder dans votre structure ?",Non,0.283687943,0.247706422,0.306358382
+Perceptions,"g8 - Est-ce que votre structure a re¬çu du mat≈Ωriel d√ïinformation (poster, d≈Ωpliant, protocoles, etc.) sur le COVID-19 ÀÜ garder dans votre structure ?",Oui,0.712765957,0.743119266,0.693641618
+Perceptions,g8_1 - Quelles mat≈Ωrielles ?,1=Poster sur COVID-19,0.970149254,0.975308642,0.966666667
+Perceptions,g8_1 - Quelles mat≈Ωrielles ?,2=D≈Ωpliant sur COVID-19,0.412935323,0.382716049,0.433333333
+Perceptions,g8_1 - Quelles mat≈Ωrielles ?,3= √á SOP √à √áPOS √à  des guides/protocole interne ou externe)pour la Protection & Contr‚Ñ¢le de Infections (PCI) pour le COVID-19,0.28358209,0.320987654,0.258333333
+Perceptions,g8_1 - Quelles mat≈Ωrielles ?,4=Guides de d≈Ωcontamination,0.189054726,0.209876543,0.175
+Perceptions,g9 - Est-ce que vous avez ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections (PCI) autres que pour le COVID-19 ?,Non,0.453900709,0.467889908,0.445086705
+Perceptions,g9 - Est-ce que vous avez ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections (PCI) autres que pour le COVID-19 ?,Oui,0.546099291,0.532110092,0.554913295
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",1= Accouchements,0.253246753,0.344827586,0.197916667
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",2= Chirurgie,0.077922078,0.068965517,0.083333333
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",3= Injections,0.149350649,0.155172414,0.145833333
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",4= Maladies infectieuses,0.785714286,0.775862069,0.791666667
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",5=Cholera,0.266233766,0.24137931,0.28125
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",6= Ebola,0.220779221,0.172413793,0.25
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",7= Sant≈Ω maternelle & infantile (accouchements etc),0.24025974,0.327586207,0.1875
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/","97 = Autre, pr≈Ωciser",0.097402597,0.068965517,0.114583333
+Perceptions,"g10_1 - Est ce que vous ≈Ωt≈Ω form≈Ωs sur la pr≈Ωvention et contr‚Ñ¢le des infections pour des th≈Ωmatiques autres que pour le COVID-19, sur quelles th≈Ωmatiques avez-vous etiez former dans le PCI/",98 =  pas de r≈Ωponse,0.006493506,,0.010416667
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",1 =Prise de temp≈Ωrature ÀÜ l√ïentr≈Ωe,0.407801418,0.449541284,0.38150289
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",2= Suivi de la temp≈Ωrature pour tous les patients,0.365248227,0.403669725,0.341040462
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",3= D≈Ωsinfection syst≈Ωmatique de la structure avec du chlore,0.34751773,0.366972477,0.335260116
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",4= D≈Ωsinfection syst≈Ωmatique de la structure avec savon,0.237588652,0.266055046,0.219653179
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",5 = D≈Ωsinfection apr¬ès un cas ou cas suspect avec chlore,0.159574468,0.155963303,0.161849711
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",6= D≈Ωsinfection apr¬ès un cas ou cas suspect avec savon,0.124113475,0.119266055,0.12716763
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",7= Triage des d≈Ωchets,0.209219858,0.247706422,0.184971098
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",8= Proc≈Ωdures s≈Ωcurit≈Ω des op≈Ωrationnelle normalis≈Ω pour les injections,0.04964539,0.036697248,0.057803468
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",9= Nommer un point focal en pr≈Ωvention et contr‚Ñ¢le des infections,0.109929078,0.119266055,0.104046243
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",10=Stations de lavage de mains avec chlore,0.333333333,0.366972477,0.312138728
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",11= Stations de lavage de mains avec savon et eau,0.673758865,0.642201835,0.693641618
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",12=Gel alcoolique pour les mains,0.439716312,0.532110092,0.38150289
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",13=Processus de triage pour les patients,0.170212766,0.174311927,0.167630058
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",14=Recherche active de cas de COVID-19 dans la structure,0.04964539,0.055045872,0.046242775
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",15 =Am≈Ωnagement d√ïune salle d√ïisolation,0.053191489,0.064220183,0.046242775
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",16= Achat de d√ï≈Ωquipements de protection individuel pour le personnel soignant,0.25177305,0.229357798,0.265895954
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",17= D≈Ωcontamination des lits et draps avec l√ïeau et chlore,0.234042553,0.266055046,0.213872832
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",18= Aucune,0.042553191,0.027522936,0.052023121
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",19= Je ne sais pas,0.003546099,0.009174312,
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",20= Personne n√ïa re¬çu une formation sur la PCI,0.173758865,0.146788991,0.190751445
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",21= le port obligatoire de Masques Et gants,0.124113475,0.128440367,0.121387283
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/","97= Autre, pr≈Ωciser",0.056737589,0.055045872,0.057803468
+Perceptions,"g11_1 - Si vous, ou quelqu√ïun dans votre structure avez re¬çu une formation sur le PCI, quels changements ont ≈Ωt≈Ω mis en place dans votre FOSA ?/",98 =  pas de r≈Ωponse,0.003546099,0.009174312,
+Perceptions,"g12 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure/ FOSA, sentez-vous capable d√ïappliquer les protocoles PCI ?",1=Oui,0.75177305,0.80733945,0.716763006
+Perceptions,"g12 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure/ FOSA, sentez-vous capable d√ïappliquer les protocoles PCI ?",2=Partiellement (pas totalement),0.081560284,0.091743119,0.075144509
+Perceptions,"g12 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure/ FOSA, sentez-vous capable d√ïappliquer les protocoles PCI ?",3=Non,0.15248227,0.082568807,0.196531792
+Perceptions,"g12 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure/ FOSA, sentez-vous capable d√ïappliquer les protocoles PCI ?",98 = pas de r≈Ωponse,0.014184397,0.018348624,0.011560694
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,1= Parce qu√ïon a le mat≈Ωriel n≈Ωcessaire,0.386792453,0.443181818,0.346774194
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,2= Parce que j√ïai le soutient de ma hi≈Ωrarchie,0.179245283,0.204545455,0.161290323
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,3=Parce que j√ïai compris le protocole PCI,0.613207547,0.613636364,0.612903226
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,4= Parce que les patients vont accepter ces changements,0.273584906,0.306818182,0.25
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,5= Parce qu√ïon a toutes les instructions pour qu√ïon n√ïoublie pas,0.372641509,0.375,0.370967742
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,6= Parce que on aura une suivi et appui r≈Ωguli¬ère,0.226415094,0.227272727,0.225806452
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,7=Pour se prot¬èger et ≈Ωviter ou arr¬êter la contamination,0.117924528,0.068181818,0.153225806
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,97= Autres ÀÜ pr≈Ωciser,0.037735849,0.034090909,0.040322581
+Perceptions,g12_1 - Si une formation en PCI a ≈Ωt≈Ω re¬çue dans votre structure,98 = Je ne sais pas ,0.014150943,0.022727273,0.008064516
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,2=Manque de supervision r≈Ωguli¬ère,0.216312057,0.211009174,0.219653179
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,3=Manque de formation r≈Ωguli¬ère,0.464539007,0.366972477,0.526011561
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,4=Manque de mat≈Ωriel de communication en langue locale pour le personnel de sante,0.187943262,0.155963303,0.208092486
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,5=Manque de mat≈Ωriel de communication en langue locale pour les patients,0.216312057,0.211009174,0.219653179
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,6=Manque de formation pour tout le personnel de sant≈Ω dans la structure,0.35106383,0.348623853,0.352601156
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,7=Pas de r≈Ωcompense financi¬ère,0.287234043,0.275229358,0.294797688
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,8= Il manque mat≈Ωriaux de PCI (gants,0.645390071,0.596330275,0.676300578
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,9=Pas de financement du mat≈Ωriel (PCI),0.492907801,0.47706422,0.502890173
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,10=Manque de soutien de la hi≈Ωrarchie,0.195035461,0.174311927,0.208092486
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,11=Pas assez des employ≈Ωs affect≈Ωs par la PCI,0.060283688,0.064220183,0.057803468
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,12= Nous avons peur pour ¬être infect≈Ω par COVID4=,0.010638298,0.009174312,0.011560694
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,13= Nous n√ïavons pas assez d√ïinformation pour appliquer le protocole de PCI,0.088652482,0.082568807,0.092485549
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,14= Nous sentons menac≈Ω par la communaut≈Ω ou les patients,0.067375887,0.091743119,0.052023121
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,15= Nous n√ïavons pas le temps pour appliquer le protocole PCI,0.010638298,0.009174312,0.011560694
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,16= Rien,0.074468085,0.110091743,0.052023121
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,17= Les patients refusent de se r≈Ωglementer aux mesures PCI,0.021276596,0.018348624,0.023121387
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,"97=Autres, pr≈Ωciser",0.017730496,,0.028901734
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,18=Rien,0.007092199,0.009174312,0.005780347
+Perceptions,13_2 - Quelles sont les barri¬ères auxquelles votre structure,98 =  Pas de r≈Ωponse,0.003546099,0.009174312,
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,1 = Supervision r≈Ωguli¬ère,0.304964539,0.311926606,0.300578035
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,2 = Formation r≈Ωguli¬ère,0.54964539,0.486238532,0.589595376
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,3 = Mat≈Ωriel de communication en langue locale pour le personnel de sant≈Ω,0.258865248,0.229357798,0.277456647
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,4 = Mat≈Ωriel de communication en langue locale pour les patients,0.269503546,0.256880734,0.277456647
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,5= Formation de tout le personnel de sant≈Ω dans la structure,0.45035461,0.458715596,0.445086705
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,6=R≈Ωcompense financi¬ère,0.361702128,0.348623853,0.369942197
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,7= Financement du mat≈Ωriel (PCI),0.74822695,0.743119266,0.751445087
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,8= Soutien de la hi≈Ωrarchie,0.276595745,0.266055046,0.283236994
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,9 = Augmentation du nombre d√ïemploy≈Ωs affect≈Ω ÀÜ la PCI,0.102836879,0.100917431,0.104046243
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,10= Soutien du Ministere de la sant≈Ω,0.354609929,0.376146789,0.341040462
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,Soutien ou comprehension des patients,0.19858156,0.220183486,0.184971098
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,Sensibiliser la communaut≈Ω sur la PCI,0.021276596,0.027522936,0.01734104
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,Besoin de rien du tout,0.028368794,0.055045872,0.011560694
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,"97 =Autre, pr≈Ωciser",0.010638298,,0.01734104
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,98 = pas de r≈Ωponse,0.021276596,0.027522936,0.01734104
+Perceptions,g14_1 - Qu'est-ce qui faciliterait l'application des recommandations du protocole de pr≈Ωvention et contr‚Ñ¢le des infections ?,99 = Refuse de r≈Ωpondre,0.003546099,,0.005780347
+Perceptions,g15 - Est-ce que vous sentez suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19?,1=Oui,0.75177305,0.697247706,0.786127168
+Perceptions,g15 - Est-ce que vous sentez suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19?,2=Pas totalement,0.145390071,0.137614679,0.150289017
+Perceptions,g15 - Est-ce que vous sentez suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19?,3=Non,0.102836879,0.165137615,0.063583815
+Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19, quelles informations vous manquent-ils ?",1= Les sympt‚Ñ¢mes de COVID,0.1,0.060606061,0.135135135
+Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19, quelles informations vous manquent-ils ?",3= La d≈Ωfinition d√ïun cas suspect,0.2,0.212121212,0.189189189
+Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19, quelles informations vous manquent-ils ?",4=Comment avoir les informations de la patient (pour identifier un cas suspect),0.428571429,0.424242424,0.432432432
+Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19, quelles informations vous manquent-ils ?","97=Autre, pr≈Ωciser",0.257142857,0.272727273,0.243243243
+Perceptions,"g15_non - Si vous ne vous sentez pas suffisamment inform≈Ω pour savoir d≈Ωtecter un patient suspect≈Ω d√ïavoir le COVID-19, quelles informations vous manquent-ils ?",98 = pas de r≈Ωponse,0.014285714,0.03030303,0
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",1= Isoler le patient,0.457446809,0.422018349,0.479768786
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",2= R≈Ωf≈Ωrer le patient ÀÜ une autre structure sanitaire,0.517730496,0.486238532,0.537572254
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",3= Prendre en charge le patient,0.056737589,0.064220183,0.052023121
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",4= Faire des analyses m≈Ωdicales pour exclure d√ïautres pathologies,0.074468085,0.036697248,0.098265896
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",5= Appeler le num≈Ωro vert pour signaler un cas suspect,0.460992908,0.467889908,0.456647399
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",6= Appeler le RECO pour signaler un cas suspect,0.262411348,0.266055046,0.260115607
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",7= Donner des m≈Ωdicaments modernes pour calmer les sympt‚Ñ¢mes,0.131205674,0.110091743,0.144508671
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",8=Donner des m≈Ωdicaments traditionnels pour calmer les sympt‚Ñ¢mes,0.003546099,0.009174312,
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",9= Demander aux patients de mettre un masque facial,0.255319149,0.28440367,0.23699422
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",10= Utiliser les EPI tout en faisant les soins du patients,0.106382979,0.110091743,0.104046243
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",12=Alerter le bureau central de la zone de sant≈Ω,0.209219858,0.211009174,0.208092486
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?","97= Autre, pr≈Ωciser",0.035460993,0.036697248,0.034682081
+Perceptions,"g16_1 - Si vous soup¬çonnez un patient d√ïavoir le COVID-19, que ferez-vous ?",98 = pas de r≈Ωponse,0.003546099,0.009174312,
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",1= D≈Ωcontamination avec pulv≈Ωrisateur d√ïeau chlor≈Ω,0.581560284,0.633027523,0.549132948
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",2= Nettoyage avec savon et eau et apr¬ès d≈Ωcontamination ÀÜ l√ïeau chlor≈Ω,0.535460993,0.577981651,0.50867052
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",3= Aucune action,0.042553191,0.009174312,0.063583815
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",4= Demander aux agents de la r≈Ωponse COVID d√ïintervenir,0.397163121,0.376146789,0.410404624
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",5= identifier toutes les personnes qui ≈Ωtaient en contact avec le malade,0.031914894,0.04587156,0.023121387
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?","97=Autre, sp≈Ωcifiez",0.014184397,0.027522936,0.005780347
+Perceptions,"g17_1 - Si vous avez eu un cas suspect de COVID dans votre structure/ FOSA, apr¬ès son d≈Ωpart que ferez-vous ?",98 = Je ne sais pas,0.010638298,0.027522936,
+Perceptions,g18 - Est-ce que vous sentez suffisamment inform≈Ω pour arr¬êter la transmission de COVID dans votre centre de sant≈Ω ?,"1= Oui,",0.687943262,0.669724771,0.699421965
+Perceptions,g18 - Est-ce que vous sentez suffisamment inform≈Ω pour arr¬êter la transmission de COVID dans votre centre de sant≈Ω ?,2=Pas totalement,0.195035461,0.183486239,0.202312139
+Perceptions,g18 - Est-ce que vous sentez suffisamment inform≈Ω pour arr¬êter la transmission de COVID dans votre centre de sant≈Ω ?,"3= Non,",0.113475177,0.146788991,0.092485549
+Perceptions,g18 - Est-ce que vous sentez suffisamment inform≈Ω pour arr¬êter la transmission de COVID dans votre centre de sant≈Ω ?,98 = pas de r≈Ωponse,0.003546099,,0.005780347
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",1= Comment d≈Ωtecter le COVID,0.528735632,0.583333333,0.490196078
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",2= Comment isoler un patient,0.379310345,0.361111111,0.392156863
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",3= Comment faire un alerte,0.114942529,0.111111111,0.117647059
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",4= Comment faire la d≈Ωcontamination,0.206896552,0.138888889,0.254901961
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",5= Comment ≈Ωviter les infections nosocomiales,0.310344828,0.333333333,0.294117647
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",6= Comment mettre et enlever les EPI,0.229885057,0.222222222,0.235294118
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?","97= Autre, pr≈Ωciser",0.057471264,0.055555556,0.058823529
+Perceptions,"g18_non_1 - Si vous ne vous sentez pas suffisamment inform≈Ω, qu√ïest-ce qui vous manque ?",98 = pas de r≈Ωponse,0.022988506,0.027777778,0.019607843
+Perceptions,g19 - Pensez-vous que votre FOSA a le mat≈Ωriel n≈Ωcessaire pour ≈Ωviter les infections nosocomiales de COVID ?,1=Oui,0.20212766,0.247706422,0.173410405
+Perceptions,g19 - Pensez-vous que votre FOSA a le mat≈Ωriel n≈Ωcessaire pour ≈Ωviter les infections nosocomiales de COVID ?,2=Pas totalement,0.329787234,0.28440367,0.358381503
+Perceptions,g19 - Pensez-vous que votre FOSA a le mat≈Ωriel n≈Ωcessaire pour ≈Ωviter les infections nosocomiales de COVID ?,3=Non,0.460992908,0.467889908,0.456647399
+Perceptions,g19 - Pensez-vous que votre FOSA a le mat≈Ωriel n≈Ωcessaire pour ≈Ωviter les infections nosocomiales de COVID ?,98 =  pas de r≈Ωponse,0.007092199,,0.011560694
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",1= Eau,0.153846154,0.215686275,0.113924051
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",2= Savon,0.292307692,0.254901961,0.316455696
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",3= L√ïeau chlor≈Ωe pour lavez les mains,0.2,0.196078431,0.202531646
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",4= L√ïeau chlor≈Ωe pour nettoyer,0.215384615,0.196078431,0.227848101
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",5= Pulv≈Ωrisateur,0.4,0.411764706,0.392405063
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",6=Masques,0.661538462,0.588235294,0.708860759
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",7=Lunettes,0.415384615,0.411764706,0.417721519
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",8= Combinaisons,0.607692308,0.529411765,0.658227848
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",9=Proc≈Ωdure d'op≈Ωration normalis≈Ω,0.123076923,0.156862745,0.101265823
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",10= Gants,0.615384615,0.568627451,0.64556962
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",11= triage des d≈Ωchets m≈Ωdicaux,0.192307692,0.156862745,0.215189873
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",12= Latrines,0.030769231,0.019607843,0.037974684
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",13= Poste de Triage,0.238461538,0.254901961,0.227848101
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",14= Place d√ïisolement,0.323076923,0.333333333,0.316455696
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",15=Lits,0.069230769,0.098039216,0.050632911
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",16= Thermo flash,0.623076923,0.647058824,0.607594937
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",17= Mat≈Ωriel de st≈Ωrilisation (autoclave ou d≈Ωsinfection chimique),0.2,0.196078431,0.202531646
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",18= Incin≈Ωrateur ou essence,0.138461538,0.098039216,0.164556962
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",19= Les matelas recouverts d'un materiel impermeable,0.153846154,0.196078431,0.126582278
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?",21= Tous les mat≈Ωriels de protection,0.076923077,0.058823529,0.088607595
+Perceptions,"g19_non_1 - Si non, qu√ïest ce qui manque ?","97= Autre, pr≈Ωciser",0.038461538,0.039215686,0.037974684
+Perceptions,h1 - Sentez-vous-m¬ême a risque d√ïattraper le COVID-19 ?,1= Oui,0.946808511,0.926605505,0.959537572
+Perceptions,h1 - Sentez-vous-m¬ême a risque d√ïattraper le COVID-19 ?,2= Non,0.053191489,0.073394495,0.040462428
+Perceptions,h2 - Croyez-vous que les personnels de sant≈Ω soient plus ÀÜ risque d√ïattraper le COVID ?,1= Oui,0.975177305,0.972477064,0.976878613
+Perceptions,h2 - Croyez-vous que les personnels de sant≈Ω soient plus ÀÜ risque d√ïattraper le COVID ?,2= Non,0.024822695,0.027522936,0.023121387
+Perceptions,"h3_1 - Si oui, pourquoi",1=Manque de capacit≈Ω de d≈Ωtecter,0.186379928,0.185185185,0.187134503
+Perceptions,"h3_1 - Si oui, pourquoi",2= Manque de capacit≈Ω de prot≈Ωger moi-m¬ême (mat≈Ωrielles),0.577060932,0.574074074,0.578947368
+Perceptions,"h3_1 - Si oui, pourquoi",3= Manque d√ïinformations,0.218637993,0.185185185,0.239766082
 Perceptions,"h3_1 - Si oui, pourquoi",4= Parce que je suis toujours en contact avec les patients,0.35125448,0.37037037,0.339181287
 Perceptions,"h3_1 - Si oui, pourquoi",97= Autre,0.025089606,0.009259259,0.035087719
 Perceptions,"h3_1 - Si oui, pourquoi",98= Pas de reponse,0.007168459,,0.011695906
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,1= Oui,0.294326241,0.348623853,0.260115607
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,2= Non,0.609929078,0.559633028,0.641618497
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,3= Seulement avec les structures privées,0.003546099,,0.005780347
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,4= Seulement avec les structures publiques,0.060283688,0.073394495,0.052023121
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,5= Seulement avec les médecins et pas les autres employés,0.007092199,0.009174312,0.005780347
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,"97=Autres, préciser",0.021276596,0.009174312,0.028901734
-Perceptions,h4 - Pensez-vous que les équipes de la Réponse COVID s’est suffisamment engagée avec les structures de santé ?,99 = Refuse de répondre,0.003546099,,0.005780347
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",1= Matériels de EPI,0.992907801,1,0.988439306
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",2= Eau,0.191489362,0.220183486,0.173410405
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",3= Savon,0.343971631,0.339449541,0.346820809
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",4= Informations,0.531914894,0.467889908,0.572254335
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",5= Que les gens restent chez eux,0.003546099,0.009174312,
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?",6= Soutien financier,0.04964539,0.055045872,0.046242775
-Perceptions,"h5_1 - D’après vous, quels sont les besoins pour que les personnels de santé puissent mieux se protéger ?","97= Autres, préciser",0.04964539,0.064220183,0.040462428
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,1= Oui,0.971631206,0.972477064,0.971098266
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,2= Non,0.024822695,0.027522936,0.023121387
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,3= Je ne sais pas,0.003546099,,0.005780347
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,1= Augmentation des patients,0.010638298,0.009174312,0.011560694
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,2= Reduction des patients,0.957446809,0.963302752,0.953757225
-Perceptions,h8 - Avez-vous perçu des changements dans les fréquentations / patients qui visitent votre structure depuis le COVID-19,97= Autre préciser,0.003546099,,0.005780347
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",1= les personnes ont peur de venir aux FOSAs pour être accuser d’avoir le COVID,0.886861314,0.886792453,0.886904762
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,1= Oui,0.294326241,0.348623853,0.260115607
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,2= Non,0.609929078,0.559633028,0.641618497
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,3= Seulement avec les structures priv≈Ωes,0.003546099,,0.005780347
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,4= Seulement avec les structures publiques,0.060283688,0.073394495,0.052023121
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,5= Seulement avec les m≈Ωdecins et pas les autres employ≈Ωs,0.007092199,0.009174312,0.005780347
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,"97=Autres, pr≈Ωciser",0.021276596,0.009174312,0.028901734
+Perceptions,h4 - Pensez-vous que les ≈Ωquipes de la R≈Ωponse COVID s√ïest suffisamment engag≈Ωe avec les structures de sant≈Ω ?,99 = Refuse de r≈Ωpondre,0.003546099,,0.005780347
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",1= Mat≈Ωriels de EPI,0.992907801,1,0.988439306
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",2= Eau,0.191489362,0.220183486,0.173410405
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",3= Savon,0.343971631,0.339449541,0.346820809
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",4= Informations,0.531914894,0.467889908,0.572254335
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",5= Que les gens restent chez eux,0.003546099,0.009174312,
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?",6= Soutien financier,0.04964539,0.055045872,0.046242775
+Perceptions,"h5_1 - D√ïapr¬ès vous, quels sont les besoins pour que les personnels de sant≈Ω puissent mieux se prot≈Ωger ?","97= Autres, pr≈Ωciser",0.04964539,0.064220183,0.040462428
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,1= Oui,0.971631206,0.972477064,0.971098266
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,2= Non,0.024822695,0.027522936,0.023121387
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,3= Je ne sais pas,0.003546099,,0.005780347
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,1= Augmentation des patients,0.010638298,0.009174312,0.011560694
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,2= Reduction des patients,0.957446809,0.963302752,0.953757225
+Perceptions,h8 - Avez-vous per¬çu des changements dans les fr≈Ωquentations / patients qui visitent votre structure depuis le COVID-19,97= Autre pr≈Ωciser,0.003546099,,0.005780347
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",1= les personnes ont peur de venir aux FOSAs pour ¬être accuser d√ïavoir le COVID,0.886861314,0.886792453,0.886904762
 Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",2= les personnes ont peur de venir aux FOSA pour attraper le COVID,0.299270073,0.273584906,0.31547619
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",3= les personnes viennent plus rapidement à cause de peur,0.010948905,0.009433962,0.011904762
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",4= tout le monde vient au FOSA pour être tester,0.00729927,,0.011904762
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",5=Difficultés financières pour acceder aux soins,0.156934307,0.132075472,0.172619048
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements", 6= Les gens font de l'automédication,0.040145985,0.028301887,0.047619048
-Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements","97= Autre, préciser",0.03649635,0.028301887,0.041666667
-Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,1=Il y a moins d’un mois,0.106382979,0.128440367,0.092485549
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",3= les personnes viennent plus rapidement ÀÜ cause de peur,0.010948905,0.009433962,0.011904762
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",4= tout le monde vient au FOSA pour ¬être tester,0.00729927,,0.011904762
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements",5=Difficult≈Ωs financi¬ères pour acceder aux soins,0.156934307,0.132075472,0.172619048
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements", 6= Les gens font de l'autom≈Ωdication,0.040145985,0.028301887,0.047619048
+Perceptions,"h10_1 - Si oui, pourquoi croyez-vous ces changements","97= Autre, pr≈Ωciser",0.03649635,0.028301887,0.041666667
+Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,1=Il y a moins d√ïun mois,0.106382979,0.128440367,0.092485549
 Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,2=Il y a 1-3 mois,0.265957447,0.247706422,0.277456647
 Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,3=Il y a 3-6 mois,0.088652482,0.064220183,0.104046243
 Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,"5=Non, jamais eu un cas suspect",0.524822695,0.541284404,0.514450867
 Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,"6=Oui, mais je ne souviens pas quand",0.007092199,0.009174312,0.005780347
-Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,98 =  pas de réponse,0.007092199,0.009174312,0.005780347
-Perceptions,h12 - Avez-vous eu un cas confirmé de COVID dans votre FOSA dans le dernier mois ?,1= Oui,0.134751773,0.174311927,0.10982659
-Perceptions,h12 - Avez-vous eu un cas confirmé de COVID dans votre FOSA dans le dernier mois ?,2= Non,0.85106383,0.816513761,0.87283237
-Perceptions,h12 - Avez-vous eu un cas confirmé de COVID dans votre FOSA dans le dernier mois ?,3= Je ne sais pas,0.010638298,0.009174312,0.011560694
-Perceptions,h12 - Avez-vous eu un cas confirmé de COVID dans votre FOSA dans le dernier mois ?,98= Pas de reponse,0.003546099,,0.005780347
+Perceptions,h11 - Avez-vous eu un cas suspect de COVID  dans votre structure ?,98 =  pas de r≈Ωponse,0.007092199,0.009174312,0.005780347
+Perceptions,h12 - Avez-vous eu un cas confirm≈Ω de COVID dans votre FOSA dans le dernier mois ?,1= Oui,0.134751773,0.174311927,0.10982659
+Perceptions,h12 - Avez-vous eu un cas confirm≈Ω de COVID dans votre FOSA dans le dernier mois ?,2= Non,0.85106383,0.816513761,0.87283237
+Perceptions,h12 - Avez-vous eu un cas confirm≈Ω de COVID dans votre FOSA dans le dernier mois ?,3= Je ne sais pas,0.010638298,0.009174312,0.011560694
+Perceptions,h12 - Avez-vous eu un cas confirm≈Ω de COVID dans votre FOSA dans le dernier mois ?,98= Pas de reponse,0.003546099,,0.005780347
 Perceptions,h13 - Votre structure prend-elle en charge les patients Covid-19 ?,1= Oui,0.060283688,0.082568807,0.046242775
 Perceptions,h13 - Votre structure prend-elle en charge les patients Covid-19 ?,2= Non,0.939716312,0.917431193,0.953757225
-Perceptions,h14 - Comment a varié le nombre de personnel soignants dans votre structure avec Covid-19 ?,1= pas de variation,0.723404255,0.779816514,0.687861272
-Perceptions,h14 - Comment a varié le nombre de personnel soignants dans votre structure avec Covid-19 ?,2 =augmentation du staff,0.014184397,,0.023121387
-Perceptions,h14 - Comment a varié le nombre de personnel soignants dans votre structure avec Covid-19 ?,3= diminution du staff,0.262411348,0.220183486,0.289017341
-Perceptions,h15 - Comment a varié le nombre de consultarion« générale » dans votre structure depuis le COVID-19 ?,1= pas de variation,0.226950355,0.229357798,0.225433526
-Perceptions,h15 - Comment a varié le nombre de consultarion« générale » dans votre structure depuis le COVID-19 ?,2 =augmentation du staff,0.007092199,,0.011560694
-Perceptions,h15 - Comment a varié le nombre de consultarion« générale » dans votre structure depuis le COVID-19 ?,3= diminution du staff,0.765957447,0.770642202,0.76300578
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,1= Toux,0.145390071,0.201834862,0.10982659
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,2=Fatigue intense,0.017730496,0.018348624,0.01734104
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,3=Fièvre,0.134751773,0.146788991,0.12716763
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,4= Difficultés respiratoire,0.010638298,0.018348624,0.005780347
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,5= Frissons,0.021276596,0.009174312,0.028901734
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,6= Diminution ou perte du sens du goût ou de l'odorat,0.017730496,0.027522936,0.011560694
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,7= L'essoufflement,0.003546099,0.009174312,
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,8= Douleur ou oppression dans la poitrine,0.007092199,,0.011560694
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,10= De fortes douleurs musculaires ou de la fatigue,0.021276596,0.027522936,0.01734104
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,11= Autres symptômes de la grippe,0.053191489,0.055045872,0.052023121
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,Diarrhée,0.003546099,,0.005780347
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,Maux de tête,0.042553191,0.055045872,0.034682081
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,"97=Autre, préciser",0.010638298,0.009174312,0.011560694
-Perceptions,i1_1 - Avez-vous ressenti des symptômes qui pourraient être compatibles avec le COVID-19 au cours du dernier mois ?,13= Pas de symptômes,0.70212766,0.660550459,0.728323699
-Perceptions,i2 - Vous êtes-vous mis en quarantaine à un moment donné à la suite de la COVID-19 au cours du mois dernier ?,1= Oui,0.031914894,0.036697248,0.028901734
-Perceptions,i2 - Vous êtes-vous mis en quarantaine à un moment donné à la suite de la COVID-19 au cours du mois dernier ?,2= Non,0.964539007,0.963302752,0.965317919
-Perceptions,i2 - Vous êtes-vous mis en quarantaine à un moment donné à la suite de la COVID-19 au cours du mois dernier ?,98= Pas de reponse,0.003546099,,0.005780347
-Perceptions,i3 - L'un de vos collègues urgentistes a-t-il été mis en quarantaine à la suite de COVID-19 au cours du dernier mois ?,Non,0.542553191,0.605504587,0.502890173
-Perceptions,i3 - L'un de vos collègues urgentistes a-t-il été mis en quarantaine à la suite de COVID-19 au cours du dernier mois ?,Oui,0.046099291,0.04587156,0.046242775
-Perceptions,i3 - L'un de vos collègues urgentistes a-t-il été mis en quarantaine à la suite de COVID-19 au cours du dernier mois ?,Pas d'urgentiste,0.411347518,0.348623853,0.450867052
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",1= Très élevé,0.244680851,0.275229358,0.225433526
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",2= élevé,0.432624113,0.431192661,0.433526012
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",3= Comme tout le monde,0.205673759,0.174311927,0.225433526
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",4= Pas élevé,0.081560284,0.064220183,0.092485549
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",5 = Très faible,0.031914894,0.055045872,0.01734104
-Perceptions,"i4 - Selon vous, quelle est la probabilité de contracter le COVID-19 ?",98 = pas de réponse,0.003546099,,0.005780347
-Perceptions,i5 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 aux patients / visiteurs de l'hôpital,1= Très inquiet,0.510638298,0.513761468,0.50867052
-Perceptions,i5 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 aux patients / visiteurs de l'hôpital,2= Un peu inquiet,0.411347518,0.394495413,0.421965318
-Perceptions,i5 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 aux patients / visiteurs de l'hôpital,3= Pas inquiet,0.060283688,0.073394495,0.052023121
-Perceptions,i5 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 aux patients / visiteurs de l'hôpital,4= Pas du tout inquiet,0.014184397,0.018348624,0.011560694
-Perceptions,i5 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 aux patients / visiteurs de l'hôpital,98 = pas de réponse,0.003546099,,0.005780347
-Perceptions,i6 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 à vos amis / votre famille,1= Très inquiet,0.517730496,0.52293578,0.514450867
-Perceptions,i6 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 à vos amis / votre famille,2= Un peu inquiet,0.390070922,0.348623853,0.416184971
-Perceptions,i6 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 à vos amis / votre famille,3= Pas inquiet,0.088652482,0.119266055,0.069364162
-Perceptions,i6 - Dans quelle mesure êtes-vous préoccupé par la transmission de COVID-19 à vos amis / votre famille,4= Pas du tout inquiet,0.003546099,0.009174312,
-Perceptions,"i7 - Au cours des deux dernières semaines, combien de fois avez-vous été dérangé par un sentiment de nervosité, d'anxiété ou de nervosité ?",1=Presque tous les jours,0.120567376,0.091743119,0.138728324
-Perceptions,"i7 - Au cours des deux dernières semaines, combien de fois avez-vous été dérangé par un sentiment de nervosité, d'anxiété ou de nervosité ?",2=Plus de la moitié des jours,0.127659574,0.155963303,0.10982659
-Perceptions,"i7 - Au cours des deux dernières semaines, combien de fois avez-vous été dérangé par un sentiment de nervosité, d'anxiété ou de nervosité ?",3=Plusieurs jours,0.170212766,0.155963303,0.179190751
-Perceptions,"i7 - Au cours des deux dernières semaines, combien de fois avez-vous été dérangé par un sentiment de nervosité, d'anxiété ou de nervosité ?",4=Pas du tout,0.563829787,0.568807339,0.560693642
-Perceptions,"i7 - Au cours des deux dernières semaines, combien de fois avez-vous été dérangé par un sentiment de nervosité, d'anxiété ou de nervosité ?",98= Pas de reponse,0.017730496,0.027522936,0.011560694
+Perceptions,h14 - Comment a vari≈Ω le nombre de personnel soignants dans votre structure avec Covid-19 ?,1= pas de variation,0.723404255,0.779816514,0.687861272
+Perceptions,h14 - Comment a vari≈Ω le nombre de personnel soignants dans votre structure avec Covid-19 ?,2 =augmentation du staff,0.014184397,,0.023121387
+Perceptions,h14 - Comment a vari≈Ω le nombre de personnel soignants dans votre structure avec Covid-19 ?,3= diminution du staff,0.262411348,0.220183486,0.289017341
+Perceptions,h15 - Comment a vari≈Ω le nombre de consultarion√á g≈Ωn≈Ωrale √à dans votre structure depuis le COVID-19 ?,1= pas de variation,0.226950355,0.229357798,0.225433526
+Perceptions,h15 - Comment a vari≈Ω le nombre de consultarion√á g≈Ωn≈Ωrale √à dans votre structure depuis le COVID-19 ?,2 =augmentation du staff,0.007092199,,0.011560694
+Perceptions,h15 - Comment a vari≈Ω le nombre de consultarion√á g≈Ωn≈Ωrale √à dans votre structure depuis le COVID-19 ?,3= diminution du staff,0.765957447,0.770642202,0.76300578
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,1= Toux,0.145390071,0.201834862,0.10982659
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,2=Fatigue intense,0.017730496,0.018348624,0.01734104
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,3=Fi¬èvre,0.134751773,0.146788991,0.12716763
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,4= Difficult≈Ωs respiratoire,0.010638298,0.018348624,0.005780347
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,5= Frissons,0.021276596,0.009174312,0.028901734
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,6= Diminution ou perte du sens du go≈æt ou de l'odorat,0.017730496,0.027522936,0.011560694
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,7= L'essoufflement,0.003546099,0.009174312,
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,8= Douleur ou oppression dans la poitrine,0.007092199,,0.011560694
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,10= De fortes douleurs musculaires ou de la fatigue,0.021276596,0.027522936,0.01734104
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,11= Autres sympt‚Ñ¢mes de la grippe,0.053191489,0.055045872,0.052023121
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,Diarrh≈Ωe,0.003546099,,0.005780347
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,Maux de t¬ête,0.042553191,0.055045872,0.034682081
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,"97=Autre, pr≈Ωciser",0.010638298,0.009174312,0.011560694
+Perceptions,i1_1 - Avez-vous ressenti des sympt‚Ñ¢mes qui pourraient ¬être compatibles avec le COVID-19 au cours du dernier mois ?,13= Pas de sympt‚Ñ¢mes,0.70212766,0.660550459,0.728323699
+Perceptions,i2 - Vous ¬êtes-vous mis en quarantaine ÀÜ un moment donn≈Ω ÀÜ la suite de la COVID-19 au cours du mois dernier ?,1= Oui,0.031914894,0.036697248,0.028901734
+Perceptions,i2 - Vous ¬êtes-vous mis en quarantaine ÀÜ un moment donn≈Ω ÀÜ la suite de la COVID-19 au cours du mois dernier ?,2= Non,0.964539007,0.963302752,0.965317919
+Perceptions,i2 - Vous ¬êtes-vous mis en quarantaine ÀÜ un moment donn≈Ω ÀÜ la suite de la COVID-19 au cours du mois dernier ?,98= Pas de reponse,0.003546099,,0.005780347
+Perceptions,i3 - L'un de vos coll¬ègues urgentistes a-t-il ≈Ωt≈Ω mis en quarantaine ÀÜ la suite de COVID-19 au cours du dernier mois ?,Non,0.542553191,0.605504587,0.502890173
+Perceptions,i3 - L'un de vos coll¬ègues urgentistes a-t-il ≈Ωt≈Ω mis en quarantaine ÀÜ la suite de COVID-19 au cours du dernier mois ?,Oui,0.046099291,0.04587156,0.046242775
+Perceptions,i3 - L'un de vos coll¬ègues urgentistes a-t-il ≈Ωt≈Ω mis en quarantaine ÀÜ la suite de COVID-19 au cours du dernier mois ?,Pas d'urgentiste,0.411347518,0.348623853,0.450867052
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",1= Tr¬ès ≈Ωlev≈Ω,0.244680851,0.275229358,0.225433526
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",2= ≈Ωlev≈Ω,0.432624113,0.431192661,0.433526012
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",3= Comme tout le monde,0.205673759,0.174311927,0.225433526
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",4= Pas ≈Ωlev≈Ω,0.081560284,0.064220183,0.092485549
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",5 = Tr¬ès faible,0.031914894,0.055045872,0.01734104
+Perceptions,"i4 - Selon vous, quelle est la probabilit≈Ω de contracter le COVID-19 ?",98 = pas de r≈Ωponse,0.003546099,,0.005780347
+Perceptions,i5 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 aux patients / visiteurs de l'h‚Ñ¢pital,1= Tr¬ès inquiet,0.510638298,0.513761468,0.50867052
+Perceptions,i5 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 aux patients / visiteurs de l'h‚Ñ¢pital,2= Un peu inquiet,0.411347518,0.394495413,0.421965318
+Perceptions,i5 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 aux patients / visiteurs de l'h‚Ñ¢pital,3= Pas inquiet,0.060283688,0.073394495,0.052023121
+Perceptions,i5 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 aux patients / visiteurs de l'h‚Ñ¢pital,4= Pas du tout inquiet,0.014184397,0.018348624,0.011560694
+Perceptions,i5 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 aux patients / visiteurs de l'h‚Ñ¢pital,98 = pas de r≈Ωponse,0.003546099,,0.005780347
+Perceptions,i6 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 ÀÜ vos amis / votre famille,1= Tr¬ès inquiet,0.517730496,0.52293578,0.514450867
+Perceptions,i6 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 ÀÜ vos amis / votre famille,2= Un peu inquiet,0.390070922,0.348623853,0.416184971
+Perceptions,i6 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 ÀÜ vos amis / votre famille,3= Pas inquiet,0.088652482,0.119266055,0.069364162
+Perceptions,i6 - Dans quelle mesure ¬êtes-vous pr≈Ωoccup≈Ω par la transmission de COVID-19 ÀÜ vos amis / votre famille,4= Pas du tout inquiet,0.003546099,0.009174312,
+Perceptions,"i7 - Au cours des deux derni¬ères semaines, combien de fois avez-vous ≈Ωt≈Ω d≈Ωrang≈Ω par un sentiment de nervosit≈Ω, d'anxi≈Ωt≈Ω ou de nervosit≈Ω ?",1=Presque tous les jours,0.120567376,0.091743119,0.138728324
+Perceptions,"i7 - Au cours des deux derni¬ères semaines, combien de fois avez-vous ≈Ωt≈Ω d≈Ωrang≈Ω par un sentiment de nervosit≈Ω, d'anxi≈Ωt≈Ω ou de nervosit≈Ω ?",2=Plus de la moiti≈Ω des jours,0.127659574,0.155963303,0.10982659
+Perceptions,"i7 - Au cours des deux derni¬ères semaines, combien de fois avez-vous ≈Ωt≈Ω d≈Ωrang≈Ω par un sentiment de nervosit≈Ω, d'anxi≈Ωt≈Ω ou de nervosit≈Ω ?",3=Plusieurs jours,0.170212766,0.155963303,0.179190751
+Perceptions,"i7 - Au cours des deux derni¬ères semaines, combien de fois avez-vous ≈Ωt≈Ω d≈Ωrang≈Ω par un sentiment de nervosit≈Ω, d'anxi≈Ωt≈Ω ou de nervosit≈Ω ?",4=Pas du tout,0.563829787,0.568807339,0.560693642
+Perceptions,"i7 - Au cours des deux derni¬ères semaines, combien de fois avez-vous ≈Ωt≈Ω d≈Ωrang≈Ω par un sentiment de nervosit≈Ω, d'anxi≈Ωt≈Ω ou de nervosit≈Ω ?",98= Pas de reponse,0.017730496,0.027522936,0.011560694
