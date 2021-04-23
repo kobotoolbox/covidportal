@@ -1,0 +1,539 @@
+﻿group,question,response,value,Karamoja,Acholi,West Nile,South West,National
+Education and Peacebuilding,Education services contribution to peace,Positive,0.84,0.96,0.93,0.93,0.96,0.84
+Education and Peacebuilding,Education services contribution to peace,Negative,0.10,0.03,0.02,0.01,0.01,0.10
+Education and Peacebuilding,Education services contribution to peace,None,0.04,0.01,0.03,0.02,0.03,0.04
+Education and Peacebuilding,Education services contribution to peace,Refuse / no response,0.01,0.01,0.02,0.04,0.00,0.01
+Education and Peacebuilding,"Education contribution in helping people live together peacefully positive, negative, or none",Positive,0.85,0.96,0.93,0.95,0.96,0.85
+Education and Peacebuilding,"Education contribution in helping people live together peacefully positive, negative, or none",Negative,0.09,0.02,0.03,0.01,0.00,0.09
+Education and Peacebuilding,"Education contribution in helping people live together peacefully positive, negative, or none",None,0.05,0.02,0.03,0.02,0.03,0.05
+Education and Peacebuilding,"Education contribution in helping people live together peacefully positive, negative, or none",Refuse / no response,0.02,0.01,0.01,0.02,0.00,0.02
+Education and Peacebuilding,"Education contribution in helping people live together peacefully positive, negative, or none",Yes,0.71,0.88,0.88,0.70,0.78,0.71
+Education and Peacebuilding,Do you talk about these events with anyone?,Yes,0.52,0.72,0.65,0.52,0.68,0.52
+Education and Peacebuilding,"If yes, with who?",Parents,0.14,0.13,0.07,0.24,0.07,0.14
+Education and Peacebuilding,"If yes, with who?",Children,0.21,0.18,0.19,0.13,0.26,0.21
+Education and Peacebuilding,"If yes, with who?",Other household members,0.09,0.29,0.26,0.06,0.04,0.09
+Education and Peacebuilding,"If yes, with who?",Friends,0.40,0.21,0.36,0.33,0.32,0.40
+Education and Peacebuilding,"If yes, with who?",Teachers / at school,0.06,0.03,0.04,0.15,0.09,0.06
+Education and Peacebuilding,"If yes, with who?",Religious leaders,0.03,0.03,0.01,0.02,0.11,0.03
+Education and Peacebuilding,"If yes, with who?",Political leaders,0.01,0.01,0.02,0.00,0.02,0.01
+Education and Peacebuilding,"If yes, with who?",Local leaders,0.05,0.10,0.03,0.07,0.10,0.05
+Education and Peacebuilding,"If yes, with who?",Other,0.02,0.04,0.02,0.01,0.01,0.02
+Education and Peacebuilding,"If yes, with who?",Refuse / no response,0.00,0.00,0.01,0.01,0.00,0.00
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,No way,0.09,0.06,0.03,0.10,0.06,0.09
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,Talk openly with family / friends,0.31,0.36,0.37,0.46,0.33,0.31
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,Learn in school,0.41,0.44,0.43,0.22,0.43,0.41
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,"Build memorial, museum",0.03,0.00,0.00,0.01,0.02,0.03
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,"Write books,..",0.10,0.01,0.04,0.10,0.12,0.10
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,Other,0.03,0.12,0.09,0.02,0.02,0.03
+Education and Peacebuilding,Best way for youth to learn about the conflicts that happened,Refuse / no response,0.04,0.00,0.04,0.09,0.02,0.04
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Very important,0.44,0.60,0.62,0.54,0.59,0.44
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Important,0.35,0.29,0.34,0.26,0.25,0.35
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Somewhat important,0.06,0.06,0.01,0.07,0.03,0.06
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Not so important,0.07,0.02,0.02,0.09,0.05,0.07
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Not important at all,0.06,0.02,0.01,0.04,0.07,0.06
+Education and Peacebuilding,How important is it for students to learn about the conflicts in school?,Refuse / no response,0.02,0.01,0.00,0.02,0.01,0.02
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Very important,0.41,0.51,0.59,0.44,0.57,0.41
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Important,0.39,0.40,0.38,0.41,0.28,0.39
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Somewhat important,0.10,0.07,0.02,0.07,0.05,0.10
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Not so important,0.05,0.02,0.01,0.04,0.04,0.05
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Not important at all,0.03,0.00,0.00,0.04,0.06,0.03
+Education and Peacebuilding,How important is it for students to learn how to manage conflicts without violence?,Refuse / no response,0.02,0.01,0.00,0.01,0.01,0.02
+Education and Peacebuilding,How much do you think students learn about the conflicts in school today?,Not at all,0.15,0.07,0.09,0.21,0.05,0.15
+Education and Peacebuilding,How much do you think students learn about the conflicts in school today?,A little,0.48,0.28,0.55,0.53,0.49,0.48
+Education and Peacebuilding,How much do you think students learn about the conflicts in school today?,Quite a bit,0.18,0.30,0.17,0.10,0.24,0.18
+Education and Peacebuilding,How much do you think students learn about the conflicts in school today?,A lot,0.14,0.31,0.15,0.12,0.21,0.14
+Education and Peacebuilding,How much do you think students learn about the conflicts in school today?,Refuse / no response,0.04,0.04,0.04,0.05,0.01,0.04
+Education and Peacebuilding,How much students learn about managing conflicts without violence,Not at all,0.12,0.07,0.06,0.21,0.04,0.12
+Education and Peacebuilding,How much students learn about managing conflicts without violence,A little,0.49,0.32,0.51,0.51,0.51,0.49
+Education and Peacebuilding,How much students learn about managing conflicts without violence,Quite a bit,0.20,0.29,0.21,0.12,0.24,0.20
+Education and Peacebuilding,How much students learn about managing conflicts without violence,A lot,0.15,0.29,0.17,0.12,0.21,0.15
+Education and Peacebuilding,How much students learn about managing conflicts without violence,Refuse / no response,0.04,0.04,0.05,0.04,0.00,0.04
+"Marginalization, Exclusion, and Discrimination",Gender Equity in Education Index,Mean average,0.82,0.50,0.85,0.77,0.89,0.82
+"Marginalization, Exclusion, and Discrimination",Perception of Diversity In School Index,Mean average,0.71,0.71,0.81,0.71,0.74,0.71
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of gender,Major Problem in School,0.19,0.24,0.07,0.16,0.20,0.19
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of gender,Minor Problem in School,0.26,0.17,0.24,0.21,0.24,0.26
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of gender,Not a problem,0.53,0.55,0.67,0.62,0.53,0.53
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of gender,Refuse / no response,0.03,0.05,0.02,0.02,0.03,0.03
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of ethnicity or tribe,Major Problem in School,0.16,0.20,0.05,0.21,0.23,0.16
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of ethnicity or tribe,Minor Problem in School,0.26,0.16,0.17,0.15,0.23,0.26
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of ethnicity or tribe,Not a problem,0.56,0.59,0.76,0.63,0.52,0.56
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of ethnicity or tribe,Refuse / no response,0.03,0.05,0.02,0.02,0.02,0.03
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of religion,Major Problem in School,0.12,0.13,0.05,0.15,0.19,0.12
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of religion,Minor Problem in School,0.23,0.18,0.17,0.16,0.22,0.23
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of religion,Not a problem,0.61,0.64,0.77,0.68,0.57,0.61
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of religion,Refuse / no response,0.04,0.05,0.02,0.02,0.02,0.04
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of wealth or class status,Major Problem in School,0.16,0.18,0.03,0.12,0.23,0.16
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of wealth or class status,Minor Problem in School,0.25,0.16,0.21,0.21,0.23,0.25
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of wealth or class status,Not a problem,0.57,0.61,0.75,0.66,0.52,0.57
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of wealth or class status,Refuse / no response,0.03,0.05,0.02,0.02,0.03,0.03
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of political affiliation,Major Problem in School,0.12,0.13,0.03,0.09,0.20,0.12
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of political affiliation,Minor Problem in School,0.24,0.17,0.13,0.20,0.21,0.24
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of political affiliation,Not a problem,0.61,0.64,0.82,0.71,0.57,0.61
+"Marginalization, Exclusion, and Discrimination",Discrimination against students because of political affiliation,Refuse / no response,0.03,0.06,0.02,0.01,0.03,0.03
+"Marginalization, Exclusion, and Discrimination","Are some students excluded, marginalized, or discriminated against in school",Yes,0.14,0.09,0.07,0.08,0.14,0.14
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Political affiliation,0.11,0.00,0.06,0.24,0.03,0.11
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Ethnicity/tribe,0.30,0.13,0.35,0.48,0.26,0.30
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Gender,0.39,0.22,0.12,0.48,0.21,0.39
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Religious belief,0.25,0.04,0.06,0.38,0.08,0.25
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Returnees (specify from where),0.02,0.00,0.18,0.19,0.03,0.02
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Internally displaced,0.06,0.09,0.00,0.24,0.11,0.06
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Refugees,0.07,0.00,0.06,0.14,0.05,0.07
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school","Handicap, deaf/mute, albinos",0.39,0.39,0.47,0.10,0.55,0.39
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Other,0.16,0.44,0.24,0.10,0.21,0.16
+"Marginalization, Exclusion, and Discrimination","Type of students that are subjected to exclusion, marginalization, or discriminated in school",Refuse / no response,0.03,0.04,0.12,0.05,0.00,0.03
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Barred from attending school,0.23,0.39,0.35,0.38,0.11,0.23
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Lower grades,0.34,0.35,0.18,0.38,0.42,0.34
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Not elected for school leadership,0.36,0.44,0.18,0.48,0.47,0.36
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Denial of food at school,0.28,0.39,0.06,0.24,0.45,0.28
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school","Called unpleasant names(nickname) , insults",0.53,0.44,0.59,0.48,0.58,0.53
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Exclusion from co curricular activities,0.36,0.44,0.29,0.19,0.24,0.36
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Other,0.07,0.09,0.12,0.00,0.08,0.07
+"Marginalization, Exclusion, and Discrimination","Type of exclusion, marginalization or discrimination in school",Refuse / no response,0.06,0.04,0.06,0.10,0.03,0.06
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Nobody,0.07,0.04,0.04,0.07,0.04,0.07
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Teacher,0.69,0.89,0.76,0.71,0.64,0.69
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Parents,0.55,0.80,0.48,0.54,0.68,0.55
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Other students,0.10,0.24,0.25,0.16,0.07,0.10
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Local leaders,0.15,0.46,0.19,0.26,0.18,0.15
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Religious leaders,0.04,0.07,0.08,0.08,0.04,0.04
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Other,0.03,0.11,0.04,0.03,0.03,0.03
+"Marginalization, Exclusion, and Discrimination","Who students go to to resolve the problem related to marginalization, exclusion, discrimination, ",Refuse / no response,0.02,0.02,0.05,0.05,0.03,0.02
+Education Access and Quality,Attitude towards Education Index,Mean average,0.79,0.81,0.82,0.82,0.81,0.79
+Education Access and Quality,Rank education access,Very good,0.11,0.27,0.05,0.12,0.10,0.11
+Education Access and Quality,Rank education access,Good,0.33,0.40,0.33,0.29,0.37,0.33
+Education Access and Quality,Rank education access,Average,0.27,0.24,0.41,0.39,0.23,0.27
+Education Access and Quality,Rank education access,Bad,0.20,0.07,0.17,0.13,0.19,0.20
+Education Access and Quality,Rank education access,Very bad,0.09,0.00,0.04,0.07,0.11,0.09
+Education Access and Quality,Rank education access,Refuse / no response,0.01,0.04,0.00,0.00,0.01,0.01
+Education Access and Quality,Rank quality of education,Very good,0.07,0.25,0.02,0.06,0.08,0.07
+Education Access and Quality,Rank quality of education,Good,0.34,0.40,0.33,0.24,0.37,0.34
+Education Access and Quality,Rank quality of education,Average,0.30,0.22,0.47,0.43,0.25,0.30
+Education Access and Quality,Rank quality of education,Bad,0.19,0.05,0.12,0.20,0.20,0.19
+Education Access and Quality,Rank quality of education,Very bad,0.08,0.00,0.06,0.08,0.10,0.08
+Education Access and Quality,Rank quality of education,Refuse / no response,0.02,0.08,0.01,0.00,0.01,0.02
+Education Access and Quality,Main factors that prevent students from attending school,Illness,0.57,0.61,0.53,0.60,0.44,0.57
+Education Access and Quality,Main factors that prevent students from attending school,A family member is sick,0.17,0.35,0.19,0.32,0.10,0.17
+Education Access and Quality,Main factors that prevent students from attending school,Need to take care of family matter,0.17,0.21,0.17,0.24,0.07,0.17
+Education Access and Quality,Main factors that prevent students from attending school,Have to work,0.21,0.46,0.21,0.27,0.10,0.21
+Education Access and Quality,Main factors that prevent students from attending school,Teacher absent from school,0.19,0.14,0.16,0.22,0.08,0.19
+Education Access and Quality,Main factors that prevent students from attending school,School is too far,0.25,0.17,0.27,0.28,0.15,0.25
+Education Access and Quality,Main factors that prevent students from attending school,Unsafe School,0.09,0.09,0.06,0.11,0.04,0.09
+Education Access and Quality,Main factors that prevent students from attending school,School if located in an insecure area,0.07,0.19,0.03,0.06,0.01,0.07
+Education Access and Quality,Main factors that prevent students from attending school,Other,0.47,0.49,0.53,0.33,0.69,0.47
+Education Access and Quality,Main factors that prevent students from attending school,Refuse / no response,0.02,0.03,0.02,0.02,0.01,0.02
+Education Access and Quality,Main factors that help students attending school,Bursaries,0.55,0.74,0.65,0.56,0.56,0.55
+Education Access and Quality,Main factors that help students attending school,Older siblings at the same school,0.18,0.13,0.21,0.24,0.08,0.18
+Education Access and Quality,Main factors that help students attending school,Supportive teachers,0.58,0.53,0.51,0.67,0.52,0.58
+Education Access and Quality,Main factors that help students attending school,Supportive family members,0.65,0.71,0.60,0.71,0.73,0.65
+Education Access and Quality,Main factors that help students attending school,Extra-curricular activities,0.20,0.19,0.17,0.21,0.17,0.20
+Education Access and Quality,Main factors that help students attending school,Good Curriculum,0.23,0.31,0.17,0.25,0.11,0.23
+Education Access and Quality,Main factors that help students attending school,Other,0.16,0.20,0.25,0.05,0.22,0.16
+Education Access and Quality,Main factors that help students attending school,Refuse / no response,0.01,0.02,0.01,0.02,0.01,0.01
+Education Access and Quality,Main factors that limit the quality of education,Lack of meals at school,0.48,0.80,0.42,0.49,0.44,0.48
+Education Access and Quality,Main factors that limit the quality of education,No adequate classrooms,0.40,0.54,0.42,0.65,0.28,0.40
+Education Access and Quality,Main factors that limit the quality of education,High pupil/teacher ratio,0.28,0.14,0.31,0.50,0.19,0.28
+Education Access and Quality,Main factors that limit the quality of education,Untrained teachers,0.33,0.37,0.51,0.37,0.31,0.33
+Education Access and Quality,Main factors that limit the quality of education,Lack of teaching and learning materials,0.49,0.72,0.51,0.66,0.52,0.49
+Education Access and Quality,Main factors that limit the quality of education,Lack monitoring,0.38,0.17,0.33,0.26,0.36,0.38
+Education Access and Quality,Main factors that limit the quality of education,Teachers are not paid (at all or on time),0.21,0.15,0.13,0.23,0.44,0.21
+Education Access and Quality,Main factors that limit the quality of education,Other,0.22,0.28,0.31,0.11,0.20,0.22
+Education Access and Quality,Main factors that limit the quality of education,Refuse / no response,0.02,0.02,0.02,0.00,0.01,0.02
+Education Access and Quality,What is needed to improve education?,School meals,0.48,0.82,0.45,0.41,0.43,0.48
+Education Access and Quality,What is needed to improve education?,Provision of more classrooms,0.48,0.57,0.45,0.68,0.41,0.48
+Education Access and Quality,What is needed to improve education?,Pay teachers salaries/incentives,0.48,0.27,0.51,0.53,0.70,0.48
+Education Access and Quality,What is needed to improve education?,School monitoring by all stakeholders,0.42,0.20,0.40,0.44,0.43,0.42
+Education Access and Quality,What is needed to improve education?,Provision of adequate scholastic materials,0.55,0.79,0.52,0.62,0.55,0.55
+Education Access and Quality,What is needed to improve education?,Sensitisation on the children's rights,0.25,0.42,0.25,0.36,0.21,0.25
+Education Access and Quality,What is needed to improve education?,Other,0.19,0.25,0.30,0.14,0.18,0.19
+Education Access and Quality,What is needed to improve education?,Refuse / no response,0.01,0.01,0.03,0.00,0.01,0.01
+Conflicts in School,Most common types of disputes in school,Poor leadership styles,0.33,0.40,0.39,0.44,0.44,0.33
+Conflicts in School,Most common types of disputes in school,Teachers salaries,0.42,0.52,0.34,0.44,0.50,0.42
+Conflicts in School,Most common types of disputes in school,Poor feeding,0.54,0.85,0.34,0.49,0.63,0.54
+Conflicts in School,Most common types of disputes in school,Incentives fund,0.12,0.09,0.14,0.16,0.06,0.12
+Conflicts in School,Most common types of disputes in school,Accomodation,0.27,0.41,0.21,0.22,0.12,0.27
+Conflicts in School,Most common types of disputes in school,Teachers absenteeism,0.34,0.34,0.32,0.40,0.23,0.34
+Conflicts in School,Most common types of disputes in school,School Land Disputes,0.13,0.48,0.30,0.21,0.04,0.13
+Conflicts in School,Most common types of disputes in school,Quality of education,0.26,0.24,0.22,0.24,0.12,0.26
+Conflicts in School,Most common types of disputes in school,Teacher-on-pupil violence,0.19,0.34,0.21,0.15,0.22,0.19
+Conflicts in School,Most common types of disputes in school,Challenges to education authorities' policies and programs,0.11,0.23,0.04,0.11,0.03,0.11
+Conflicts in School,Most common types of disputes in school,Language of instruction,0.08,0.10,0.09,0.10,0.03,0.08
+Conflicts in School,Most common types of disputes in school,Schools' requests for parental financial contribution,0.16,0.32,0.12,0.10,0.07,0.16
+Conflicts in School,Most common types of disputes in school,Conflict between school administration and the foundation body of the school,0.06,0.34,0.08,0.07,0.03,0.06
+Conflicts in School,Most common types of disputes in school,Other,0.11,0.13,0.08,0.09,0.14,0.11
+Conflicts in School,Most common types of disputes in school,Refuse / no response,0.05,0.00,0.19,0.14,0.05,0.05
+Conflicts in School,Type of conflicts most likely to become violent,Poor leadership styles,0.29,0.32,0.38,0.37,0.37,0.29
+Conflicts in School,Type of conflicts most likely to become violent,Teachers salaries,0.39,0.44,0.36,0.42,0.42,0.39
+Conflicts in School,Type of conflicts most likely to become violent,Poor feeding,0.50,0.71,0.42,0.49,0.65,0.50
+Conflicts in School,Type of conflicts most likely to become violent,Incentives fund,0.08,0.09,0.10,0.12,0.04,0.08
+Conflicts in School,Type of conflicts most likely to become violent,Accomodation,0.22,0.33,0.18,0.17,0.15,0.22
+Conflicts in School,Type of conflicts most likely to become violent,Teachers absenteeism,0.27,0.24,0.31,0.34,0.15,0.27
+Conflicts in School,Type of conflicts most likely to become violent,School Land Disputes,0.10,0.40,0.29,0.18,0.04,0.10
+Conflicts in School,Type of conflicts most likely to become violent,Quality of education,0.21,0.09,0.19,0.21,0.03,0.21
+Conflicts in School,Type of conflicts most likely to become violent,Teacher absenteeism,0.23,0.13,0.20,0.27,0.04,0.23
+Conflicts in School,Type of conflicts most likely to become violent,Teacher-on-pupil violence,0.15,0.20,0.19,0.13,0.16,0.15
+Conflicts in School,Type of conflicts most likely to become violent,Challenges to education authorities' policies and programs,0.11,0.14,0.02,0.10,0.03,0.11
+Conflicts in School,Type of conflicts most likely to become violent,Mother tongue instruction,0.06,0.06,0.07,0.10,0.00,0.06
+Conflicts in School,Type of conflicts most likely to become violent,Schools' requests for parental financial contribution,0.13,0.28,0.13,0.07,0.03,0.13
+Conflicts in School,Type of conflicts most likely to become violent,Conflict between school administration and the foundation body of the school,0.05,0.30,0.08,0.08,0.02,0.05
+Conflicts in School,Type of conflicts most likely to become violent,Other,0.08,0.03,0.05,0.14,0.08,0.08
+Conflicts in School,Type of conflicts most likely to become violent,Refuse / no response,0.07,0.00,0.22,0.15,0.08,0.07
+Conflicts in School,Who was involved in the above mentioned conflicts?,Teachers,0.64,0.91,0.66,0.54,0.81,0.64
+Conflicts in School,Who was involved in the above mentioned conflicts?,Students,0.62,0.87,0.56,0.57,0.78,0.62
+Conflicts in School,Who was involved in the above mentioned conflicts?,Parents,0.36,0.71,0.53,0.36,0.22,0.36
+Conflicts in School,Who was involved in the above mentioned conflicts?,Other,0.06,0.10,0.10,0.12,0.00,0.06
+Conflicts in School,Who was involved in the above mentioned conflicts?,Refuse / no response,0.08,0.03,0.19,0.17,0.04,0.08
+Conflicts in School,How often conflicts or disputes take place in schools?,Very often,0.04,0.06,0.02,0.01,0.08,0.04
+Conflicts in School,How often conflicts or disputes take place in schools?,Often,0.08,0.21,0.02,0.04,0.10,0.08
+Conflicts in School,How often conflicts or disputes take place in schools?,Sometimes,0.25,0.42,0.19,0.10,0.24,0.25
+Conflicts in School,How often conflicts or disputes take place in schools?,Rarely,0.46,0.29,0.60,0.54,0.47,0.46
+Conflicts in School,How often conflicts or disputes take place in schools?,Never,0.16,0.02,0.13,0.25,0.10,0.16
+Conflicts in School,How often conflicts or disputes take place in schools?,Refuse / no response,0.02,0.01,0.03,0.05,0.01,0.02
+Conflicts in School,Who resolve conflicts or disputes between students?,Students themselves,0.03,0.01,0.01,0.04,0.03,0.03
+Conflicts in School,Who resolve conflicts or disputes between students?,Students' families,0.05,0.06,0.05,0.02,0.11,0.05
+Conflicts in School,Who resolve conflicts or disputes between students?,Teachers,0.76,0.80,0.77,0.77,0.71,0.76
+Conflicts in School,Who resolve conflicts or disputes between students?,Prefects,0.09,0.11,0.09,0.06,0.05,0.09
+Conflicts in School,Who resolve conflicts or disputes between students?,Other (please specify),0.04,0.01,0.04,0.04,0.09,0.04
+Conflicts in School,Who resolve conflicts or disputes between students?,Refuse / no response,0.04,0.01,0.03,0.07,0.03,0.04
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,School management committee,0.14,0.15,0.11,0.33,0.20,0.14
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,Headteacher,0.64,0.56,0.64,0.47,0.55,0.64
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,School council,0.08,0.17,0.05,0.04,0.07,0.08
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,PTA,0.10,0.09,0.14,0.07,0.16,0.10
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,Other,0.02,0.02,0.04,0.00,0.03,0.02
+Conflicts in School,Who resolve conflicts/disputes between students and teachers?,Refuse / no response,0.02,0.01,0.02,0.09,0.01,0.02
+Conflicts in School,What about conflicts between teachers and parents on the one hand or teachers and community members on the other hand?,PTA,0.51,0.51,0.38,0.51,0.25,0.51
+Conflicts in School,What about conflicts between teachers and parents on the one hand or teachers and community members on the other hand?,School management committee,0.33,0.35,0.45,0.34,0.48,0.33
+Conflicts in School,What about conflicts between teachers and parents on the one hand or teachers and community members on the other hand?,District education office,0.12,0.13,0.07,0.06,0.25,0.12
+Conflicts in School,What about conflicts between teachers and parents on the one hand or teachers and community members on the other hand?,Other,0.01,0.01,0.06,0.01,0.01,0.01
+Conflicts in School,What about conflicts between teachers and parents on the one hand or teachers and community members on the other hand?,Refuse / no response,0.03,0.00,0.05,0.08,0.02,0.03
+Conflicts in School,Completed Primary School or Currently Enrolled in School,% Completed or Enrolled,0.52,0.24,0.46,0.49,0.43,0.52
+Direct Exposure to Conflicts in School,"Experienced exclusion, marginalization, or discrimination in school?",Yes,0.09,0.07,0.10,0.05,0.08,0.09
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Nobody,0.16,0.00,0.20,0.08,0.06,0.16
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Teacher,0.61,0.33,0.45,0.42,0.50,0.61
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Parents,0.54,0.67,0.05,0.42,0.31,0.54
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Other students,0.11,0.33,0.30,0.25,0.06,0.11
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Local leaders,0.17,0.33,0.05,0.17,0.13,0.17
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Religious leaders,0.03,0.00,0.00,0.25,0.00,0.03
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Other,0.03,0.17,0.20,0.08,0.06,0.03
+Direct Exposure to Conflicts in School,"Contacted the following to resolve the exclusion, marginalization, or discrimination problem",Refuse / no response,0.00,0.00,0.00,0.00,0.06,0.00
+Direct Exposure to Conflicts in School,Satisfied with the outcome,Yes,0.61,0.67,0.88,0.73,0.67,0.61
+Direct Exposure to Conflicts in School,"Being called names, insulted, or humiliated",Yes,0.23,0.14,0.32,0.21,0.18,0.23
+Direct Exposure to Conflicts in School,"Being the subject of gossips, rumours",Yes,0.17,0.13,0.28,0.15,0.07,0.17
+Direct Exposure to Conflicts in School,Being threatened with violence,Yes,0.11,0.14,0.21,0.14,0.06,0.11
+Direct Exposure to Conflicts in School,"Being physically abused by a teacher at school in a way that resulted in pain, discomfort, or injury",Yes,0.14,0.10,0.22,0.09,0.12,0.14
+Challenges in School,Students who are undisciplined and disruptive,Major,0.45,0.51,0.35,0.64,0.56,0.45
+Challenges in School,Students who are undisciplined and disruptive,Minor,0.28,0.15,0.40,0.17,0.18,0.28
+Challenges in School,Students who are undisciplined and disruptive,Not a problem,0.24,0.29,0.24,0.18,0.24,0.24
+Challenges in School,Students who are undisciplined and disruptive,Refuse / no response,0.02,0.05,0.02,0.02,0.02,0.02
+Challenges in School,Overcrowded classrooms,Major,0.53,0.55,0.54,0.72,0.38,0.53
+Challenges in School,Overcrowded classrooms,Minor,0.26,0.16,0.25,0.14,0.31,0.26
+Challenges in School,Overcrowded classrooms,Not a problem,0.19,0.23,0.20,0.13,0.28,0.19
+Challenges in School,Overcrowded classrooms,Refuse / no response,0.02,0.06,0.02,0.01,0.03,0.02
+Challenges in School,Facilities that are unsafe or unhealthy,Major,0.30,0.48,0.18,0.34,0.38,0.30
+Challenges in School,Facilities that are unsafe or unhealthy,Minor,0.30,0.27,0.47,0.24,0.28,0.30
+Challenges in School,Facilities that are unsafe or unhealthy,Not a problem,0.38,0.19,0.34,0.39,0.32,0.38
+Challenges in School,Facilities that are unsafe or unhealthy,Refuse / no response,0.02,0.07,0.02,0.02,0.02,0.02
+Challenges in School,Lack of equipment,Major,0.53,0.64,0.39,0.32,0.45,0.53
+Challenges in School,Lack of equipment,Minor,0.29,0.17,0.41,0.36,0.33,0.29
+Challenges in School,Lack of equipment,Not a problem,0.17,0.15,0.17,0.31,0.20,0.17
+Challenges in School,Lack of equipment,Refuse / no response,0.02,0.04,0.02,0.01,0.01,0.02
+Challenges in School,Violence and lack of school safety,Major,0.29,0.42,0.06,0.29,0.30,0.29
+Challenges in School,Violence and lack of school safety,Minor,0.30,0.15,0.54,0.29,0.25,0.30
+Challenges in School,Violence and lack of school safety,Not a problem,0.39,0.40,0.39,0.41,0.44,0.39
+Challenges in School,Violence and lack of school safety,Refuse / no response,0.02,0.03,0.02,0.02,0.01,0.02
+Challenges in School,Sexual violence,Major,0.24,0.33,0.07,0.19,0.28,0.24
+Challenges in School,Sexual violence,Minor,0.22,0.13,0.30,0.33,0.19,0.22
+Challenges in School,Sexual violence,Not a problem,0.49,0.50,0.60,0.46,0.52,0.49
+Challenges in School,Sexual violence,Refuse / no response,0.05,0.04,0.02,0.01,0.01,0.05
+Challenges in School,Lack of parental involvement,Major,0.30,0.41,0.16,0.35,0.38,0.30
+Challenges in School,Lack of parental involvement,Minor,0.38,0.25,0.58,0.27,0.35,0.38
+Challenges in School,Lack of parental involvement,Not a problem,0.29,0.31,0.24,0.38,0.26,0.29
+Challenges in School,Lack of parental involvement,Refuse / no response,0.03,0.04,0.02,0.01,0.01,0.03
+Challenges in School,Poor quality of teachers,Major,0.46,0.50,0.24,0.36,0.45,0.46
+Challenges in School,Poor quality of teachers,Minor,0.29,0.16,0.49,0.30,0.29,0.29
+Challenges in School,Poor quality of teachers,Not a problem,0.23,0.24,0.25,0.32,0.25,0.23
+Challenges in School,Poor quality of teachers,Refuse / no response,0.02,0.10,0.02,0.02,0.01,0.02
+Challenges in School,Absenteeism of teachers,Major,0.46,0.49,0.31,0.39,0.51,0.46
+Challenges in School,Absenteeism of teachers,Minor,0.31,0.15,0.46,0.29,0.24,0.31
+Challenges in School,Absenteeism of teachers,Not a problem,0.21,0.27,0.22,0.30,0.24,0.21
+Challenges in School,Absenteeism of teachers,Refuse / no response,0.03,0.10,0.02,0.02,0.02,0.03
+Challenges in School,Poor evaluation or grading of students,Major,0.29,0.44,0.13,0.31,0.31,0.29
+Challenges in School,Poor evaluation or grading of students,Minor,0.38,0.14,0.52,0.29,0.31,0.38
+Challenges in School,Poor evaluation or grading of students,Not a problem,0.30,0.32,0.32,0.38,0.35,0.30
+Challenges in School,Poor evaluation or grading of students,Refuse / no response,0.04,0.10,0.03,0.03,0.02,0.04
+Challenges in School,Student use of alcohol or illegal drugs,Major,0.29,0.29,0.07,0.31,0.35,0.29
+Challenges in School,Student use of alcohol or illegal drugs,Minor,0.19,0.10,0.29,0.13,0.22,0.19
+Challenges in School,Student use of alcohol or illegal drugs,Not a problem,0.46,0.58,0.62,0.54,0.42,0.46
+Challenges in School,Student use of alcohol or illegal drugs,Refuse / no response,0.06,0.04,0.02,0.02,0.01,0.06
+Challenges in School,Teacher use of alcohol or illegal drugs,Major,0.36,0.30,0.28,0.36,0.42,0.36
+Challenges in School,Teacher use of alcohol or illegal drugs,Minor,0.20,0.17,0.30,0.19,0.18,0.20
+Challenges in School,Teacher use of alcohol or illegal drugs,Not a problem,0.39,0.48,0.41,0.43,0.37,0.39
+Challenges in School,Teacher use of alcohol or illegal drugs,Refuse / no response,0.05,0.05,0.02,0.02,0.03,0.05
+Challenges in School,Poor management of the school resources,Major,0.37,0.45,0.18,0.42,0.44,0.37
+Challenges in School,Poor management of the school resources,Minor,0.31,0.20,0.50,0.29,0.20,0.31
+Challenges in School,Poor management of the school resources,Not a problem,0.30,0.30,0.30,0.28,0.34,0.30
+Challenges in School,Poor management of the school resources,Refuse / no response,0.02,0.05,0.02,0.01,0.02,0.02
+Challenges in School,Teachers appointed politically and not based on competences,Major,0.16,0.20,0.06,0.15,0.22,0.16
+Challenges in School,Teachers appointed politically and not based on competences,Minor,0.21,0.15,0.14,0.17,0.22,0.21
+Challenges in School,Teachers appointed politically and not based on competences,Not a problem,0.58,0.56,0.77,0.66,0.54,0.58
+Challenges in School,Teachers appointed politically and not based on competences,Refuse / no response,0.04,0.10,0.03,0.02,0.02,0.04
+Challenges in School,Political interference in other aspects of school management,Major,0.15,0.19,0.05,0.12,0.18,0.15
+Challenges in School,Political interference in other aspects of school management,Minor,0.24,0.13,0.17,0.21,0.25,0.24
+Challenges in School,Political interference in other aspects of school management,Not a problem,0.57,0.59,0.74,0.67,0.54,0.57
+Challenges in School,Political interference in other aspects of school management,Refuse / no response,0.05,0.09,0.05,0.01,0.03,0.05
+Challenges in School,Lack of funding for the school or school funding,Major,0.47,0.63,0.32,0.66,0.45,0.47
+Challenges in School,Lack of funding for the school or school funding,Minor,0.26,0.19,0.36,0.13,0.31,0.26
+Challenges in School,Lack of funding for the school or school funding,Not a problem,0.25,0.16,0.27,0.21,0.22,0.25
+Challenges in School,Lack of funding for the school or school funding,Refuse / no response,0.02,0.02,0.05,0.00,0.02,0.02
+Challenges in School,"Conflicts between school stakeholder such as teachers, parents, students, etc?",Major,0.21,0.30,0.08,0.25,0.19,0.21
+Challenges in School,"Conflicts between school stakeholder such as teachers, parents, students, etc?",Minor,0.27,0.16,0.31,0.14,0.25,0.27
+Challenges in School,"Conflicts between school stakeholder such as teachers, parents, students, etc?",Not a problem,0.48,0.52,0.57,0.61,0.54,0.48
+Challenges in School,"Conflicts between school stakeholder such as teachers, parents, students, etc?",Refuse / no response,0.04,0.02,0.04,0.00,0.02,0.04
+Challenges in School,Conflicts between the community and the school?,Major,0.19,0.28,0.05,0.23,0.15,0.19
+Challenges in School,Conflicts between the community and the school?,Minor,0.24,0.17,0.33,0.14,0.26,0.24
+Challenges in School,Conflicts between the community and the school?,Not a problem,0.54,0.54,0.59,0.62,0.57,0.54
+Challenges in School,Conflicts between the community and the school?,Refuse / no response,0.03,0.02,0.03,0.02,0.02,0.03
+Challenges in School,Are there any other problems not mentioned here that schools face?,No,0.84,0.78,0.84,0.93,0.95,0.84
+Challenges in School,Are there any other problems not mentioned here that schools face?,"Yes - if yes, specify",0.12,0.10,0.09,0.04,0.05,0.12
+Challenges in School,Are there any other problems not mentioned here that schools face?,Refuse / no response,0.04,0.13,0.07,0.03,0.00,0.04
+Challenges in School,Most important factor that influence student grades,payment in money,0.08,0.02,0.04,0.11,0.08,0.08
+Challenges in School,Most important factor that influence student grades,political affiliation,0.00,0.01,0.00,0.00,0.00,0.00
+Challenges in School,Most important factor that influence student grades,payment in kind,0.02,0.01,0.00,0.02,0.02,0.02
+Challenges in School,Most important factor that influence student grades,students work,0.45,0.42,0.39,0.42,0.39,0.45
+Challenges in School,Most important factor that influence student grades,parental involvement,0.09,0.10,0.04,0.11,0.11,0.09
+Challenges in School,Most important factor that influence student grades,good teachers,0.26,0.35,0.42,0.24,0.29,0.26
+Challenges in School,Most important factor that influence student grades,good educational program,0.06,0.07,0.03,0.07,0.07,0.06
+Challenges in School,Most important factor that influence student grades,Other,0.02,0.02,0.03,0.01,0.03,0.02
+Challenges in School,Most important factor that influence student grades,Refuse / no response,0.02,0.00,0.05,0.02,0.01,0.02
+Challenges in School,Other important factors that influence student grades,Payment in cash,0.16,0.13,0.19,0.26,0.07,0.16
+Challenges in School,Other important factors that influence student grades,Political affiliation,0.04,0.02,0.06,0.06,0.05,0.04
+Challenges in School,Other important factors that influence student grades,Payment in kind,0.10,0.07,0.14,0.31,0.08,0.10
+Challenges in School,Other important factors that influence student grades,Students work,0.66,0.89,0.68,0.61,0.68,0.66
+Challenges in School,Other important factors that influence student grades,Parental involvement,0.61,0.71,0.58,0.60,0.65,0.61
+Challenges in School,Other important factors that influence student grades,Good teachers,0.68,0.89,0.71,0.75,0.70,0.68
+Challenges in School,Other important factors that influence student grades,Good educational program,0.37,0.62,0.34,0.37,0.27,0.37
+Challenges in School,Other important factors that influence student grades,Other,0.04,0.09,0.08,0.03,0.05,0.04
+Challenges in School,Other important factors that influence student grades,Refuse / no response,0.01,0.01,0.05,0.02,0.01,0.01
+Security in School,Rank security of students at school,Not safe at all,0.03,0.03,0.01,0.00,0.03,0.03
+Security in School,Rank security of students at school,Not very safe,0.09,0.09,0.06,0.02,0.06,0.09
+Security in School,Rank security of students at school,Neither safe or unsafe,0.12,0.08,0.08,0.14,0.09,0.12
+Security in School,Rank security of students at school,Safe,0.66,0.51,0.75,0.65,0.69,0.66
+Security in School,Rank security of students at school,Very Safe,0.08,0.28,0.09,0.17,0.13,0.08
+Security in School,Rank security of students at school,Refuse / no response,0.02,0.02,0.01,0.01,0.00,0.02
+Security in School,Main factors that make it unsafe for students who are attending schools,Presence of ex-combatants,0.02,0.17,0.06,0.00,0.08,0.02
+Security in School,Main factors that make it unsafe for students who are attending schools,Ethnic violence,0.09,0.67,0.06,0.00,0.16,0.09
+Security in School,Main factors that make it unsafe for students who are attending schools,Drunk people,0.51,0.27,0.33,0.50,0.48,0.51
+Security in School,Main factors that make it unsafe for students who are attending schools,"Crimes, robberies",0.52,0.37,0.33,0.83,0.84,0.52
+Security in School,Main factors that make it unsafe for students who are attending schools,Other,0.24,0.20,0.56,0.17,0.16,0.24
+Security in School,Main factors that make it unsafe for students who are attending schools,Refuse / no response,0.04,0.03,0.06,0.00,0.00,0.04
+Security in School,What should be done to improve security in schools?,Child rights sensitization,0.22,0.39,0.27,0.14,0.17,0.22
+Security in School,What should be done to improve security in schools?,Ensure community and school vigilance,0.39,0.65,0.47,0.32,0.31,0.39
+Security in School,What should be done to improve security in schools?,Life skills,0.28,0.39,0.27,0.32,0.21,0.28
+Security in School,What should be done to improve security in schools?,Fencing of the school,0.58,0.92,0.45,0.66,0.79,0.58
+Security in School,What should be done to improve security in schools?,Child protection clubs,0.24,0.34,0.25,0.24,0.21,0.24
+Security in School,What should be done to improve security in schools?,Other,0.06,0.10,0.12,0.03,0.10,0.06
+Security in School,What should be done to improve security in schools?,Refuse / no response,0.08,0.01,0.09,0.07,0.01,0.08
+Participation in Education,Language literacy (read and write),None,0.12,0.67,0.29,0.14,0.04,0.12
+Participation in Education,Language literacy (read and write),Swahili,0.08,0.02,0.03,0.10,0.03,0.08
+Participation in Education,Language literacy (read and write),English,0.47,0.23,0.39,0.58,0.39,0.47
+Participation in Education,Language literacy (read and write),Other,0.65,0.30,0.48,0.45,0.91,0.65
+Participation in Education,Language literacy (read and write),Refuse / no response,0.00,0.00,0.01,0.01,0.00,0.00
+Participation in Education,Highest level of formal education,No school,0.19,0.65,0.20,0.11,0.26,0.19
+Participation in Education,Highest level of formal education,"Some primary school (p1-p6, not p7)",0.33,0.22,0.42,0.43,0.32,0.33
+Participation in Education,Highest level of formal education,Completed primary school (p7),0.14,0.03,0.10,0.12,0.09,0.14
+Participation in Education,Highest level of formal education,Vocational school (certificate),0.02,0.00,0.06,0.01,0.02,0.02
+Participation in Education,Highest level of formal education,"Some secondary school (s1-s3, not s4)",0.17,0.05,0.12,0.20,0.18,0.17
+Participation in Education,Highest level of formal education,"Completed secondary school, “o” level",0.09,0.04,0.04,0.08,0.08,0.09
+Participation in Education,Highest level of formal education,Completed advance level or “a” level,0.04,0.00,0.03,0.02,0.04,0.04
+Participation in Education,Highest level of formal education,Some university (not completed),0.01,0.00,0.00,0.02,0.00,0.01
+Participation in Education,Highest level of formal education,Completed university or higher,0.02,0.01,0.01,0.02,0.01,0.02
+Participation in Education,Currently enrolled in any formal education,Currently enrolled in any formal education (% yes),0.21,0.45,0.29,0.12,0.21,0.21
+Participation in Education,Type of school currently enrolled,Public school,0.67,0.88,0.75,0.71,0.55,0.67
+Participation in Education,Type of school currently enrolled,Religious / parochial school,0.02,0.10,0.09,0.07,0.02,0.02
+Participation in Education,Type of school currently enrolled,Private non-religious,0.24,0.00,0.12,0.11,0.36,0.24
+Participation in Education,Type of school currently enrolled,Informal school  (home school),0.00,0.00,0.00,0.04,0.00,0.00
+Participation in Education,Type of school currently enrolled,Vocational school,0.06,0.00,0.05,0.07,0.05,0.06
+Participation in Education,Type of school currently enrolled,Other,0.01,0.02,0.00,0.00,0.02,0.01
+Participation in Education,School level currently enrolled,P1,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,School level currently enrolled,P2,0.01,0.10,0.00,0.04,0.00,0.01
+Participation in Education,School level currently enrolled,P3,0.01,0.10,0.00,0.00,0.00,0.01
+Participation in Education,School level currently enrolled,P4,0.02,0.07,0.03,0.04,0.00,0.02
+Participation in Education,School level currently enrolled,P5,0.06,0.17,0.14,0.11,0.02,0.06
+Participation in Education,School level currently enrolled,P6,0.11,0.20,0.17,0.04,0.07,0.11
+Participation in Education,School level currently enrolled,P7,0.08,0.15,0.22,0.07,0.07,0.08
+Participation in Education,School level currently enrolled,S1,0.17,0.07,0.07,0.29,0.10,0.17
+Participation in Education,School level currently enrolled,S2,0.14,0.07,0.07,0.11,0.17,0.14
+Participation in Education,School level currently enrolled,S3,0.15,0.00,0.10,0.11,0.24,0.15
+Participation in Education,School level currently enrolled,S4,0.11,0.05,0.03,0.04,0.14,0.11
+Participation in Education,School level currently enrolled,S5,0.04,0.00,0.03,0.04,0.07,0.04
+Participation in Education,School level currently enrolled,S6,0.04,0.00,0.07,0.00,0.05,0.04
+Participation in Education,School level currently enrolled,Vocational,0.05,0.00,0.05,0.07,0.05,0.05
+Participation in Education,School level currently enrolled,University,0.02,0.00,0.00,0.00,0.00,0.02
+Participation in Education,School level currently enrolled,Other,0.00,0.02,0.02,0.04,0.02,0.00
+Participation in Education,Plan to finish current education cycle,Plan to finish current education cycle (% yes),0.95,0.98,0.97,0.93,0.91,0.95
+Participation in Education,Why do you not plan to finish current education cycle?,The lack of fee for school,1.00,0.00,1.00,1.00,1.00,1.00
+Participation in Education,Why do you not plan to finish current education cycle?,Lack of scholastic materials,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Why do you not plan to finish current education cycle?,Have to look after my siblings/parents,0.00,1.00,0.00,0.00,0.00,0.00
+Participation in Education,Why do you not plan to finish current education cycle?,Have to start generating income,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Why do you not plan to finish current education cycle?,Lost interest in education,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Why do you not plan to finish current education cycle?,Other,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Plan to continue education to the next level,Plan to continue education to the next level (% yes),0.94,0.95,1.00,0.86,0.93,0.94
+Participation in Education,Have children of school-going age,Have children of school-going age (% yes),0.74,0.78,0.77,0.82,0.87,0.74
+Participation in Education,Children attending school regularly,Children attending school regularly (% yes),0.89,0.87,0.93,0.93,0.91,0.89
+Participation in Education,Why are they not attending school regularly?,The  lack of  fee for school,0.55,0.16,0.63,0.30,0.69,0.55
+Participation in Education,Why are they not attending school regularly?,Work (paid work) out of the household,0.00,0.11,0.13,0.10,0.00,0.00
+Participation in Education,Why are they not attending school regularly?,Work within the household / assist relatives,0.04,0.11,0.00,0.00,0.00,0.04
+Participation in Education,Why are they not attending school regularly?,Children not interested in education,0.02,0.05,0.00,0.00,0.00,0.02
+Participation in Education,Why are they not attending school regularly?,Education not useful for children’s future,0.00,0.05,0.00,0.00,0.00,0.00
+Participation in Education,Why are they not attending school regularly?,Illness,0.06,0.05,0.13,0.00,0.00,0.06
+Participation in Education,Why are they not attending school regularly?,Marriage / pregnancy,0.08,0.11,0.00,0.00,0.08,0.08
+Participation in Education,Why are they not attending school regularly?,School is far,0.06,0.16,0.00,0.50,0.08,0.06
+Participation in Education,Why are they not attending school regularly?,School is located in an insecure area,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Why are they not attending school regularly?,Lack of teachers,0.02,0.05,0.00,0.00,0.00,0.02
+Participation in Education,Why are they not attending school regularly?,Lack of classrooms,0.00,0.00,0.13,0.10,0.08,0.00
+Participation in Education,Why are they not attending school regularly?,Lack of safe water,0.00,0.00,0.00,0.00,0.00,0.00
+Participation in Education,Why are they not attending school regularly?,Lack of sanitation facilities,0.00,0.05,0.00,0.00,0.00,0.00
+Participation in Education,Why are they not attending school regularly?,Other,0.12,0.11,0.00,0.00,0.08,0.12
+Participation in Education,Type of school(s) respondent's children attending,Government (Public) school,0.76,0.95,0.84,0.97,0.77,0.76
+Participation in Education,Type of school(s) respondent's children attending,Religious / parochial school,0.03,0.03,0.14,0.03,0.01,0.03
+Participation in Education,Type of school(s) respondent's children attending,Private non-religious School,0.30,0.02,0.21,0.07,0.33,0.30
+Participation in Education,Type of school(s) respondent's children attending,NGO sponsored school,0.01,0.01,0.01,0.00,0.00,0.01
+Participation in Education,Type of school(s) respondent's children attending,Other,0.01,0.02,0.02,0.00,0.01,0.01
+Participation in Education,Level of education respondent's children attending,P1,0.48,0.33,0.47,0.62,0.55,0.48
+Participation in Education,Level of education respondent's children attending,P2,0.33,0.37,0.34,0.42,0.25,0.33
+Participation in Education,Level of education respondent's children attending,P3,0.31,0.36,0.40,0.46,0.30,0.31
+Participation in Education,Level of education respondent's children attending,P4,0.33,0.29,0.30,0.31,0.19,0.33
+Participation in Education,Level of education respondent's children attending,P5,0.29,0.21,0.35,0.29,0.22,0.29
+Participation in Education,Level of education respondent's children attending,P6,0.26,0.17,0.24,0.15,0.16,0.26
+Participation in Education,Level of education respondent's children attending,P7,0.17,0.10,0.10,0.13,0.19,0.17
+Participation in Education,Level of education respondent's children attending,S1,0.14,0.05,0.07,0.07,0.10,0.14
+Participation in Education,Level of education respondent's children attending,S2,0.08,0.05,0.09,0.03,0.11,0.08
+Participation in Education,Level of education respondent's children attending,S3,0.07,0.06,0.10,0.04,0.09,0.07
+Participation in Education,Level of education respondent's children attending,S4,0.06,0.06,0.03,0.04,0.09,0.06
+Participation in Education,Level of education respondent's children attending,S5,0.02,0.00,0.03,0.03,0.04,0.02
+Participation in Education,Level of education respondent's children attending,S6,0.03,0.00,0.04,0.02,0.04,0.03
+Participation in Education,Level of education respondent's children attending,Refuse / no response,0.01,0.01,0.02,0.01,0.00,0.01
+Parent-Community Relationship,Student Teacher Parent Relationship Index,Mean average,0.68,0.73,0.70,0.75,0.73,0.68
+Parent-Community Relationship,Community Student Teacher Parent Relationship Index,Mean average,0.70,0.69,0.70,0.74,0.75,0.70
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,More than once a month,0.22,0.29,0.24,0.04,0.21,0.22
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,Once a month,0.19,0.34,0.22,0.18,0.26,0.19
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,A few times a year,0.28,0.22,0.36,0.46,0.43,0.28
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,Once a year or less,0.09,0.00,0.10,0.04,0.00,0.09
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,Never,0.19,0.15,0.05,0.25,0.10,0.19
+Parent-Community Relationship,Frequency respondent's parents/guardians meet with teachers,Refuse / no response,0.02,0.00,0.03,0.04,0.00,0.02
+Parent-Community Relationship,Type school meetings parents attended,Open days,0.32,0.51,0.14,0.00,0.40,0.32
+Parent-Community Relationship,Type school meetings parents attended,Extra-curricular activities,0.14,0.23,0.23,0.19,0.13,0.14
+Parent-Community Relationship,Type school meetings parents attended,Parent-teacher Association (PTA),0.55,0.86,0.71,0.81,0.58,0.55
+Parent-Community Relationship,Type school meetings parents attended,Parent-teacher meeting,0.64,0.83,0.55,0.43,0.53,0.64
+Parent-Community Relationship,Type school meetings parents attended,School management committee,0.16,0.09,0.38,0.05,0.13,0.16
+Parent-Community Relationship,Type school meetings parents attended,Other,0.04,0.06,0.04,0.00,0.00,0.04
+Parent-Community Relationship,Type school meetings parents attended,Refuse / no response,0.04,0.00,0.04,0.05,0.00,0.04
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,More than once a month,0.24,0.36,0.29,0.18,0.28,0.24
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,Once a month,0.30,0.22,0.30,0.26,0.47,0.30
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,A few times a year,0.27,0.26,0.36,0.38,0.15,0.27
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,Once a year or less,0.07,0.04,0.01,0.06,0.04,0.07
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,Never,0.11,0.12,0.04,0.11,0.07,0.11
+Parent-Community Relationship,Frequency respondent meet with their children's teacher,Refuse / no response,0.01,0.00,0.00,0.02,0.00,0.01
+Parent-Community Relationship,Type of School meetings respondent attended,Open days,0.36,0.37,0.20,0.05,0.37,0.36
+Parent-Community Relationship,Type of School meetings respondent attended,Extra-curricular activities,0.14,0.15,0.18,0.04,0.08,0.14
+Parent-Community Relationship,Type of School meetings respondent attended,Parent-teacher Association (PTA),0.54,0.53,0.74,0.85,0.42,0.54
+Parent-Community Relationship,Type of School meetings respondent attended,Parent-teacher meeting,0.58,0.59,0.57,0.57,0.71,0.58
+Parent-Community Relationship,Type of School meetings respondent attended,School management committee,0.11,0.08,0.18,0.12,0.04,0.11
+Parent-Community Relationship,Type of School meetings respondent attended,Other,0.05,0.12,0.08,0.01,0.04,0.05
+Parent-Community Relationship,Type of School meetings respondent attended,Refuse / no response,0.03,0.07,0.01,0.03,0.02,0.03
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,Not at all,0.07,0.06,0.05,0.07,0.06,0.07
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,A little,0.27,0.23,0.39,0.20,0.24,0.27
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,Somewhat,0.33,0.29,0.24,0.29,0.23,0.33
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,A lot,0.28,0.37,0.23,0.36,0.41,0.28
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,Extremely,0.04,0.04,0.06,0.05,0.05,0.04
+Parent-Community Relationship,How much would community members are involved in the functioning and management of the school?,Refuse / no response,0.01,0.02,0.02,0.02,0.01,0.01
+Parent-Community Relationship,How are community members involved?,Participate in school management bodies,0.37,0.65,0.52,0.22,0.29,0.37
+Parent-Community Relationship,How are community members involved?,Financing,0.55,0.57,0.53,0.44,0.77,0.55
+Parent-Community Relationship,How are community members involved?,Support school garden,0.25,0.40,0.36,0.35,0.23,0.25
+Parent-Community Relationship,How are community members involved?,Contribute time / volunteer,0.46,0.52,0.62,0.65,0.29,0.46
+Parent-Community Relationship,How are community members involved?,Other,0.10,0.27,0.11,0.07,0.07,0.10
+Parent-Community Relationship,How are community members involved?,Refuse / no response,0.05,0.03,0.04,0.03,0.05,0.05
+Social Cohesion,Overall Social Cohesion Index,Mean average,0.67,0.68,0.67,0.71,0.67,0.67
+Social Cohesion,Factor 1: Inclusion and Access to Service ,Mean average,0.67,0.70,0.65,0.66,0.66,0.67
+Social Cohesion,Factor 2: Social Relationships,Mean average,0.80,0.80,0.78,0.81,0.85,0.80
+Social Cohesion,Factor 3: Civic Participation,Mean average,0.44,0.45,0.36,0.47,0.47,0.44
+Social Cohesion,Factor 4: Trust,Mean average,0.53,0.62,0.60,0.63,0.56,0.53
+Social Cohesion,Factor 5: Nonviolence Conflict Resolution,Mean average,0.89,0.82,0.94,0.96,0.82,0.89
+Resilence,"Pyschological Resilency
+",Connor Davidson Resilence Scale (Mean),33.00,29.00,33.60,32.80,34.90,33.00
+Resilence,"Pyschological Resilency
+",Rosenberg Self-Esteem Scale (Mean),22.00,23.20,21.80,21.00,21.00,22.20
+Resilence,Resilence Outcome,Completed Primary School or Currently Enrolled in School,0.46,0.24,0.46,0.49,0.43,0.52
+Resilence,Degree of control over financial situation,No control at all,0.12,0.06,0.26,0.19,0.12,0.12
+Resilence,Degree of control over financial situation,A little bit of control,0.21,0.09,0.22,0.21,0.11,0.21
+Resilence,Degree of control over financial situation,Moderate level of control,0.15,0.18,0.10,0.11,0.13,0.15
+Resilence,Degree of control over financial situation,Quite a bit of control,0.12,0.22,0.04,0.14,0.15,0.12
+Resilence,Degree of control over financial situation,A lot of control,0.38,0.42,0.34,0.32,0.47,0.38
+Resilence,Degree of control over financial situation,Refuse / no response,0.02,0.03,0.05,0.02,0.02,0.02
+Resilence,Degree of control over life in general,No control at all,0.02,0.03,0.07,0.03,0.05,0.02
+Resilence,Degree of control over life in general,A little bit of control,0.09,0.05,0.13,0.09,0.02,0.09
+Resilence,Degree of control over life in general,Moderate level of control,0.13,0.12,0.09,0.22,0.07,0.13
+Resilence,Degree of control over life in general,Quite a bit of control,0.16,0.14,0.09,0.20,0.10,0.16
+Resilence,Degree of control over life in general,A lot of control,0.58,0.65,0.61,0.45,0.77,0.58
+Resilence,Degree of control over life in general,Refuse / no response,0.01,0.01,0.02,0.01,0.00,0.01
+Resilence,Which of the following statements do you most agree with?,Each person is responsible for their own success/failure,0.68,0.68,0.73,0.78,0.66,0.68
+Resilence,Which of the following statements do you most agree with?,Each person's future is a matter of destiny,0.29,0.26,0.18,0.21,0.33,0.29
+Resilence,Which of the following statements do you most agree with?,Refuse / no response,0.03,0.06,0.08,0.02,0.02,0.03
+Resilence,"""You are able to manage challenges well.""",Strongly disagree,0.04,0.05,0.05,0.05,0.06,0.04
+Resilence,"""You are able to manage challenges well.""",Disagree,0.10,0.18,0.13,0.07,0.08,0.10
+Resilence,"""You are able to manage challenges well.""",Neither agree or disagree,0.18,0.37,0.15,0.12,0.08,0.18
+Resilence,"""You are able to manage challenges well.""",Agree,0.48,0.30,0.39,0.62,0.51,0.48
+Resilence,"""You are able to manage challenges well.""",Strongly agree,0.15,0.05,0.18,0.10,0.23,0.15
+Resilence,"""You are able to manage challenges well.""",Refuse / no response,0.04,0.06,0.10,0.04,0.03,0.04
+Respondent Characteristics,Sex of the respondent,Male,0.50,0.51,0.50,0.51,0.49,0.50
+Respondent Characteristics,Sex of the respondent,Female,0.50,0.49,0.50,0.49,0.51,0.50
+Respondent Characteristics,Age,Mean average,32.83,29.96,30.43,34.39,35.51,32.83
+Respondent Characteristics,Marital Status,"Single, never married",0.33,0.33,0.37,0.19,0.28,0.33
+Respondent Characteristics,Marital Status,Married (monogamous),0.46,0.33,0.26,0.49,0.53,0.46
+Respondent Characteristics,Marital Status,Married (polygamous),0.08,0.29,0.14,0.24,0.05,0.08
+Respondent Characteristics,Marital Status,Partner/Living together,0.03,0.00,0.13,0.02,0.03,0.03
+Respondent Characteristics,Marital Status,Divorced/Separated,0.05,0.00,0.05,0.05,0.05,0.05
+Respondent Characteristics,Marital Status,Widowed,0.05,0.05,0.06,0.03,0.06,0.05
+Respondent Characteristics,Marital Status,Refuse / no response,0.00,0.00,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main source of information,Radio,0.78,0.29,0.75,0.82,0.86,0.78
+Respondent Characteristics,Main source of information,Newspapers,0.01,0.01,0.01,0.00,0.01,0.01
+Respondent Characteristics,Main source of information,Television,0.04,0.01,0.00,0.00,0.02,0.04
+Respondent Characteristics,Main source of information,"Friends, Family",0.08,0.20,0.07,0.07,0.07,0.08
+Respondent Characteristics,Main source of information,Religious leaders,0.01,0.00,0.00,0.00,0.00,0.01
+Respondent Characteristics,Main source of information,Local leaders / authorities,0.06,0.39,0.11,0.07,0.02,0.06
+Respondent Characteristics,Main source of information,"NGOs, civil society",0.00,0.01,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main source of information,Other,0.03,0.07,0.04,0.03,0.01,0.03
+Respondent Characteristics,Main source of information,Refuse / no response,0.00,0.02,0.02,0.00,0.00,0.00
+Respondent Characteristics,Head of the Household,Head of the Household (% yes),0.49,0.41,0.48,0.46,0.62,0.49
+Respondent Characteristics,Main source of livelihood (cash and in kind),Consumption of own production,0.35,0.49,0.56,0.68,0.45,0.35
+Respondent Characteristics,Main source of livelihood (cash and in kind),Sale of agricultural production,0.32,0.08,0.22,0.14,0.32,0.32
+Respondent Characteristics,Main source of livelihood (cash and in kind),Casual / Day labor income,0.11,0.26,0.08,0.05,0.04,0.11
+Respondent Characteristics,Main source of livelihood (cash and in kind),Skilled labor income,0.03,0.02,0.04,0.03,0.02,0.03
+Respondent Characteristics,Main source of livelihood (cash and in kind),Handicraft,0.01,0.07,0.00,0.01,0.03,0.01
+Respondent Characteristics,Main source of livelihood (cash and in kind),Fishing income or in kind,0.01,0.00,0.00,0.01,0.00,0.01
+Respondent Characteristics,Main source of livelihood (cash and in kind),Hunting income or in-kind,0.00,0.01,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main source of livelihood (cash and in kind),Business / Seller income,0.08,0.05,0.04,0.00,0.07,0.08
+Respondent Characteristics,Main source of livelihood (cash and in kind),Teacher income,0.02,0.00,0.03,0.03,0.01,0.02
+Respondent Characteristics,Main source of livelihood (cash and in kind),Other government employee income,0.01,0.00,0.00,0.01,0.00,0.01
+Respondent Characteristics,Main source of livelihood (cash and in kind),Private company employee income,0.01,0.00,0.00,0.00,0.02,0.01
+Respondent Characteristics,Main source of livelihood (cash and in kind),"Gift, aid, assistance from family friends",0.00,0.01,0.00,0.01,0.01,0.00
+Respondent Characteristics,Main source of livelihood (cash and in kind),Support from NGOs/UN/church/charity,0.00,0.00,0.00,0.00,0.01,0.00
+Respondent Characteristics,Main source of livelihood (cash and in kind),Begging (ask money to others in the street),0.00,0.00,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main source of livelihood (cash and in kind),Other,0.02,0.00,0.00,0.02,0.01,0.02
+Respondent Characteristics,Main source of livelihood (cash and in kind),Refuse / no response,0.01,0.00,0.02,0.01,0.00,0.01
+Respondent Characteristics,Main occupation,Farming,0.49,0.32,0.58,0.58,0.56,0.49
+Respondent Characteristics,Main occupation,Own Livestock,0.01,0.04,0.01,0.00,0.00,0.01
+Respondent Characteristics,Main occupation,Petty Trade/Seller,0.03,0.07,0.05,0.02,0.02,0.03
+Respondent Characteristics,Main occupation,Casual Labor agriculture,0.07,0.04,0.05,0.03,0.09,0.07
+Respondent Characteristics,Main occupation,Casual labor non agriculture,0.07,0.13,0.04,0.03,0.05,0.07
+Respondent Characteristics,Main occupation,Paid housework and child care,0.00,0.02,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main occupation,Fishing,0.01,0.00,0.00,0.00,0.00,0.01
+Respondent Characteristics,Main occupation,Trade / business owner,0.04,0.01,0.02,0.01,0.04,0.04
+Respondent Characteristics,Main occupation,Teacher,0.02,0.00,0.02,0.02,0.01,0.02
+Respondent Characteristics,Main occupation,Other government employee,0.01,0.00,0.01,0.01,0.01,0.01
+Respondent Characteristics,Main occupation,Private business employee,0.02,0.01,0.00,0.01,0.03,0.02
+Respondent Characteristics,Main occupation,NGO employee,0.00,0.00,0.00,0.00,0.00,0.00
+Respondent Characteristics,Main occupation,Student,0.10,0.13,0.09,0.07,0.10,0.10
+Respondent Characteristics,Main occupation,Housewife,0.08,0.16,0.11,0.10,0.08,0.08
+Respondent Characteristics,Main occupation,Retired / disabled,0.00,0.01,0.00,0.01,0.00,0.00
+Respondent Characteristics,Main occupation,Unemployed,0.04,0.02,0.03,0.12,0.01,0.04
+Respondent Characteristics,Main occupation,Other,0.01,0.05,0.00,0.00,0.01,0.01
+Respondent Characteristics,Household Material Assets,Mean average,5.28,2.45,5.17,5.71,5.36,5.28
