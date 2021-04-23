@@ -2,9 +2,6 @@ group,question,response,value,Women,Men
 Demographic details,v7 - Appartenance  de la  structure de santŽ,Confesionnelle,0.042553191,0.055045872,0.034682081
 Demographic details,v7 - Appartenance  de la  structure de santŽ,PrivŽe,0.783687943,0.752293578,0.803468208
 Demographic details,v7 - Appartenance  de la  structure de santŽ,Publique,0.173758865,0.19266055,0.161849711
-Demographic details,Income,Income per year,30000,40000,20000
-Demographic details,Income,Last month,30000,40000,20000
-Demographic details,Age,Age,76,75,74
 Demographic details,f1 - info_profil/Sexe,Femme,0.386524823,1,
 Demographic details,f1 - info_profil/Sexe,Homme,0.613475177,,1
 Facility,v8 - Type de la structure de santŽ,Centre de SantŽ,0.833333333,0.834862385,0.832369942
