@@ -188,7 +188,7 @@ console.log(graphData)
         .attr("x", (width / 2))
         .attr("y", 5 - (margin.top / 2))
         .attr("text-anchor", "middle")
-        .style("font-size", "1.5vw")
+        .style("font-size", "1vw")
         .style("text-decoration", "underline")
         .text(question + " (" + group + ")");
 
@@ -196,7 +196,7 @@ console.log(graphData)
   svg.append("text")
   .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
   .attr("text-anchor", "middle")
-  .style("font-size", "1.25vw")
+  .style("font-size", "0.5vw")
   .style("text-decoration", "underline")
   .text("Response");
 
@@ -207,7 +207,7 @@ console.log(graphData)
     .attr("x",0 - (height / 2))
     .attr("dy", "0.7em")
     .attr("text-anchor", "middle")
-    .style("font-size", "1.25vw")
+    .style("font-size", "0.5vw")
     .style("text-decoration", "underline")
     .text("Value (%)");
 });
