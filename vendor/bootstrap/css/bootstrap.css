@@ -4268,6 +4268,8 @@ input[type="button"].btn-block {
   color: #495057;
   background-color: #fff;
   border-color: #dee2e6 #dee2e6 #fff;
+  text-align: left;
+  font-size: 1.5vw;
 }
 
 .nav-tabs .dropdown-menu {
