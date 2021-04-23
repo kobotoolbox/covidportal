@@ -1,4 +1,4 @@
-﻿Group,Question,Response,value,Region II,Region III,Region IV,Region V,Region VI,Region VII,Region VIII,Total,Unit
+group,question,response,value,Region II,Region III,Region IV,Region V,Region VI,Region VII,Region VIII,Total,Unit
 Demographics,Gender,% male,51%,50%,50%,50%,50%,50%,50%,51%,50%,%
 Demographics,Gender,% female,49%,50%,50%,50%,50%,50%,50%,49%,50%,%
 Demographics,Age groups,<25,15%,22%,16%,14%,16%,19%,22%,24%,18%,%
