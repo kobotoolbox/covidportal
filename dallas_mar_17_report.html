@@ -71,25 +71,12 @@
   <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_agg.html'" type="submit"><b>AGGREGATED RESPONSES</b></button>
   <br><br>
     <script src="js/bar.js"></script>
-    <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/USA/Dummy_Data/dallas_mar_17.csv" </script>
-    <script> drawGraphic('Group_1','Question_1','Total') </script>
-    <script> drawGraphic('Group_1','Question_2','Total') </script>
-    <script> drawGraphic('Group_1','Question_3','Total') </script>
-    <script> drawGraphic('Group_1','Question_4','Total') </script>
-    <script> drawGraphic('Group_2','Question_1','Total') </script>
-    <script> drawGraphic('Group_2','Question_2','Total') </script>
-    <script> drawGraphic('Group_2','Question_3','Total') </script>
-    <script> drawGraphic('Group_2','Question_4','Total') </script>
-    <script> drawGraphic('Group_3','Question_1','Total') </script>
-    <script> drawGraphic('Group_3','Question_2','Total') </script>
-    <script> drawGraphic('Group_3','Question_3','Total') </script>
-    <script> drawGraphic('Group_3','Question_4','Total') </script>
-    <script> drawGraphic('Group_4','Question_1','Total') </script>
-    <script> drawGraphic('Group_4','Question_2','Total') </script>
-    <script> drawGraphic('Group_4','Question_3','Total') </script>
+    <script src="js/auto.js"></script>
+    <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/Uganda/Dummy_Data/dallas_mar_17.csv" </script>
+    <script> autoDraw(csv,'Total') </script>
   </div>
 </body>
-
+  
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
