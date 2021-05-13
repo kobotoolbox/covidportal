@@ -53,7 +53,7 @@
 
 <div id="mySidenav" class="sidenav">
   <br>
-  <center><h4 class = "nav-item nav-link disabled">GUATEMALA, APRIL 2021; HHI</h4></center>
+  <center><h4 class = "nav-item nav-link disabled",style = "font-size: 1vw">GUATEMALA, APRIL 2021; HHI</h4></center>
   <a style = "text-align: left; font-size: 2.5vw" href="guatemala_apr_21_summary.html" class = "nav-item nav-link active">SUMMARY</a>
   <a style = "text-align: left; font-size: 2.5vw" href="guatemala_apr_21_report.html" class = "nav-item nav-link disabled">REPORT</a>
   <a style = "text-align: left; font-size: 2.5vw" href="guatemala_apr_21_table.html" class = "nav-item nav-link active">TABLE</a>
@@ -64,6 +64,7 @@
   <!-- Page Content -->
 <body>
   <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>  
   <div id = "container" class = "table-container">
   <div style = "display: inline;">
   <br>
@@ -71,20 +72,12 @@
   <button class="btn btn-primary" onclick="location.href='guatemala_apr_21_report_agg.html'" type="submit"><b>AGGREGATED RESPONSES</b></button>
   <br><br>
     <script src="js/bar.js"></script>
+    <script src="js/auto.js"></script>
     <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/Guatemala/Dummy_Data/region1_apr21.csv" </script>
-    <script> drawGraphic('Demographics','Gender','Total') </script>
-    <script> drawGraphic('Demographics','Age groups','Total') </script>
-    <script> drawGraphic('Demographics','Marital status','Total') </script>
-    <script> drawGraphic('Demographics','Relation to household head','Total') </script>
-    <script> drawGraphic('Demographics','Education','Total') </script>
-    <script> drawGraphic('Demographics','Home language','Total') </script>
-    <script> drawGraphic('Demographics','Group of origin','Total') </script>
-    <script> drawGraphic('Dwelling','Dwelling structure','Total') </script>
-    <script> drawGraphic('Dwelling','Wall material','Total') </script>
-    <script> drawGraphic('Dwelling','Services','Total') </script>
+    <script> autoDraw(csv,'Total') </script>
   </div>
 </body>
-
+  
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
