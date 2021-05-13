@@ -1,4 +1,4 @@
-function autoDraw(csv) {
+function autoDraw(csv,agg) {
 
 //parsing csv
    var results = Papa.parse(csv,
@@ -32,6 +32,6 @@ function autoDraw(csv) {
     //passing all unique group;question pairs to charting func
     groups_set.forEach((group, index) => {
     const question = questions_set[index];
-    drawGraphic(group,question,'Total')});
+    drawGraphic(group,question,agg)});
     }});
 }
