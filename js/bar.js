@@ -77,7 +77,9 @@ console.log(graphData)
 
   //defining color palette (WHO)
   var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
-
+  if (agg == "Total")
+  {var colors = ['#5CC6F2']}
+  
   //defining color scale
   var color = d3.scaleOrdinal()
     .domain(groups)
