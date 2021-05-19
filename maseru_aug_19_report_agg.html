@@ -61,9 +61,10 @@
   </div>
 
 
-  <!-- Page Content -->
+<!-- Page Content -->
 <body>
   <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>  
   <div id = "container" class = "table-container">
   <div style = "display: inline;">
   <br>
@@ -71,25 +72,12 @@
   <button class="btn btn-primary" onclick="location.href='maseru_aug_19_report_agg.html'" type="submit"><b>AGGREGATED RESPONSES</b></button>
   <br><br>
     <script src="js/bar.js"></script>
+    <script src="js/auto.js"></script>
     <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/Lesotho/Dummy_Data/maseru_aug_19.csv" </script>
-    <script> drawGraphic('Group_1','Question_1','Aggregated') </script>
-    <script> drawGraphic('Group_1','Question_2','Aggregated') </script>
-    <script> drawGraphic('Group_1','Question_3','Aggregated') </script>
-    <script> drawGraphic('Group_1','Question_4','Aggregated') </script>
-    <script> drawGraphic('Group_2','Question_1','Aggregated') </script>
-    <script> drawGraphic('Group_2','Question_2','Aggregated') </script>
-    <script> drawGraphic('Group_2','Question_3','Aggregated') </script>
-    <script> drawGraphic('Group_2','Question_4','Aggregated') </script>
-    <script> drawGraphic('Group_3','Question_1','Aggregated') </script>
-    <script> drawGraphic('Group_3','Question_2','Aggregated') </script>
-    <script> drawGraphic('Group_3','Question_3','Aggregated') </script>
-    <script> drawGraphic('Group_3','Question_4','Aggregated') </script>
-    <script> drawGraphic('Group_4','Question_1','Aggregated') </script>
-    <script> drawGraphic('Group_4','Question_2','Aggregated') </script>
-    <script> drawGraphic('Group_4','Question_3','Aggregated') </script>
+    <script> autoDraw(csv,'Aggregated') </script>
   </div>
 </body>
-
+  
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.slim.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
