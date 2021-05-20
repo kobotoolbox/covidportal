@@ -60,19 +60,21 @@ function drawGraphic(group,question,agg) {
             subset.shift()
             var subgroups = subset
         }
-
-  //extracting groups
-  var groups = d3.map(graphData, function(d){return(d.response)}).keys()
-
-  //defining color palette (WHO)
-  var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
-  if (agg == "Total")
-  {var colors = ['#5CC6F2']}
-  
-  //defining color scale
-  var color = d3.scaleOrdinal()
-    .domain(groups)
-    .range(colors)
+        
+        //extracting groups
+        var groups = d3.map(graphData, function(d){return(d.response)}).keys()
+        
+        //defining color palette (WHO)
+        var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
+        if (agg == "Total")
+        {
+            var colors = ['#5CC6F2']
+        }
+        
+        //defining color scale
+        var color = d3.scaleOrdinal()
+        .domain(groups)
+        .range(colors)
 
   //defining discrete band scale for x axis
   var x = d3.scaleBand().range([0, width]).padding([0.25])
