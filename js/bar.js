@@ -28,7 +28,8 @@ set_vars();
 function drawGraphic(group,question,agg) {
     
     //reading the data (.csv)
-    d3.csv(csv, function(data) {
+    d3.csv(csv, function(data)
+        {
         var graphData = data.filter(function(d){ return d.group === group & d.question === question })
         
         //appending svg object to body
@@ -75,53 +76,54 @@ function drawGraphic(group,question,agg) {
         var color = d3.scaleOrdinal()
         .domain(groups)
         .range(colors)
-
-  //defining discrete band scale for x axis
-  var x = d3.scaleBand().range([0, width]).padding([0.25])
-
-  //defining linear scale for y axis
-  var y = d3.scaleLinear().range([height, 0]);
-
-  //providing domain values to x, y axis'
-  x.domain(groups)
-  y.domain([0, 1]);
-
-  //defining a scale for subgroup positioning
-  xSubgroup = d3.scaleBand().domain(subgroups).range([0, x.bandwidth()]).padding([0.025])
-
-  //adding x axis
-  svg.append("g")
-    .attr("transform", "translate(0," + height + ")")
-    .call(d3.axisBottom(x).tickSize(-height*1.3).ticks())
-    .select('.domain').remove();
-
-  //adding y axis
-  svg.append("g")
-    .call(d3.axisLeft(y).tickSize(-width*1.3).ticks())
-    .select('.domain').remove();
-
-  //plotting background customization (ggplot2 styling)
-  svg.selectAll('.tick line').attr('stroke','white')
-
-  //defining tooltip
-  var Tooltip = d3.select("#container")
-  .append('div')
-  .style("opacity", 0.9)
-  .attr("class", "tooltip")
-  .style("background-color", '#EBEBEB')
-  .style("padding", "2px")
-  .style("position", "absolute")
-  .style("font-size", "1vw")
-
-  //defining mouseover, mousemove and mouseout functions
-    var mouseover = function(d) {
-      Tooltip.
-      style("opacity",1)
-      d3.select(this)
-        .style("fill", "#414453")
-        .style("opacity", 1)
-    }
-    var mousemove = function(d) {
+        
+        //defining discrete band scale for x axis
+        var x = d3.scaleBand().range([0, width]).padding([0.25])
+        //defining linear scale for y axis
+        var y = d3.scaleLinear().range([height, 0]);
+        
+        //providing domain values to x, y axis'
+        x.domain(groups)
+        y.domain([0, 1]);
+        
+        //defining a scale for subgroup positioning
+        xSubgroup = d3.scaleBand().domain(subgroups).range([0, x.bandwidth()]).padding([0.025])
+        
+        //adding x axis
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x).tickSize(-height*1.3).ticks())
+            .select('.domain').remove();
+        
+        //adding y axis
+        svg.append("g")
+            .call(d3.axisLeft(y).tickSize(-width*1.3).ticks())
+            .select('.domain').remove();
+        
+        //plotting background customization (ggplot2 styling)
+        svg.selectAll('.tick line').attr('stroke','white')
+        
+        //defining tooltip
+        var Tooltip = d3.select("#container")
+        .append('div')
+        .style("opacity", 0.9)
+        .attr("class", "tooltip")
+        .style("background-color", '#EBEBEB')
+        .style("padding", "2px")
+        .style("position", "absolute")
+        .style("font-size", "1vw")
+        
+        //defining mouseover, mousemove and mouseout functions
+        var mouseover = function(d) 
+        {
+            Tooltip
+                .style("opacity",1)
+            d3.select(this)
+                .style("fill", "#414453")
+                .style("opacity", 1)
+        }
+        
+        var mousemove = function(d) {
       Tooltip
         .html(d.key + "</br>" + d.value)
         .style("left", (d3.mouse(this)[0]) + 50)
