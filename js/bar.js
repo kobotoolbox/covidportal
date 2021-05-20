@@ -1,10 +1,10 @@
-//Defining default graph dimensions + margins
+//Defining default chart dimensions + margins
 var default_width = 800;
 var default_height = 300;
 var default_ratio = default_width / default_height;
 var margin = {top: 30, right: 125, bottom: 30, left: 125};
 
-//Calculating current chart size (dependent on window size)
+//Func to update chart dimensions + margins according to window size
 function set_vars() {
     current_width = window.innerWidth*0.75;
     current_height = window.innerHeight;
@@ -18,8 +18,6 @@ function set_vars() {
         w = current_width;
         h = w / default_ratio;
       }
-    
-    //Updating width and height according to new dimensions
     width = w - margin.left - margin.right;
     height = h - margin.top - margin.bottom;
 };
