@@ -122,16 +122,16 @@ function drawGraphic(group,question,agg) {
                 .style("fill", "#414453")
                 .style("opacity", 1)
         }
-        
-        var mousemove = function(d) {
-      Tooltip
-        .html(d.key + "</br>" + d.value)
-        .style("left", (d3.mouse(this)[0]) + 50)
-        .style("top", (d3.mouse(this)[1]) + "px")
-    }
-    var mouseout = function(d) {
-      Tooltip.
-      style("opacity",0)
+        var mousemove = function(d) 
+        {
+            Tooltip
+                .html(d.key + "</br>" + d.value)
+                .style("left", (d3.mouse(this)[0]) + 50)
+                .style("top", (d3.mouse(this)[1]) + "px")
+        }
+        var mouseout = function(d) 
+        {
+            Tooltip.style("opacity",0)
       d3.select(this)
       .style("left", (d3.event.pageX-document.getElementById('container').offsetLeft+2) + "px")
       .style("top", (d3.event.pageY-document.getElementById('container').offsetTop-document.getElementById('container').offsetTop) + "px");
