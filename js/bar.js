@@ -9,15 +9,15 @@ var margin = {top: 30, right: 125, bottom: 30, left: 125};
       current_width = window.innerWidth*0.75;
       current_height = window.innerHeight;
       current_ratio = current_width*1.333 / current_height;
-
-      if (current_ratio > default_ratio ){ //Height limiting
+        
+      if (current_ratio > default_ratio ){ //Height is limiting dimension
         h = current_height;
         w = h * default_ratio;
       } 
-        else { //Width limiting
+        else { //Width is limiting dimension
         w = current_width;
         h = w / default_ratio;
-        }
+      }
 
 // Set new width and height based on graph dimensions
 width = w - margin.left - margin.right;
