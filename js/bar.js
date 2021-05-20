@@ -90,13 +90,15 @@ function drawGraphic(group,question,agg) {
         xSubgroup = d3.scaleBand().domain(subgroups).range([0, x.bandwidth()]).padding([0.025])
         
         //adding x axis
-        svg.append("g")
+        svg
+            .append("g")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x).tickSize(-height*1.3).ticks())
             .select('.domain').remove();
         
         //adding y axis
-        svg.append("g")
+        svg
+            .append("g")
             .call(d3.axisLeft(y).tickSize(-width*1.3).ticks())
             .select('.domain').remove();
         
@@ -131,7 +133,8 @@ function drawGraphic(group,question,agg) {
         }
         var mouseout = function(d) 
         {
-            Tooltip.style("opacity",0)
+            Tooltip
+                .style("opacity",0)
             d3.select(this)
                 .style("left", (d3.event.pageX-document.getElementById('container').offsetLeft+2) + "px")
                 .style("top", (d3.event.pageY-document.getElementById('container').offsetTop-document.getElementById('container').offsetTop) + "px");
@@ -160,65 +163,70 @@ function drawGraphic(group,question,agg) {
                 .style("fill", function(d) { return color(d.key); })
                 .style("opacity", 1)
         }
-
-  //adding the bars
-  svg.append("g")
-    .selectAll("g")
-    .data(graphData)
-    .enter()
-    .append("g")
-      .attr("transform", function(graphData) { return "translate(" + x(graphData.response) + ",0)"; })
-    .selectAll("rect")
-    .data(function(graphData) { return subgroups.map(function(key) { return {key: key, value: graphData[key]}; }); })
-    .enter().append("rect")
-    .on('mouseover',mouseover) //listener for mouseover event
-    .on("mousemove",mousemove) //listener for mousemove event
-    .on('mouseout',mouseout) //listener for mouseout event
-      .attr("height", function(graphData) { return height - y(graphData.value); })
-      .attr("x", function(graphData) { return xSubgroup(graphData.key); })
-      .attr("y", function(graphData) { return y(graphData.value); })
-      .attr("width", xSubgroup.bandwidth())
-      .attr("fill", function(graphData) { return color(graphData.key); });
-
-  //adding title label
-  svg.append("text")
-        .attr("x", (width / 2))
-        .attr("y", 5 - (margin.top / 2))
-        .attr("text-anchor", "middle")
-        .style("font-size", "1vw")
-        .style("text-decoration", "underline")
-        .text(question + " (" + group + ")");
-
-  //text label for the x axis
-  svg.append("text")
-  .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
-  .attr("text-anchor", "middle")
-  .style("font-size", "0.5vw")
-  .style("text-decoration", "underline")
-  .text("Response");
-
-  // text label for the y axis
-  svg.append("text")
-    .attr("transform", "rotate(-90)")
-    .attr("y", 0 - 50)
-    .attr("x",0 - (height / 2))
-    .attr("dy", "0.7em")
-    .attr("text-anchor", "middle")
-    .style("font-size", "0.5vw")
-    .style("text-decoration", "underline")
-    .text("Value (%)");
-});
-
+        
+        //adding the bars
+        svg
+            .append("g")
+            .selectAll("g")
+            .data(graphData)
+            .enter()
+            .append("g")
+            .attr("transform", function(graphData) { return "translate(" + x(graphData.response) + ",0)"; })
+            .selectAll("rect")
+            .data(function(graphData) { return subgroups.map(function(key) { return {key: key, value: graphData[key]}; }); })
+            .enter().append("rect")
+            .on('mouseover',mouseover) //listener for mouseover event
+            .on("mousemove",mousemove) //listener for mousemove event
+            .on('mouseout',mouseout) //listener for mouseout event
+            .attr("height", function(graphData) { return height - y(graphData.value); })
+            .attr("x", function(graphData) { return xSubgroup(graphData.key); })
+            .attr("y", function(graphData) { return y(graphData.value); })
+            .attr("width", xSubgroup.bandwidth())
+            .attr("fill", function(graphData) { return color(graphData.key); });
+        
+        //adding title label
+        svg
+            .append("text")
+            .attr("x", (width / 2))
+            .attr("y", 5 - (margin.top / 2))
+            .attr("text-anchor", "middle")
+            .style("font-size", "1vw")
+            .style("text-decoration", "underline")
+            .text(question + " (" + group + ")");
+        
+        //text label for the x axis
+        svg
+            .append("text")
+            .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
+            .attr("text-anchor", "middle")
+            .style("font-size", "0.5vw")
+            .style("text-decoration", "underline")
+            .text("Response");
+        
+        // text label for the y axis
+        svg
+            .append("text")
+            .attr("transform", "rotate(-90)")
+            .attr("y", 0 - 50)
+            .attr("x",0 - (height / 2))
+            .attr("dy", "0.7em")
+            .attr("text-anchor", "middle")
+            .style("font-size", "0.5vw")
+            .style("text-decoration", "underline")
+            .text("Value (%)");
+    });
 };
 
 //setting a timer to keep the chart from constantly resizing
 var resizeTimer;
-window.onresize = function(event) {
- clearTimeout(resizeTimer);
-  resizeTimer = setTimeout(function() {
-    var s = d3.selectAll('svg');
-    s = s.remove();
-    set_vars();
-    drawGraphic();
-  }, 100);
+window.onresize = function(event) 
+{
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function() 
+        {
+        var s = d3.selectAll('svg');
+        s = s.remove();
+        set_vars();
+        drawGraphic();
+        }, 100);
 }
