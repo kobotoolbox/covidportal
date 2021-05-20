@@ -4,13 +4,13 @@ var default_height = 300;
 var default_ratio = default_width / default_height;
 var margin = {top: 30, right: 125, bottom: 30, left: 125};
 
-    //Calculating current chart size (dependent on window size)
-    function set_vars() {
-      current_width = window.innerWidth*0.75;
-      current_height = window.innerHeight;
-      current_ratio = current_width*1.333 / current_height;
+//Calculating current chart size (dependent on window size)
+function set_vars() {
+    current_width = window.innerWidth*0.75;
+    current_height = window.innerHeight;
+    current_ratio = current_width*1.333 / current_height;
         
-      if (current_ratio > default_ratio ){ //Height is limiting dimension
+    if (current_ratio > default_ratio ){ //Height is limiting dimension
         h = current_height;
         w = h * default_ratio;
       } 
@@ -18,10 +18,10 @@ var margin = {top: 30, right: 125, bottom: 30, left: 125};
         w = current_width;
         h = w / default_ratio;
       }
-
-//Updating width and height according to new dimensions
-width = w - margin.left - margin.right;
-height = h - margin.top - margin.bottom;
+    
+    //Updating width and height according to new dimensions
+    width = w - margin.left - margin.right;
+    height = h - margin.top - margin.bottom;
 };
 
 set_vars();
