@@ -19,7 +19,7 @@ var margin = {top: 30, right: 125, bottom: 30, left: 125};
         h = w / default_ratio;
       }
 
-// Set new width and height based on graph dimensions
+//Updating width and height for new dimensions
 width = w - margin.left - margin.right;
 height = h - margin.top - margin.bottom;
 
