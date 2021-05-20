@@ -1,10 +1,10 @@
-//Defining default chart dimensions + margins
+//Default chart dimensions + margins
 var default_width = 800;
 var default_height = 300;
 var default_ratio = default_width / default_height;
 var margin = {top: 30, right: 125, bottom: 30, left: 125};
 
-//Func to update chart dimensions + margins according to window size
+//set_vars() updates default chart dimensions + margins according to window size
 function set_vars() {
     current_width = window.innerWidth*0.75;
     current_height = window.innerHeight;
@@ -24,46 +24,42 @@ function set_vars() {
 
 set_vars();
 
+//drawGraphic() takes in a specfic subset of data (ie "Group1", "Question1") and aggregation level (ie 'Aggregated') and produces a bar chart 
 function drawGraphic(group,question,agg) {
-
-//reading the data (.csv)
-d3.csv(csv, function(data) {
-console.log(data)
-
-var graphData = data.filter(function(d){ return d.group === group & d.question === question })
-console.log(graphData)
-
-
-  //appending svg object to body
-  var svg = d3.select("#container")
-  .append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-   .attr("transform","translate(" + margin.left + "," + margin.top + ")");
-
-   //setting background color (ggplot2 styling)
-   svg
-   .append("rect")
-   .attr("x",0)
-   .attr("y",0)
-   .attr("height", height + 10)
-   .attr("width", width + 10)
-   .style("fill", "#F1FAFF");
-
-  //extracting subgroups (aggregating)
-  if (agg == "Total")
-  {
-    var subgroups = [data.columns.slice(2)[1]]
-  }
-  if (agg == "Aggregated")
-  {
-    var subset = data.columns.slice(2)
-    subset.shift()
-    subset.shift()
-    var subgroups = subset
-  }
-  console.log(subgroups)
+    
+    //reading the data (.csv)
+    d3.csv(csv, function(data) {
+        var graphData = data.filter(function(d){ return d.group === group & d.question === question })
+        
+        //appending svg object to body
+        var svg = d3.select("#container")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform","translate(" + margin.left + "," + margin.top + ")");
+        
+        //setting background color (ggplot2 styling)
+        svg
+            .append("rect")
+            .attr("x",0)
+            .attr("y",0)
+            .attr("height", height + 10)
+            .attr("width", width + 10)
+            .style("fill", "#F1FAFF");
+        
+        //extracting subgroups (aggregating)
+        if (agg == "Total")
+        {
+            var subgroups = [data.columns.slice(2)[1]]
+        }
+        if (agg == "Aggregated")
+        {
+            var subset = data.columns.slice(2)
+            subset.shift()
+            subset.shift()
+            var subgroups = subset
+        }
 
   //extracting groups
   var groups = d3.map(graphData, function(d){return(d.response)}).keys()
