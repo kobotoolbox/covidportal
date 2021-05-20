@@ -23,6 +23,7 @@ var margin = {top: 30, right: 125, bottom: 30, left: 125};
 width = w - margin.left - margin.right;
 height = h - margin.top - margin.bottom;
 };
+
 set_vars();
 
 function drawGraphic(group,question,agg) {
