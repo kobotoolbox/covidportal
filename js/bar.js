@@ -1,27 +1,23 @@
-// Set default width and height, calculate ratio
+//Defining default graph dimensions + margins
 var default_width = 800;
 var default_height = 300;
 var default_ratio = default_width / default_height;
-
-// set the dimensions and margins of the graph
 var margin = {top: 30, right: 125, bottom: 30, left: 125};
 
-    // Determine current size, which determines vars
+    //Calculating current chart size (dependent on window size)
     function set_vars() {
-      //alert('setting vars')
       current_width = window.innerWidth*0.75;
       current_height = window.innerHeight;
       current_ratio = current_width*1.333 / current_height;
 
-      // Check if height is limiting factor
-      if ( current_ratio > default_ratio ){
+      if (current_ratio > default_ratio ){ //Height limiting
         h = current_height;
         w = h * default_ratio;
-      // Else width is limiting
-      } else {
+      } 
+        else { //Width limiting
         w = current_width;
         h = w / default_ratio;
-      }
+        }
 
 // Set new width and height based on graph dimensions
 width = w - margin.left - margin.right;
