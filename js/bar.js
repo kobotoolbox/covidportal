@@ -1,4 +1,4 @@
-//Default chart dimensions + margins
+//default chart dimensions + margins
 var default_width = 800;
 var default_height = 300;
 var default_ratio = default_width / default_height;
@@ -10,11 +10,13 @@ function set_vars() {
     current_height = window.innerHeight;
     current_ratio = current_width*1.333 / current_height;
         
-    if (current_ratio > default_ratio ){ //Height is limiting dimension
+    //height is limiting dimension
+    if (current_ratio > default_ratio ){ 
         h = current_height;
         w = h * default_ratio;
       } 
-        else { //Width is limiting dimension
+    //width is limiting dimension
+        else {
         w = current_width;
         h = w / default_ratio;
       }
@@ -27,9 +29,10 @@ set_vars();
 //drawGraphic() takes in a specfic subset of data (ie "Group1", "Question1") and aggregation level (ie 'Aggregated') and produces a bar chart 
 function drawGraphic(group,question,agg) {
     
-    //reading the data (.csv)
+    //reading data (.csv)
     d3.csv(csv, function(data)
         {
+        //selecting specific subset of data to chart (group and question)
         var graphData = data.filter(function(d){ return d.group === group & d.question === question })
         
         //appending svg object to body
@@ -40,7 +43,7 @@ function drawGraphic(group,question,agg) {
         .append("g")
         .attr("transform","translate(" + margin.left + "," + margin.top + ")");
         
-        //setting background color (ggplot2 styling)
+        //setting chart background color/styling
         svg
             .append("rect")
             .attr("x",0)
@@ -49,11 +52,15 @@ function drawGraphic(group,question,agg) {
             .attr("width", width + 10)
             .style("fill", "#F1FAFF");
         
-        //extracting subgroups (aggregating)
+        //extracting subgroups for charting
+        
+        //non-aggregated charts (single bar)
         if (agg == "Total")
         {
             var subgroups = [data.columns.slice(2)[1]]
         }
+        
+        //aggregated charts (multi bar)
         if (agg == "Aggregated")
         {
             var subset = data.columns.slice(2)
@@ -62,11 +69,13 @@ function drawGraphic(group,question,agg) {
             var subgroups = subset
         }
         
-        //extracting groups
+        //extracting groups for colorscale
         var groups = d3.map(graphData, function(d){return(d.response)}).keys()
         
         //defining color palette (WHO)
         var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
+        
+        //defining single color for non-aggregated charts
         if (agg == "Total")
         {
             var colors = ['#5CC6F2']
