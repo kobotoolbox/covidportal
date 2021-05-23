@@ -74,7 +74,7 @@ var map = new Datamap(
     }
   });
 
-//adding listener for page resize
+//adding listener for page resizing
 window.addEventListener("resize", function() 
 {
   map.resize();
