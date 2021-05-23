@@ -20,6 +20,7 @@ function set_vars() {
         w = current_width;
         h = w / default_ratio;
       }
+    //redefining margins
     width = w - margin.left - margin.right;
     height = h - margin.top - margin.bottom;
 };
@@ -35,7 +36,7 @@ function drawGraphic(group,question,agg) {
         //selecting specific subset of data to chart (group and question)
         var graphData = data.filter(function(d){ return d.group === group & d.question === question })
         
-        //appending svg object to body
+        //appending svg object to body of the page
         var svg = d3.select("#container")
         .append("svg")
         .attr("width", width + margin.left + margin.right)
@@ -43,7 +44,7 @@ function drawGraphic(group,question,agg) {
         .append("g")
         .attr("transform","translate(" + margin.left + "," + margin.top + ")");
         
-        //setting chart background color/styling
+        //setting chart background color/styling 
         svg
             .append("rect")
             .attr("x",0)
@@ -53,7 +54,6 @@ function drawGraphic(group,question,agg) {
             .style("fill", "#F1FAFF");
         
         //extracting subgroups for charting
-        
         //non-aggregated charts (single bar)
         if (agg == "Total")
         {
@@ -69,13 +69,13 @@ function drawGraphic(group,question,agg) {
             var subgroups = subset
         }
         
-        //extracting groups for colorscale
+        //extracting groups for color scale
         var groups = d3.map(graphData, function(d){return(d.response)}).keys()
         
         //defining color palette (WHO)
         var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
         
-        //defining single color for non-aggregated charts
+        //defining single color for non-aggregated charts (single bar)
         if (agg == "Total")
         {
             var colors = ['#5CC6F2']
@@ -88,33 +88,33 @@ function drawGraphic(group,question,agg) {
         
         //defining discrete band scale for x axis
         var x = d3.scaleBand().range([0, width]).padding([0.25])
-        //defining linear scale for y axis
+        //defining linear scale for y axis 
         var y = d3.scaleLinear().range([height, 0]);
         
         //providing domain values to x, y axis'
-        x.domain(groups)
-        y.domain([0, 1]);
+        x.domain(groups) //automated
+        y.domain([0, 1]); 
         
-        //defining a scale for subgroup positioning
+        //defining a directe band scale for subgroup positioning
         xSubgroup = d3.scaleBand().domain(subgroups).range([0, x.bandwidth()]).padding([0.025])
         
-        //adding x axis
+        //appending x axis to svg
         svg
             .append("g")
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x).tickSize(-height*1.3).ticks())
             .select('.domain').remove();
         
-        //adding y axis
+        //appending y axis to svg
         svg
             .append("g")
             .call(d3.axisLeft(y).tickSize(-width*1.3).ticks())
             .select('.domain').remove();
         
-        //plotting background customization (ggplot2 styling)
+        //appending background styling to svg
         svg.selectAll('.tick line').attr('stroke','white')
         
-        //defining tooltip
+        //defining/styling on-hover tooltip
         var Tooltip = d3.select("#container")
         .append('div')
         .style("opacity", 0.9)
@@ -173,7 +173,7 @@ function drawGraphic(group,question,agg) {
                 .style("opacity", 1)
         }
         
-        //adding the bars
+        //appending bars to svg
         svg
             .append("g")
             .selectAll("g")
@@ -193,7 +193,7 @@ function drawGraphic(group,question,agg) {
             .attr("width", xSubgroup.bandwidth())
             .attr("fill", function(graphData) { return color(graphData.key); });
         
-        //adding title label
+        //appending/styling title label
         svg
             .append("text")
             .attr("x", (width / 2))
@@ -203,7 +203,7 @@ function drawGraphic(group,question,agg) {
             .style("text-decoration", "underline")
             .text(question + " (" + group + ")");
         
-        //text label for the x axis
+        //appending/styling label for the x axis
         svg
             .append("text")
             .attr("transform","translate(" + (width/2) + " ," + (height + 27.5) + ")")
@@ -212,7 +212,7 @@ function drawGraphic(group,question,agg) {
             .style("text-decoration", "underline")
             .text("Response");
         
-        // text label for the y axis
+        //appending/styling label for the y axis
         svg
             .append("text")
             .attr("transform", "rotate(-90)")
@@ -226,8 +226,10 @@ function drawGraphic(group,question,agg) {
     });
 };
 
-//setting a timer to keep the chart from constantly resizing
+//defining a timer for chart resizing
 var resizeTimer;
+
+//function to resize charts when window resizes
 window.onresize = function(event) 
 {
     clearTimeout(resizeTimer);
@@ -237,5 +239,5 @@ window.onresize = function(event)
         s = s.remove();
         set_vars();
         drawGraphic();
-        }, 100);
+        }, 30);
 }
