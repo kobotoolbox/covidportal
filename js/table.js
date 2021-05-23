@@ -1,4 +1,4 @@
-//pulling .csv file from github repo and parsing
+//parsing csv file using Papa parse
 Papa.parse(url, 
 {
         download: true,
@@ -10,7 +10,7 @@ Papa.parse(url,
         }
 });
 
-//generating html datatable
+//htmlTableGenerator produces an html table from the parced csv
 function htmlTableGenerator(content)
 {
     let csv_preview = document.getElementById('data-table');
@@ -44,10 +44,8 @@ function htmlTableGenerator(content)
                 html += '</tr>';
             }
         });
-
         html += '</tbody>';
         html += '</table>';
-
         csv_preview.innerHTML = html;
     }
 }
