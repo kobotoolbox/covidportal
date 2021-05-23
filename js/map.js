@@ -1,3 +1,4 @@
+//defining datamap
 var map = new Datamap(
   {
     element: document.getElementById("map"),
@@ -5,6 +6,7 @@ var map = new Datamap(
     responsive: true,
     fills:
     {
+      //defining fill colors
       defaultFill: '#C8DCE7',
       EXTRA_HIGH: '#2B5487',
       HIGH: '#008DC9',
@@ -46,6 +48,7 @@ var map = new Datamap(
     },
     geographyConfig: 
     {
+      //defining popup
       popupTemplate: function(geography, data) 
       {
         return ['<div class = "hoverinfo"><strong>',
@@ -56,13 +59,13 @@ var map = new Datamap(
     },
     done: function(datamap) 
     {
-      //on-click function
+      //defining on-click behaviour
       datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) 
       {
         window.open(geography.properties.name + "_landing_page.html");
       });
       
-      //zoom function
+      //defining zoom functionality
       datamap.svg.call(d3.behavior.zoom().on("zoom", redraw));
       function redraw() 
       {
@@ -71,6 +74,7 @@ var map = new Datamap(
     }
   });
 
+//adding listener for page resize
 window.addEventListener("resize", function() 
 {
   map.resize();
