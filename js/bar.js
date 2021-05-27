@@ -118,7 +118,7 @@ function drawGraphic(group,question,agg) {
         var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
         
         //defining single color for non-aggregated charts (single bar)
-        if (agg == "Total")
+        if (agg == "Total" || "1")
         {
             var colors = ['#5CC6F2']
         }
