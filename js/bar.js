@@ -90,6 +90,26 @@ function drawGraphic(group,question,agg) {
         {
             var subgroups = [data.columns.slice(2)[6]]
         }
+        if (agg == "6")
+        {
+            var subgroups = [data.columns.slice(2)[7]]
+        }
+        if (agg == "7")
+        {
+            var subgroups = [data.columns.slice(2)[8]]
+        }
+        if (agg == "8")
+        {
+            var subgroups = [data.columns.slice(2)[9]]
+        }
+        if (agg == "9")
+        {
+            var subgroups = [data.columns.slice(2)[10]]
+        }
+        if (agg == "10")
+        {
+            var subgroups = [data.columns.slice(2)[11]]
+        }        
         
         //extracting groups for color scale
         var groups = d3.map(graphData, function(d){return(d.response)}).keys()
