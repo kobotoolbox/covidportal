@@ -69,6 +69,28 @@ function drawGraphic(group,question,agg) {
             var subgroups = subset
         }
         
+        //specific aggregation levels (single bar)
+        if (agg == "1")
+        {
+            var subgroups = [data.columns.slice(2)[2]]
+        }
+        if (agg == "2")
+        {
+            var subgroups = [data.columns.slice(2)[3]]
+        }
+        if (agg == "3")
+        {
+            var subgroups = [data.columns.slice(2)[4]]
+        }
+        if (agg == "4")
+        {
+            var subgroups = [data.columns.slice(2)[5]]
+        }
+        if (agg == "5")
+        {
+            var subgroups = [data.columns.slice(2)[6]]
+        }
+        
         //extracting groups for color scale
         var groups = d3.map(graphData, function(d){return(d.response)}).keys()
         
