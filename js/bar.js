@@ -116,12 +116,52 @@ function drawGraphic(group,question,agg) {
         
         //defining color palette (WHO)
         var colors = ['#90DEFF', '#5CC6F2', '#008DC9', '#2B5487','#7B7F97','#ACAFC5','#D3D5E2','#EBEDF4']
-        
-        //defining single color for non-aggregated charts (single bar)
+  
+        //defining single colors for single bar charts (Totals + Various Aggregates)
         if (agg == "Total")
         {
             var colors = ['#5CC6F2']
         }
+        if (agg == "1")
+        {
+            var colors = ['#90DEFF']
+        }
+        if (agg == "2")
+        {
+            var colors = ['#008DC9']
+        }
+        if (agg == "3")
+        {
+            var colors = ['#2B5487']
+        }
+        if (agg == "4")
+        {
+            var colors = ['#7B7F97']
+        }
+        if (agg == "5")
+        {
+            var colors = ['#ACAFC5']
+        }
+        if (agg == "6")
+        {
+            var colors = ['#D3D5E2']
+        }
+        if (agg == "7")
+        {
+            var colors = ['#EBEDF4']
+        }
+        if (agg == "8")
+        {
+            var colors = ['#90DEFF']
+        }
+        if (agg == "9")
+        {
+            var colors = ['#5CC6F2']
+        }   
+        if (agg == "10")
+        {
+            var colors = ['#008DC9']
+        }          
         
         //defining color scale
         var color = d3.scaleOrdinal()
