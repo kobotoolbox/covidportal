@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Data Page - WHO COVID-19 Perception Research Portal</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href = "css/styles.css" rel = "stylesheet">
+  
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
+    <a class="navbar-brand" href="https://www.who.int/">
+      <img src="https://raw.githubusercontent.com/kobotoolbox/covidportal/main/img/who_logo.png">
+    </a>
+    <form class = "form-inline">
+    <div class="input-group">
+        <input class="form-control" type="search" placeholder="Search for a report">
+        <div class="input-group-append">
+          <button class="btn btn-outline-secondary border-left-0 border" type="button">
+                  <i class="fa fa-search"></i>
+            </button>
+        </div>
+    </div>
+  </form>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item-active">
+        <a class="nav-link" href="index.html">ABOUT</a>
+        </li>
+        <li class="nav-item-active">
+          <a class="nav-link" href="index.html">TECHNICAL GUIDANCE</a>
+        </li>
+        <li class="nav-item">
+          <button class="btn btn-primary" type="submit"><b>CONTRIBUTE DATA</b></button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- Sidebar -->
+<div id="mySidenav" class="sidenav">
+  <br>
+  <center><h4 class = "nav-item nav-link disabled",style = "font-size: 1vw">DALLAS, MARCH 2017; HHI</h4></center>  
+  <a style = "text-align: left; font-size: 2.5vw" href="dallas_mar_17_summary.html" class = "nav-item nav-link active">SUMMARY</a>
+  <a style = "text-align: left; font-size: 2.5vw" href="dallas_mar_17_report.html" class = "nav-item nav-link disabled">REPORT</a>
+  <a style = "text-align: left; font-size: 2.5vw" href="dallas_mar_17_table.html" class = "nav-item nav-link active">TABLE</a>
+  <a style = "text-align: left; font-size: 2.5vw"href="https://github.com/kobotoolbox/covidportal/blob/main/data/USA/Dummy_Data/dallas_mar_17.xlsx?raw=true" class = "nav-item nav-link active">DOWNLOAD</a>  
+  </div>
+
+<!-- Page Content -->
+<body>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <script type="text/javascript" src="https://unpkg.com/papaparse@5.3.0/papaparse.min.js"></script>  
+  <div id = "container" class = "table-container">
+  <div style = "display: inline;">
+  <br>
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report.html'" type="submit"><b>TOTAL RESPONSES</b></button>
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_agg.html'" type="submit"><b>AGGREGATED RESPONSES</b></button>
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_1.html'" type="submit"><b>REGION 1</b></button>
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_2.html'" type="submit"><b>REGION 2</b></button>  
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_3.html'" type="submit"><b>REGION 3</b></button>
+  <button class="btn btn-primary" onclick="location.href='dallas_mar_17_report_4.html'" type="submit"><b>REGION 4</b></button>  
+  <br><br>    
+    <script src="js/bar.js"></script>
+    <script src="js/auto.js"></script>
+    <script> csv = "https://raw.githubusercontent.com/kobotoolbox/covidportal/main/data/USA/Dummy_Data/dallas_mar_17.csv" </script>
+    <script> autoDraw(csv,'3') </script>
+  </div>
+</body>
+  
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.slim.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  
+</body>
+</html>
