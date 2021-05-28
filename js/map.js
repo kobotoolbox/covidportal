@@ -62,7 +62,7 @@ var map = new Datamap(
       //defining on-click behaviour
       datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) 
       {
-        window.open(geography.properties.name + "_landing_page.html");
+        window.location.href = geography.properties.name + "_landing_page.html";
       });
       
       //defining zoom functionality
